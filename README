@@ -1,0 +1,4 @@
+Open Brain is a Python based set of tools for Neuronal data analysis and simulation.
+Currently I am focused on the single unit spike train analysis. 
+My next step would be multiple sinle unit spike trains and lfp data.
+
