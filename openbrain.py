@@ -1,19 +1,25 @@
 
+ExperimentType = set('cylinder.ABD', 'rds.OT')
+
+
 class OBDBO(object):
     """ Open Brain Data Base Object base """
-    pass
-
+    def __init__(self):
+        pass
+    
 class Monkey(OBDBO):
-    pass
-
-class Neuron(OBDBO):
-    pass
+    def __init__(self, name):
+        self.name = name
 
 class Experiment(OBDBO):
-    pass
+    def __init__(self, name, experimentType):
+        self.name = name
+        self.experimentType = experimentType
 
-class ExperimentType(OBDBO):
-    pass
+class Neuron(OBDBO):
+    def __init__(self, name, experimentname):
+        self.name = name
+        self.experimentName = experiment
 
 class Trial(OBDBO):
     pass
@@ -24,5 +30,27 @@ class SpikeTrain(OBDBO):
 class Stimulus(OBDBO):
     pass
 
+class OpenBrain(object):
+    def __init__(self, dataPath='./'):
+        f = open(dataPath + 'Monkeys.txt')
+        allLines = f.readlines()
+        self.Monkeys = [];
+        for ll in allLines:
+            self.Monkeys.append(Monkey(ll[0:-1]))
+        f.close()
 
+        self.Experiments = [];
+        f = open(dataPath + 'Experiments.txt')
+        allLines = f.readlines()
+        for ee in allLines:
+            self.Experiments.append(Experiment(ee.split()[0], ee.split()[1]))
+        f.close()
+
+        self.Neurons = [];
+        f = open(dataPath + 'Neurons.txt')
+        allLines = f.readlines()
+        for nn in allLines:
+            mnk = 
+            self.Neurons.append(Neuron(nn.split()[0], nn.split()[1]))
+        f.close()
 
