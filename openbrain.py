@@ -1,5 +1,5 @@
 from BFileImport import BFileImport
-from numpy import squeeze
+from numpy import *
 
 ExperimentType = set(['cylinder.ABD', 'rds.OT'])
 
@@ -27,9 +27,13 @@ class Experiment(OBDBO):
         a, b, c, d = BFileImport(filename)
         self.Trials = []
         for tt in d:
-            self.Trials.append(Trial(tt['id'][0][0], tt, self)) 
+            self.Trials.append(Trial(self)) 
             for dtn in tt.dtype.names:
-                exec("self.Trials[-1]." + dtn + " = squeeze(tt['" + dtn + "'])")
+                try:
+                    exec("self.Trials[-1]." + dtn + " = squeeze(tt['" + dtn + "']) + 0.0")
+                except:
+                    exec("self.Trials[-1]." + dtn + " = squeeze(tt['" + dtn + "'])")
+                
         print 'Got ' + self.Trials.__len__().__str__() + ' trials!'
 
 class Neuron(OBDBO):
@@ -39,10 +43,8 @@ class Neuron(OBDBO):
         self.experimentName = experimentname
 
 class Trial(OBDBO):
-    def __init__(self, id, data, parent):
+    def __init__(self, parent):
         self.parent = parent
-        self.id = id
-        self.data = data
 
 class SpikeTrain(OBDBO):
     pass
