@@ -1,4 +1,5 @@
 from BFileImport import BFileImport
+from numpy import squeeze
 
 ExperimentType = set(['cylinder.ABD', 'rds.OT'])
 
@@ -24,6 +25,12 @@ class Experiment(OBDBO):
         filename = self.parent.spikeDataPath + self.name[3:6] + '/' +  self.name
         print filename 
         a, b, c, d = BFileImport(filename)
+        self.Trials = []
+        for tt in d:
+            self.Trials.append(Trial(tt['id'][0][0], tt, self)) 
+            for dtn in tt.dtype.names:
+                exec("self.Trials[-1]." + dtn + " = squeeze(tt['" + dtn + "'])")
+        print 'Got ' + self.Trials.__len__().__str__() + ' trials!'
 
 class Neuron(OBDBO):
     def __init__(self, name, experimentname, parent):
@@ -32,7 +39,10 @@ class Neuron(OBDBO):
         self.experimentName = experimentname
 
 class Trial(OBDBO):
-    pass
+    def __init__(self, id, data, parent):
+        self.parent = parent
+        self.id = id
+        self.data = data
 
 class SpikeTrain(OBDBO):
     pass
@@ -40,6 +50,7 @@ class SpikeTrain(OBDBO):
 class Stimulus(OBDBO):
     pass
 
+#################################################################################################
 class OpenBrain(object):
     def __init__(self, dataPath='./', spikeDataPath='/bgc/data/dae/'):
         self.spikeDataPath = spikeDataPath
