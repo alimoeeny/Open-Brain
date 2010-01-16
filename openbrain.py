@@ -38,9 +38,25 @@ class Experiment(OBDBO):
 
     def TrialDuration(self):
         durations = []
-        for i in range(0, self.Trials.__len()):
+        for i in range(0, self.Trials.__len__()):
             durations = self.Trials[i].dur
         return median(array(durations))
+    
+    def getValuesFor(self, CategorizeBy):
+        values = set([])
+        for i in range(0, self.Trials.__len__()):
+            exec('values.add(self.Trials[' + i.__str__() + '].' + CategorizeBy + ')')
+        return list(values)
+
+    def getTrialsWith(self, CategorizeBy, catValue):
+        r = []
+        for i in range(0, self.Trials.__len__()):
+            if eval('self.Trials[' + i.__str__() + '].' + CategorizeBy ) == catValue :
+                r.append(i) #(True)
+#            else:
+#                r.append(False)
+#        print 'Cat:' + CategorizeBy + ' = ' + catValue.__str__() 
+        return r
 
 class Neuron(OBDBO):
     def __init__(self, name, experimentname, parent):
