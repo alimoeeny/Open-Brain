@@ -1,57 +1,45 @@
-from BFileImport import *
 from numpy import *
 from pylab import *
 from openbrain import *
 
-def PlotPSTH(filename, Start=0, Finish=0, SmoothWinLength=10):
-     Expt, ExptHeader, ExptStimvals, ExptTrials = BFileImport(filename)
-     offset = 200
-     if Finish == 0:
-         Finish = round(d['dur'].max()[0][0]/10) + offset
-
-     psth = zeros((ExptTrials.size, Finish - Start + offset))
-     for i in range(0, ExptTrials.size):
-         for j in range(0, ExptTrials[i]['Spikes'].size):
-             st = round(ExptTrials[i]['Spikes'][j]/10)
-             if (st >= Start) & (st < Finish) :
-                 psth[i,st - Start + offset] = 1.0
-
-     psthM = zeros((psth.shape[1]))
-     for i in range(0, psth.shape[1]):
-          psthM[i] = psth[:,i].mean()
-     
-     SmoothingKernel = zeros((SmoothWinLength*2))
-     SmoothingKernel[0:SmoothWinLength-1] = 1
-     psthM = convolve(psthM, SmoothingKernel)
-
+def PlotPSTH(experiments, Start=0, Finish=0, SmoothWinLength=10, NormalizeResponses=0):
+     """ PlotPSTH(experiments, Start=0, Finish=0, SmoothWinLength=10) Gets a numpy ARRAY of OpenBrain.experiments and plots their average PSTHs. 
+NormalizeResponse: 0 means no normalization, 1 means using the square root of responses (this is effectivly a variance normazliation, 2 means normalization by division by mean of responses, 3 means subtraction of mean and division by max - min 
+"""
      figure(),
-     plot(psthM)
+     for expt in experiments:
+          offset = 200
+          if Finish == 0:
+               Finish = expt.TrialDuration + offset
+
+          psth = zeros((expt.Trials.__len__(), Finish - Start + offset))
+          for i in range(0, expt.Trials.__len__()):
+               if size(expt.Trials[i].Spikes)>1:
+                    for j in range(0, expt.Trials[i].Spikes.__len__()):
+                         st = round(expt.Trials[i].Spikes[j]/10)
+                         if (st >= Start) & (st < Finish) :
+                              psth[i,st - Start + offset] = 1.0
+
+          psthM = zeros((psth.shape[1]))
+          for i in range(0, psth.shape[1]):
+               psthM[i] = psth[:,i].mean()
+          
+          if NormalizeResponses==1:
+               for i in range(0, psthM.shape[0]):
+                    psthM[i] = sqrt(psthM[i])
+          elif NormalizeResponses ==2:
+               m = psthM.mean()
+               for i in range(0, psthM.shape[0]):
+                    psthM[i] = psthM[i] / m
+          elif NormalizeResponses == 3:
+               m = psthM.mean()
+               d = psthM.max() - psthM.min()
+               for i in range(0, psthM.shape[0]):
+                    psthM[i] = (psthM[i] - m ) / d
+
+          SmoothingKernel = zeros((SmoothWinLength*2))
+          SmoothingKernel[0:SmoothWinLength-1] = 1
+          psthM = convolve(psthM, SmoothingKernel)
+
+          plot(psthM)
      show()
-
-def PlotPSTH(experiment, Start=0, Finish=0, SmoothWinLength=10):
-     offset = 200
-     if Finish == 0:
-         Finish = 2000 # for now round(experiment['dur'].max()[0][0]/10) + offset
-
-     psth = zeros((experiment.Trials.__len__(), Finish - Start + offset))
-     for i in range(0, experiment.Trials.__len__()):
-          if size(experiment.Trials[i].Spikes)>1:
-               for j in range(0, experiment.Trials[i].Spikes.__len__()):
-                    #print 'i: ' + i.__str__() + ' , j: ' + j.__str__()
-                    st = round(experiment.Trials[i].Spikes[j]/10)
-                    if (st >= Start) & (st < Finish) :
-                         psth[i,st - Start + offset] = 1.0
-
-     psthM = zeros((psth.shape[1]))
-     for i in range(0, psth.shape[1]):
-          psthM[i] = psth[:,i].mean()
-     
-     SmoothingKernel = zeros((SmoothWinLength*2))
-     SmoothingKernel[0:SmoothWinLength-1] = 1
-     psthM = convolve(psthM, SmoothingKernel)
-
-     figure(),
-     plot(psthM)
-     #figimage(rpi)
-     show()
-

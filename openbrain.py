@@ -29,15 +29,18 @@ class Experiment(OBDBO):
         for tt in d:
             self.Trials.append(Trial(self)) 
             for dtn in tt.dtype.names:
-                if dtn in set(['Spikes',]):
+                try:
+                    exec("self.Trials[-1]." + dtn + " = squeeze(tt['" + dtn + "']) + 0.0")
+                except:
                     exec("self.Trials[-1]." + dtn + " = squeeze(tt['" + dtn + "'])")
-                else:
-                    try:
-                        exec("self.Trials[-1]." + dtn + " = squeeze(tt['" + dtn + "']) + 0.0")
-                    except:
-                        exec("self.Trials[-1]." + dtn + " = squeeze(tt['" + dtn + "'])")
                 
         print 'Got ' + self.Trials.__len__().__str__() + ' trials!'
+
+    def TrialDuration(self):
+        durations = []
+        for i in range(0, self.Trials.__len()):
+            durations = self.Trials[i].dur
+        return median(array(durations))
 
 class Neuron(OBDBO):
     def __init__(self, name, experimentname, parent):
