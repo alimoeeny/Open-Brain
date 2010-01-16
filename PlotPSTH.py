@@ -35,21 +35,23 @@ NormalizeResponse: 0 means no normalization, 1 means using the square root of re
 
           if NormalizeResponses==1:
                for i in range(0, psthM.shape[0]):
-                    psthM[i] = sqrt(psthM[i])
+                    for j in range(0, psthM.shape[1]):
+                         psthM[i,j] = sqrt(psthM[i,j])
           elif NormalizeResponses ==2:
-               m = psthM.mean()
                for i in range(0, psthM.shape[0]):
-                    psthM[i] = psthM[i] / m
+                    m = psthM[i,:].mean()
+                    for j in range(0, psthM.shape[1]):
+                         psthM[i,j] = psthM[i,j] / m
           elif NormalizeResponses == 3:
-               m = psthM.mean()
-               d = psthM.max() - psthM.min()
                for i in range(0, psthM.shape[0]):
-                    psthM[i] = (psthM[i] - m ) / d
+                    m = psthM[i,:].mean()
+                    d = psthM[i,:].max() - psthM[i,:].min()
+                    for j in range(0, psthM.shape[1]):
+                         psthM[i,j] = (psthM[i,j] - m ) / d
 
           SmoothingKernel = zeros((SmoothWinLength*2))
           SmoothingKernel[0:SmoothWinLength-1] = 1
           for i in range(0, psthM.shape[0]):
                psthM[i,:] = convolve(psthM[i,:], SmoothingKernel)[SmoothWinLength/2:SmoothWinLength/2+psthM[i,:].__len__()]
-          print psthM.shape
           plot(psthM.transpose())
      show()
