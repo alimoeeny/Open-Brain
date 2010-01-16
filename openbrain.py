@@ -29,10 +29,13 @@ class Experiment(OBDBO):
         for tt in d:
             self.Trials.append(Trial(self)) 
             for dtn in tt.dtype.names:
-                try:
-                    exec("self.Trials[-1]." + dtn + " = squeeze(tt['" + dtn + "']) + 0.0")
-                except:
+                if dtn in set(['Spikes',]):
                     exec("self.Trials[-1]." + dtn + " = squeeze(tt['" + dtn + "'])")
+                else:
+                    try:
+                        exec("self.Trials[-1]." + dtn + " = squeeze(tt['" + dtn + "']) + 0.0")
+                    except:
+                        exec("self.Trials[-1]." + dtn + " = squeeze(tt['" + dtn + "'])")
                 
         print 'Got ' + self.Trials.__len__().__str__() + ' trials!'
 
