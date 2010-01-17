@@ -46,16 +46,22 @@ class Experiment(OBDBO):
         values = set([])
         for i in range(0, self.Trials.__len__()):
             exec('values.add(self.Trials[' + i.__str__() + '].' + CategorizeBy + ')')
-        return list(values)
+        a = list(values)
+        a.sort()
+        return a
 
-    def getTrialsWith(self, CategorizeBy, catValue):
+    def getTrialsWith(self, CategorizeBy, catValue, Operator=None):
         r = []
         for i in range(0, self.Trials.__len__()):
-            if eval('self.Trials[' + i.__str__() + '].' + CategorizeBy ) == catValue :
-                r.append(i) #(True)
-#            else:
-#                r.append(False)
-#        print 'Cat:' + CategorizeBy + ' = ' + catValue.__str__() 
+            if Operator==None:
+                if eval('self.Trials[' + i.__str__() + '].' + CategorizeBy ) == catValue :
+                    r.append(i)
+            elif Operator=="greaterthan":
+                if eval('self.Trials[' + i.__str__() + '].' + CategorizeBy ) > catValue :
+                    r.append(i)
+            elif Operator=="lessthan":
+                if eval('self.Trials[' + i.__str__() + '].' + CategorizeBy ) < catValue :
+                    r.append(i)
         return r
 
 class Neuron(OBDBO):
