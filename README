@@ -4,3 +4,11 @@ Currently I am focused on the single unit spike train analysis.
 
 My next step would be multiple single unit spike trains and lfp data.
 
+Installation notes:
+I am developing on Snow Leoprad, Python 2.6 
+Originally I installed scipy and numpy and matplotlib using the super pack, but then I needed to try wxPython so I messed up all my Python installations so I straighten everything by installing python2.6 and py26-scipy and py26-matplotlib and py26-numpy using macports.
+I use MaxOSX as the backend for matplotlib but any other backend should work.
+
+I am adding MyBrain as a GUI to the OpenBrain, for now as wxPython has problems with Snow Leoprad and Python 64bit I am using Tkinter but my plan is to switch to wxPython as it would give a lot more felxibility.
+
+ 
