@@ -21,10 +21,11 @@ class Experiment(OBDBO):
         self.monkeyName = monkeyname
         self.experimentType = experimentType
 
-    def loadData(self):
-        filename = self.parent.spikeDataPath + self.name[3:6] + '/' +  self.name
-        print filename 
-        a, b, c, d = BFileImport(filename)
+    def loadData(self, fileName=None):
+        if (fileName == None) :
+            fileName = self.parent.spikeDataPath + self.name[3:6] + '/' +  self.name
+        print fileName 
+        a, b, c, d = BFileImport(fileName)
  
         for sv in c.dtype.names:
             if sv in set(['or', 'and', 'if', 'in', 'is']):
@@ -75,7 +76,7 @@ class Experiment(OBDBO):
         a.sort()
         return a
 
-    def getTrialsWith(self, CategorizeBy, catValue, Operator=None):
+    def getTrialsWith(self, CategorizeBy, catValue, operator=None, nextVariable=None, nextValue=None, nextOperator=None):
         r = []
         if (CategorizeBy.lower() == 'block'):
             blockStart = catValue
@@ -88,15 +89,30 @@ class Experiment(OBDBO):
                     r.append(i)
         else:
             for i in range(0, self.Trials.__len__()):
-                if Operator==None:
+                if operator==None:
                     if eval('self.Trials[' + i.__str__() + '].' + CategorizeBy ) == catValue :
                         r.append(i)
-                elif Operator=="greaterthan":
+                elif operator=="greaterthan":
                     if eval('self.Trials[' + i.__str__() + '].' + CategorizeBy ) > catValue :
                         r.append(i)
-                elif Operator=="lessthan":
+                elif operator=="lessthan":
                     if eval('self.Trials[' + i.__str__() + '].' + CategorizeBy ) < catValue :
                         r.append(i)
+        if (nextVariable!=None):
+            rr = []
+            for i in range(r.__len__()):
+                if nextOperator==None:
+#                    print 'self.Trials[' + r[i].__str__() + '].' + nextVariable
+#                    print eval('self.Trials[' + r[i].__str__() + '].' + nextVariable)
+                    if eval('self.Trials[' + r[i].__str__() + '].' + nextVariable ) == nextValue :
+                        rr.append(r[i])
+                elif nextOperator=="greaterthan":
+                    if eval('self.Trials[' + r[i].__str__() + '].' + nextVariable ) > nextValue :
+                        rr.append(r[i])
+                elif nextOperator=="lessthan":
+                    if eval('self.Trials[' + r[i].__str__() + '].' + nextVariable ) < nextValue :
+                        rr.append(r[i])
+            r = rr
         return r
 
 class Neuron(OBDBO):

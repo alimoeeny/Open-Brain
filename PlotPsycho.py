@@ -2,14 +2,20 @@ from BFileImport import *
 from numpy import *
 from pylab import *
 
-def PlotPsycho(experiments, StimulusVariable, MergeBlocks=True):
+def PlotPsycho(experiments, StimulusVariable, SecondVariable=None, MergeBlocks=True):
      figure(),
      for expt in experiments:
           if MergeBlocks:
                dxs = expt.getValuesFor(StimulusVariable)
-               perfo = zeros((dxs.__len__(), 3))
+               if (SecondVariable!=None):
+                    sxs = expt.getValuesFor(SecondVariable)
+               
+               if (SecondVariable!=None):
+                    perfo = zeros((dxs.__len__(), sxs.__len__(), 3))
+               else:
+                    perfo = zeros((dxs.__len__(), 3))
 
-               seltrials = expt.getTrialsWith(StimulusVariable, 0, "greaterthan")
+               seltrials = expt.getTrialsWith(StimulusVariable, 0, operator="greaterthan")
                s = 0
                for t in array(expt.Trials)[seltrials]: 
                     s = s + t.RespDir
@@ -20,21 +26,41 @@ def PlotPsycho(experiments, StimulusVariable, MergeBlocks=True):
                     ResponseToPositive = -1;
                     ResponseToNegative = 1;
 
-               for i in range(0, dxs.__len__()):
-                    seltrials = expt.getTrialsWith(StimulusVariable, dxs[i])
-                    s = 0
-                    for t in array(expt.Trials)[seltrials]: 
-                         if t.RespDir==ResponseToPositive: 
-                              s = s + 1
-                    perfo[i,0] = s #sum(array(expt.Trials)[seltrials]['RespDir']==ResponseToPositive)
-                    s = 0
-                    for t in array(expt.Trials)[seltrials]: 
-                         if t.RespDir!=0: 
-                              s = s + 1
-                    perfo[i,1] = s #sum(array(expt.Trials)[seltrials]['RespDir']!=0)
-                    perfo[i,2] = sqrt(perfo[i,0] * (1 - perfo[i,0] / perfo[i,1]))
-               print dxs
-               errorbar(dxs, perfo[:,0], yerr=perfo[:,2], marker='o', mfc='red', mec='red', ms=10, mew=2)
+               if (SecondVariable==None):
+                    for i in range(0, dxs.__len__()):
+                         seltrials = expt.getTrialsWith(StimulusVariable, dxs[i])
+                         s = 0
+                         for t in array(expt.Trials)[seltrials]: 
+                              if t.RespDir==ResponseToPositive: 
+                                   s = s + 1
+                         perfo[i,0] = s #sum(array(expt.Trials)[seltrials]['RespDir']==ResponseToPositive)
+                         s = 0
+                         for t in array(expt.Trials)[seltrials]: 
+                              if t.RespDir!=0: 
+                                   s = s + 1
+                         perfo[i,1] = s #sum(array(expt.Trials)[seltrials]['RespDir']!=0)
+                         perfo[i,2] = sqrt(perfo[i,0] * (1 - perfo[i,0] / perfo[i,1]))
+                         print dxs
+                         errorbar(dxs, perfo[:,0], yerr=perfo[:,2], marker='o', mfc='red', mec='red', ms=10, mew=2)
+               else:
+                    for i in range(0, dxs.__len__()):
+                         for j in range(0, sxs.__len__()):
+                              seltrials = expt.getTrialsWith(StimulusVariable, dxs[i], nextVariable=SecondVariable, nextValue = sxs[j])
+                              if seltrials.__len__() > 0:
+                                  s = 0
+                                  for t in array(expt.Trials)[seltrials]: 
+                                      if t.RespDir==ResponseToPositive: 
+                                          s = s + 1
+                                  perfo[i,0] = s #sum(array(expt.Trials)[seltrials]['RespDir']==ResponseToPositive)
+                                  s = 0
+                                  for t in array(expt.Trials)[seltrials]: 
+                                      if t.RespDir!=0: 
+                                          s = s + 1
+                                  perfo[i,1] = s #sum(array(expt.Trials)[seltrials]['RespDir']!=0)
+                                  perfo[i,2] = sqrt(perfo[i,0] * (1 - perfo[i,0] / perfo[i,1]))
+                                  print dxs
+                                  errorbar(dxs, perfo[:,0], yerr=perfo[:,2], marker='o', mfc='red', mec='red', ms=10, mew=2)
+
           else: # if !MergeBlocks
                for blk in expt.BlockStart[0]:
                     blockTrials = expt.getTrialsWith('block', blk)

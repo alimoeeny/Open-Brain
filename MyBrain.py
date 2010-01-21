@@ -26,6 +26,16 @@ class App:
 
         self.DoIt = Button(frame, text="Do It Now!", fg="blue", command=self.DoItNow)
         self.DoIt.pack(side=RIGHT)
+        self.openBrainInit()
+
+    def openBrainInit(self):
+        self.Brain = OpenBrain()
+        for expt in self.Brain.Experiments:
+            self.exptListbox.insert(END, expt.name)
+
+        for p in ['PSTH', 'Psych', 'AutoCorrelogram']:
+            self.procListbox.insert(END, p)
+ 
         
     def say_hi(self):
         print "hi there, everyone!"
@@ -41,17 +51,10 @@ class App:
 
 
 if __name__ == "__main__":
-    Brain = OpenBrain()
-
 
     #make a main window
     root = Tk()
     app = App(root) 
-    for expt in Brain.Experiments:
-        app.exptListbox.insert(END, expt.name)
-
-    for p in ['PSTH', 'Psych', 'AutoCorrelogram']:
-        app.procListbox.insert(END, p)
 
     #main loop for the main window
     root.mainloop()
