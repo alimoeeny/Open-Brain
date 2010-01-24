@@ -25,11 +25,17 @@ class MyBrain:
 		#Create our dictionay and connect it
 		dic = {"on_mainWindow_destroy" : gtk.main_quit,
 				"on_AddWine" : self.OnAddWine,
-				"exptViewSelectionChange": self.showExperimentProperties}
+				"exptViewSelectionChange": self.showExperimentProperties, 
+				"runButtonClick": self.runTheCommand,
+				"xPropertyCombobox_changed_cb" : self.xPropChanged,
+				"yPropertyCombobox_changed_cb" : self.yPropChanged}
+
 		self.wTree.signal_autoconnect(dic)
 		
 		#Get the treeView from the widget Tree
 		self.exptView = self.wTree.get_widget("exptView")
+		self.xPropertyCombo = self.wTree.get_widget("xPropertyCombobox")
+		self.yPropertyCombo = self.wTree.get_widget("yPropertyCombobox")
 		#Add all of the List Columns to the exptView
 		self.AddexptListColumn("Name", 0)
 		self.AddexptListColumn("Type", 1)
@@ -38,13 +44,27 @@ class MyBrain:
 		self.AddexptListColumn("id", 4)	
 		#Create the listStore Model to use with the exptView
 		self.exptList = gtk.ListStore(str, str, str, str, str)
+		self.xPropList = gtk.ListStore(str)
+		self.yPropList = gtk.ListStore(str)
 		#Attache the model to the treeView
 		self.exptView.set_model(self.exptList)	
-		
+		self.xPropertyCombo.set_model(self.xPropList)
+		self.yPropertyCombo.set_model(self.yPropList)
+
 		self.LoadExperimentsList()
 		self.exptSelection = self.exptView.get_selection()
 		self.exptSelection.set_mode(gtk.SELECTION_MULTIPLE)		
 
+	def xPropChanged(self,a):
+		if not self.removingItems:
+			print "xPropChanged!?"
+
+	def yPropChanged(self,a):
+		if not self.removingItems:
+			print "yPropChanged!?"
+
+	def runTheCommand(self, a):
+		print "Run!?"
 
 	def showExperimentProperties(self, a, b):
 		sel = self.exptSelection.get_selected_rows()
@@ -58,15 +78,25 @@ class MyBrain:
 			Brain.Experiments[int(bx)].loadData()		
 			BX.append(Brain.Experiments[int(bx)])
 		experimentProperties = self.getExperimentProperties(BX)		
-		print experimentProperties
+		#print experimentProperties
+		try:
+			self.removingItems = True
+			for i in range(0, 10000):
+				self.xPropertyCombo.remove_text(0)
+				self.yPropertyCombo.remove_text(0)
+		except:
+			self.removingItems = False
+		for ep in experimentProperties:
+			self.xPropertyCombo.append_text(ep)
+			self.yPropertyCombo.append_text(ep)
 
 	def getExperimentProperties(self, experiments):
-		expProperties = []		
+		expProperties = set([])		
 		for ex in experiments:
 			for ep in dir(ex):
 				if ep[0] != '_' and not(ep in expProperties) :
-					expProperties.append(ep)
-		return expProperties
+					expProperties.add(ep)
+		return sort(list(expProperties))
 
 	def LoadExperimentsList(self):
 		for expt in Brain.Experiments:
