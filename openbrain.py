@@ -2,7 +2,8 @@ from BFileImport import BFileImport
 from numpy import *
 
 ExperimentType = set(['cylinder.ABD', 'rds.OT'])
-
+OBPlotColors = ['red', 'blue', 'green', 'black', 'magenta', 'cyan', 'yellow']
+OBPlotMarkers = [ '+', '*', '1', '2', '3', '4', '<', '>', 'D', 'H', '^', '_', 'd', 'h', 'o', 'p', 's', 'v', 'x', '|', 'TICKUP', 'TICKDOWN', 'TICKLEFT', 'TICKRIGHT']
 
 class OBDBO(object):
     """ Open Brain Data Base Object base """

@@ -1,0 +1,9 @@
+Currently I am focused on the single unit spike train analysis. 
+
+My next step would be multiple single unit spike trains and lfp data.
+
+I am adding "MyBrain" as a GUI to the OpenBrain, for now as wxPython has problems with Snow Leopard and Python 64bit I am using Tkinter but my plan is to switch to wxPython as it would give a lot more flexibility.
+
+Basically my plan for MyBrain! is to make an Experiment Explorer in which user can see all the parameters in an experiment and select trials based on the conditions set on the parameters and then can do analysis or viualization on the selection or grouping.
+ 
+So I need a list of all the experiments with a filtering mechanism that let's me select experiments based on their properties (Moneky, Experiment Type [ABD, OT, ...], Neuron, ) AND allows manual selection by a check box or just highlighting mechanism. In addition to that I'd be needing a mechanism with which I can select trials in the experiments I selected based on their properties, so I need to display a list of properties shared between trials as well as the expeirment name and type (also as properties). Then I need a mechanism to add trial groups that let the user create trial groups that 

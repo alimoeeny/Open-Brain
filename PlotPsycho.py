@@ -1,6 +1,7 @@
 from BFileImport import *
 from numpy import *
 from pylab import *
+from openbrain import OBPlotColors, OBPlotMarkers
 
 def PlotPsycho(experiments, StimulusVariable, SecondVariable=None, MergeBlocks=True):
      figure(),
@@ -10,11 +11,6 @@ def PlotPsycho(experiments, StimulusVariable, SecondVariable=None, MergeBlocks=T
                if (SecondVariable!=None):
                     sxs = expt.getValuesFor(SecondVariable)
                
-               if (SecondVariable!=None):
-                    perfo = zeros((dxs.__len__(), sxs.__len__(), 3))
-               else:
-                    perfo = zeros((dxs.__len__(), 3))
-
                seltrials = expt.getTrialsWith(StimulusVariable, 0, operator="greaterthan")
                s = 0
                for t in array(expt.Trials)[seltrials]: 
@@ -27,6 +23,8 @@ def PlotPsycho(experiments, StimulusVariable, SecondVariable=None, MergeBlocks=T
                     ResponseToNegative = 1;
 
                if (SecondVariable==None):
+#                    perfo = zeros((dxs.__len__(), sxs.__len__(), 3))
+                    perfo = zeros((dxs.__len__(), 3))
                     for i in range(0, dxs.__len__()):
                          seltrials = expt.getTrialsWith(StimulusVariable, dxs[i])
                          s = 0
@@ -43,23 +41,37 @@ def PlotPsycho(experiments, StimulusVariable, SecondVariable=None, MergeBlocks=T
                          print dxs
                          errorbar(dxs, perfo[:,0], yerr=perfo[:,2], marker='o', mfc='red', mec='red', ms=10, mew=2)
                else:
-                    for i in range(0, dxs.__len__()):
+                   perfo = zeros((dxs.__len__(), sxs.__len__(), 3))
+                   for i in range(0, dxs.__len__()):
                          for j in range(0, sxs.__len__()):
                               seltrials = expt.getTrialsWith(StimulusVariable, dxs[i], nextVariable=SecondVariable, nextValue = sxs[j])
-                              if seltrials.__len__() > 0:
+                              if seltrials.__len__() > 4:
                                   s = 0
                                   for t in array(expt.Trials)[seltrials]: 
                                       if t.RespDir==ResponseToPositive: 
-                                          s = s + 1
-                                  perfo[i,0] = s #sum(array(expt.Trials)[seltrials]['RespDir']==ResponseToPositive)
-                                  s = 0
+                                          s = s + 1.0
+                                  perfo[i,j,0] = s #sum(array(expt.Trials)[seltrials]['RespDir']==ResponseToPositive)
+                                  s = 0.0
                                   for t in array(expt.Trials)[seltrials]: 
                                       if t.RespDir!=0: 
-                                          s = s + 1
-                                  perfo[i,1] = s #sum(array(expt.Trials)[seltrials]['RespDir']!=0)
-                                  perfo[i,2] = sqrt(perfo[i,0] * (1 - perfo[i,0] / perfo[i,1]))
-                                  print dxs
-                                  errorbar(dxs, perfo[:,0], yerr=perfo[:,2], marker='o', mfc='red', mec='red', ms=10, mew=2)
+                                          s = s + 1.0
+                                  perfo[i,j,1] = s #sum(array(expt.Trials)[seltrials]['RespDir']!=0)
+                                  perfo[i,j,0] = 100.0 * perfo[i,j,0] / perfo[i,j,1]
+                                  perfo[i,j,2] = 1.0 * sqrt(perfo[i,j,0] * (1 - perfo[i,j,0] / 100.0))
+                                  #perfo[i,j,2] = sqrt(perfo[i,j,0] * (1 - perfo[i,j,0] / perfo[i,j,1]))
+                   
+                   for jj in range(0, sxs.__len__()):
+                       xx = []
+                       yy = []
+                       yr = []
+                       for ii in range(0, dxs.__len__()):
+                           if(perfo[ii,jj,1]>0):
+                               xx.append(dxs[ii])
+                               yy.append(perfo[ii,jj,0])
+                               yr.append(perfo[ii,jj,2])
+                       print [xx , yy]
+                       errorbar(xx, yy, yerr=yr, marker=OBPlotMarkers[jj % (sxs.__len__()/2)], mfc=OBPlotColors[jj % (sxs.__len__()/2)], mec=OBPlotColors[jj % (sxs.__len__()/2)], ms=5, mew=2, hold=True)
+                       #errorbar(dxs, perfo[:,jj,0], yerr=perfo[:,jj,2], marker='o', mfc='red', mec='red', ms=5, mew=2, hold=True)
 
           else: # if !MergeBlocks
                for blk in expt.BlockStart[0]:
