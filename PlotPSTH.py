@@ -10,7 +10,7 @@ NormalizeResponse: 0 means no normalization, 1 means using the square root of re
      for expt in experiments:
           offset = 200
           if Finish == 0:
-               Finish = expt.TrialDuration + offset
+               Finish = expt.TrialDuration() + offset
 
           psth = zeros((expt.Trials.__len__(), Finish - Start + offset))
           for i in range(0, expt.Trials.__len__()):
@@ -51,7 +51,11 @@ NormalizeResponse: 0 means no normalization, 1 means using the square root of re
 
           SmoothingKernel = zeros((SmoothWinLength*2))
           SmoothingKernel[0:SmoothWinLength-1] = 1
-          for i in range(0, psthM.shape[0]):
-               psthM[i,:] = convolve(psthM[i,:], SmoothingKernel)[SmoothWinLength/2:SmoothWinLength/2+psthM[i,:].__len__()]
-          plot(psthM.transpose())
+          if psthM.shape.__len__()>1:
+		  for i in range(0, psthM.shape[0]):
+        	       psthM[i,:] = convolve(psthM[i,:], SmoothingKernel)[SmoothWinLength/2:SmoothWinLength/2+psthM[i,:].__len__()]
+          else:
+          	psthM = convolve(psthM, SmoothingKernel)[SmoothWinLength/2:SmoothWinLength/2+psthM.__len__()]
+
+	  plot(psthM.transpose())
      show()

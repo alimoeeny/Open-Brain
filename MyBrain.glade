@@ -343,10 +343,28 @@
                           <placeholder/>
                         </child>
                         <child>
-                          <placeholder/>
+                          <widget class="GtkCheckButton" id="useXForPSTHCheckButton">
+                            <property name="label" translatable="yes">Use X</property>
+                            <property name="visible">True</property>
+                            <property name="can_focus">True</property>
+                            <property name="receives_default">False</property>
+                            <property name="draw_indicator">True</property>
+                          </widget>
+                          <packing>
+                            <property name="position">1</property>
+                          </packing>
                         </child>
                         <child>
-                          <placeholder/>
+                          <widget class="GtkButton" id="psthButton">
+                            <property name="label" translatable="yes">PSTH</property>
+                            <property name="visible">True</property>
+                            <property name="can_focus">True</property>
+                            <property name="receives_default">True</property>
+                            <signal name="clicked" handler="psthButton_clicked_cb"/>
+                          </widget>
+                          <packing>
+                            <property name="position">2</property>
+                          </packing>
                         </child>
                       </widget>
                       <packing>

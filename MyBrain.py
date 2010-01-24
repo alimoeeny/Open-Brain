@@ -3,6 +3,7 @@
 import sys
 from openbrain import *
 import pylab
+from PlotPSTH import PlotPSTH
 
 try:
  	import pygtk
@@ -17,6 +18,7 @@ except:
 
 class MyBrain:
 	def __init__(self):
+		self.selectedExpts = []
 			
 		#Set the Glade file
 		self.gladefile = "MyBrain.glade"  
@@ -28,7 +30,8 @@ class MyBrain:
 				"exptViewSelectionChange": self.showExperimentProperties, 
 				"runButtonClick": self.runTheCommand,
 				"xPropertyCombobox_changed_cb" : self.xPropChanged,
-				"yPropertyCombobox_changed_cb" : self.yPropChanged}
+				"yPropertyCombobox_changed_cb" : self.yPropChanged,
+				"psthButton_clicked_cb": self.plotPSTH}
 
 		self.wTree.signal_autoconnect(dic)
 		
@@ -36,6 +39,9 @@ class MyBrain:
 		self.exptView = self.wTree.get_widget("exptView")
 		self.xPropertyCombo = self.wTree.get_widget("xPropertyCombobox")
 		self.yPropertyCombo = self.wTree.get_widget("yPropertyCombobox")
+		#self.plotPSTHButton = self.wTree.get_widget("psthButton")
+		self.useXCheckBtn = self.wTree.get_widget("useXForPSTHCheckButton")
+
 		#Add all of the List Columns to the exptView
 		self.AddexptListColumn("Name", 0)
 		self.AddexptListColumn("Type", 1)
@@ -54,6 +60,12 @@ class MyBrain:
 		self.LoadExperimentsList()
 		self.exptSelection = self.exptView.get_selection()
 		self.exptSelection.set_mode(gtk.SELECTION_MULTIPLE)		
+
+	def plotPSTH(self, a):
+		if not self.useXCheckBtn.get_active():
+			PlotPSTH(self.selectedExpts, Start=0, Finish=2000, SmoothWinLength=10, NormalizeResponses=0, CategorizeBy=None)		
+		else:
+			PlotPSTH(self.selectedExpts, Start=0, Finish=2000, SmoothWinLength=10, NormalizeResponses=0, CategorizeBy='dx')		
 
 	def xPropChanged(self,a):
 		if not self.removingItems:
@@ -89,6 +101,7 @@ class MyBrain:
 		for ep in experimentProperties:
 			self.xPropertyCombo.append_text(ep)
 			self.yPropertyCombo.append_text(ep)
+		self.selectedExpts = BX
 
 	def getExperimentProperties(self, experiments):
 		expProperties = set([])		
