@@ -21,7 +21,8 @@ class Experiment(OBDBO):
         self.name = name
         self.monkeyName = monkeyname
         self.experimentType = experimentType
-
+        self.dataLoaded = False
+        
     def loadData(self, fileName=None):
         if (fileName == None) :
             fileName = self.parent.spikeDataPath + self.name[3:6] + '/' +  self.name
@@ -59,7 +60,7 @@ class Experiment(OBDBO):
                     exec("self.Trials[-1]." + dtn + " = squeeze(tt['" + dtn + "'])")
                 
         print 'Got ' + self.Trials.__len__().__str__() + ' trials! in ' + self.BlockStart[0].__len__().__str__() + ' Blocks'
-
+        self.dataLoaded = True
 
     def TrialDuration(self):
         durations = []

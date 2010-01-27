@@ -7,3 +7,17 @@ I am adding "MyBrain" as a GUI to the OpenBrain, for now as wxPython has problem
 Basically my plan for MyBrain! is to make an Experiment Explorer in which user can see all the parameters in an experiment and select trials based on the conditions set on the parameters and then can do analysis or viualization on the selection or grouping.
  
 So I need a list of all the experiments with a filtering mechanism that let's me select experiments based on their properties (Moneky, Experiment Type [ABD, OT, ...], Neuron, ) AND allows manual selection by a check box or just highlighting mechanism. In addition to that I'd be needing a mechanism with which I can select trials in the experiments I selected based on their properties, so I need to display a list of properties shared between trials as well as the expeirment name and type (also as properties). Then I need a mechanism to add trial groups that let the user create trial groups that 
+
+I need to start thinking about two things:
+1- a database engine - for this I may study the postgresql user defined datatype thing that they have to see if I can fit into that.
+a. a question to be asked here is that, is a relational database server meet the requirements for a neural database server? 
+It seems so! As I have been able to design a object model for the OpenBrain it is theoretically implementable in a relational database. The problem would be that it is not the most efficient way of handeling spiking data both in terms of disk space and database performance.
+But I need to give it a try.
+Another problem with relational databases is that there is not a fixed set of properties and experiment would have.
+maybe for now the best way to work around this is to use scipy's save mechanism to save python objects to disk.
+
+
+
+2- api
+a. an api or other form of interface with MATLAB as many people are still using MATLAB as their tool of choice for neural data analysis.
+b. 

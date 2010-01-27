@@ -63,8 +63,10 @@ class MyBrain:
 
 	def plotPSTH(self, a):
 		if not self.useXCheckBtn.get_active():
+			print("Plotting {0} experiments, and using {1} as a parameter".format(self.selectedExpts.__len__(), 'dx'))
 			PlotPSTH(self.selectedExpts, Start=0, Finish=2000, SmoothWinLength=10, NormalizeResponses=0, CategorizeBy=None)		
 		else:
+			print("Plotting {0} experiments, and using {1} as a parameter".format(self.selectedExpts.__len__(), 'dx'))
 			PlotPSTH(self.selectedExpts, Start=0, Finish=2000, SmoothWinLength=10, NormalizeResponses=0, CategorizeBy='dx')		
 
 	def xPropChanged(self,a):
@@ -87,7 +89,8 @@ class MyBrain:
 			#print sel[0][it][4] 
 		BX = []
 		for bx in selectedExperimentIds:
-			Brain.Experiments[int(bx)].loadData()		
+			if (not Brain.Experiments[int(bx)].dataLoaded):
+				Brain.Experiments[int(bx)].loadData()		
 			BX.append(Brain.Experiments[int(bx)])
 		experimentProperties = self.getExperimentProperties(BX)		
 		#print experimentProperties

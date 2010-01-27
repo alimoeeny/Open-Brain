@@ -56,6 +56,6 @@ NormalizeResponse: 0 means no normalization, 1 means using the square root of re
         	       psthM[i,:] = convolve(psthM[i,:], SmoothingKernel)[SmoothWinLength/2:SmoothWinLength/2+psthM[i,:].__len__()]
           else:
           	psthM = convolve(psthM, SmoothingKernel)[SmoothWinLength/2:SmoothWinLength/2+psthM.__len__()]
-
-	  plot(psthM.transpose())
+          plot(psthM.transpose())
+          print "Plotted {0}".format(expt.name)
      show()
