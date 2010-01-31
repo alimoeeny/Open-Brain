@@ -1,0 +1,9 @@
+from django.http import HttpResponse
+import sys
+sys.path.append('../')
+from openbrain import OpenBrain
+
+Brain = OpenBrain(dataPath='../')
+
+def index(request):
+	return HttpResponse("Hello there, at last!") 
