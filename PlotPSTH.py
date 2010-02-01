@@ -2,7 +2,7 @@ from numpy import *
 from pylab import *
 from openbrain import *
 
-def PlotPSTH(experiments, Start=0, Finish=0, SmoothWinLength=10, NormalizeResponses=0, CategorizeBy=None):
+def PlotPSTH(experiments, Start=0, Finish=0, SmoothWinLength=10, NormalizeResponses=0, CategorizeBy=None, filename=None):
      """ PlotPSTH(experiments, Start=0, Finish=0, SmoothWinLength=10, NormalizeResponses=0, CategorizeBy=None) Gets a numpy ARRAY of OpenBrain.experiments and plots their average PSTHs. 
 NormalizeResponse: 0 means no normalization, 1 means using the square root of responses (this is effectivly a variance normazliation, 2 means normalization by division by mean of responses, 3 means subtraction of mean and division by max - min 
 """
@@ -58,4 +58,10 @@ NormalizeResponse: 0 means no normalization, 1 means using the square root of re
           	psthM = convolve(psthM, SmoothingKernel)[SmoothWinLength/2:SmoothWinLength/2+psthM.__len__()]
           plot(psthM.transpose())
           print "Plotted {0}".format(expt.name)
-     show()
+     if filename == None:
+     	show()
+     else:
+     	savefig(filename)
+
+
+

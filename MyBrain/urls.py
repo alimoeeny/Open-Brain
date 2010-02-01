@@ -14,5 +14,9 @@ urlpatterns = patterns('',
 
     # Uncomment the next line to enable the admin:
     (r'^admin/', include(admin.site.urls)),
-    (r'^Browser/', 'MyBrain.Browser.views.index'),
+    (r'^Browser/$', 'MyBrain.Browser.views.index'),
+    (r'^Browser/(?P<expt_id>\d+)/$', 'MyBrain.Browser.views.exptdetails'),
+    (r'^Browser/(?P<expt_id>\d+)/psthplot/$', 'MyBrain.Browser.views.psthplot'),
+    (r'^Browser/(?P<expt_id>\d+)/rasterplot/$', 'MyBrain.Browser.views.rasterplot'),
+
 )
