@@ -16,6 +16,7 @@ urlpatterns = patterns('',
     (r'^admin/', include(admin.site.urls)),
     (r'^Browser/$', 'MyBrain.Browser.views.index'),
     (r'^Browser/(?P<expt_id>\d+)/$', 'MyBrain.Browser.views.exptdetails'),
+    (r'^Browser/(?P<expt_id>\d+)/histogram/(?P<prop>)$', 'MyBrain.Browser.views.histogram'),
     (r'^Browser/(?P<expt_id>\d+)/psthplot/$', 'MyBrain.Browser.views.psthplot'),
     (r'^Browser/(?P<expt_id>\d+)/rasterplot/$', 'MyBrain.Browser.views.rasterplot'),
 

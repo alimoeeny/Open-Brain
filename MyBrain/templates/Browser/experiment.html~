@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<title>OpebBrain - MyBrain</title>
+</head>
+<body bgcolor=#"ffffff" text=#"000000" link=#"0000cc" vlink=#"551a8b" alink=#"ff0000" topmargin="3" marginheight="3">
+    <h1>Experiment:</h1>
+    <form action="./histogram" method="GET" id="histoform">
+    	<input type="submit" value="Plot Histogram">
+      {% if expt_prop_list %}
+      <table>
+        {% for prop in expt_prop_list %}
+        <tr>
+          <td><input type="checkbox" name="prop{{ forloop.counter0 }}" /> {{ forloop.counter }}</td> 
+          <td> {{ prop }}</td>
+          <td> {{ expt_prop_values.counter0 }} </td>
+        </tr>
+        {% endfor %}
+      </ul>
+      {% else %}
+      <p>No properties for this experiment are available.</p>
+      {% endif %}
+</form>
+</body>
+</html>

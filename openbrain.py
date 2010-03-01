@@ -22,7 +22,8 @@ class Experiment(OBDBO):
         self.monkeyName = monkeyname
         self.experimentType = experimentType
         self.dataLoaded = False
-        
+        self.Trials = []
+
     def loadData(self, fileName=None):
         if (fileName == None) :
             fileName = self.parent.spikeDataPath + self.name[3:6] + '/' +  self.name
@@ -52,12 +53,15 @@ class Experiment(OBDBO):
 
         self.Trials = []
         for tt in d:
-            self.Trials.append(Trial(self)) 
+            self.Trials.append(Trial()) #self)) 
             for dtn in tt.dtype.names:
-                try:
-                    exec("self.Trials[-1]." + dtn + " = squeeze(tt['" + dtn + "']) + 0.0")
+		dtn1 = dtn
+            	if dtn in set(['or', 'and', 'if', 'in', 'is']):
+		    dtn1 = dtn.upper()		
+		try:
+                    exec("self.Trials[-1]." + dtn1 + " = squeeze(tt['" + dtn + "']) + 0.0")
                 except:
-                    exec("self.Trials[-1]." + dtn + " = squeeze(tt['" + dtn + "'])")
+                    exec("self.Trials[-1]." + dtn1 + " = squeeze(tt['" + dtn + "'])")
                 
         print 'Got ' + self.Trials.__len__().__str__() + ' trials! in ' + self.BlockStart[0].__len__().__str__() + ' Blocks'
         self.dataLoaded = True
@@ -65,7 +69,7 @@ class Experiment(OBDBO):
     def TrialDuration(self):
         durations = []
         for i in range(0, self.Trials.__len__()):
-            durations = self.Trials[i].dur
+            durations.append(self.Trials[i].dur)
         return median(array(durations))
     
     def getValuesFor(self, CategorizeBy, selectTrials=None):
@@ -124,8 +128,10 @@ class Neuron(OBDBO):
         self.experimentName = experimentname
 
 class Trial(OBDBO):
-    def __init__(self, parent):
-        self.parent = parent
+    def __init__(self): #, parent):
+        #self.parent = parent
+        self.dur = 0
+        self.Spikes = []
 
 class SpikeTrain(OBDBO):
     pass

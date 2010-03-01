@@ -89,4 +89,5 @@ INSTALLED_APPS = (
 
 INTERNAL_IPS = (
     '127.0.0.1',
+    '10.211.55.5',
 )
