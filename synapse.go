@@ -5,5 +5,5 @@ func NewSynapse(source, target *Neuron) *Synapse {
 	s.Id = <-nextId
 	s.Source = source
 	s.Target = target
-	return s
+	return &s
 }

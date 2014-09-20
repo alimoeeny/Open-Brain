@@ -13,7 +13,7 @@ type Brain struct {
 
 type Neuron struct {
 	Thing
-	Id       int64
+	Id       string
 	Type     string
 	Synapses []*Synapse
 	HillockV float64

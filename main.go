@@ -17,3 +17,9 @@ func init() {
 		}
 	}()
 }
+
+func main() {
+	fmt.Println("OpenBrain Version: xxx")
+	pb := peaBrain()
+	fmt.Printf("PeaBrain: %#v", pb)
+}
