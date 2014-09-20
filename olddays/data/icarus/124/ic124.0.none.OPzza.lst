@@ -1,0 +1,25 @@
+Expt Orthog Offset: none -0.339 +-2.000 *9. 222-231, nr4at5.38,0.12, 2.01x15.00, -45.00 deg. sf1.00tf10 2813809
+Dur 3499.70,17916 NF 22 IS 0.40 Framerate 60.00
+cm=rf-0.24,-5.09:2.85x3.21,-45.0deg  pe105 -2.0,-5.0 fx=0.00
+
+props sq0.00 xo-0.28 yo-5.53 wi2.01 hi15.00 or-45.00 sf1.00 tf10.00 dx-0.5001 se10403 id7082 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+Expt Cancelled
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+ic+cs+bm+gm+cS+C3
+
+expt: none et=Op e2=e0
+Expt Start: none type 287 -0.34: 2.00x9 ed=17.6200
+xExpt2: EXPTYPE_NONE 45.00: 180.00x0
+stim 2819708-2823208:222 bG none0 props sq0.00 xo3.96 yo-1.29 wi2.01 hi15.00 or-45.00 sf1.00 tf10.00 dx-0.5001 se10403 id7084 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 2824541-2828041:223 bG none0 props sq0.00 xo1.13 yo-4.12 wi2.01 hi15.00 or-45.00 sf1.00 tf10.00 dx-0.5001 se10403 id7085 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 2829208-2832708:224 bG none0 props sq0.00 xo-1.70 yo-6.95 wi2.01 hi15.00 or-45.00 sf1.00 tf10.00 dx-0.5001 se10403 id7086 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 2834041-2837541:225 bG none0 props sq0.00 xo2.55 yo-2.70 wi2.01 hi15.00 or-45.00 sf1.00 tf10.00 dx-0.5001 se10403 id7087 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 48: 2818587-2838311 4
+stim 2844207-2847707:226 bG none0 props sq0.00 xo-0.28 yo-5.53 wi2.01 hi15.00 or-45.00 sf1.00 tf10.00 dx-0.5001 se10403 id7088 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 2849041-2852540:227 bG none0 props sq0.00 xo-5.94 yo-11.19 wi2.01 hi15.00 or-45.00 sf1.00 tf10.00 dx-0.5001 se10403 id7089 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 2853874-2857374:228 bG none0 props sq0.00 xo-3.11 yo-8.36 wi2.01 hi15.00 or-45.00 sf1.00 tf10.00 dx-0.5001 se10403 id7090 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 2858707-2862207:229 bG none0 props sq0.00 xo-4.52 yo-9.78 wi2.01 hi15.00 or-45.00 sf1.00 tf10.00 dx-0.5001 se10403 id7091 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 49: 2843138-2862978 4
+stim 2868874-2872373:230 bG none0 props sq0.00 xo-0.28 yo-5.53 wi2.01 hi15.00 or-45.00 sf1.00 tf10.00 dx-0.5001 se10403 id7092 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 2873707-2877206:231 bG none0 props sq0.00 xo5.38 yo0.12 wi2.01 hi15.00 or-45.00 sf1.00 tf10.00 dx-0.5001 se10403 id7093 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+Expt Cancelled

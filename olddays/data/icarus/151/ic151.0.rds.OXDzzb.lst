@@ -1,0 +1,33 @@
+Expt Disparity : rds 0.000 +-0.200 *9. 1602-1609, x Expt Orientation: -45.000 +-180.000 *2. 1602-1609, nr12at-3.13,0.20, 7.00x7.00, 45.00 deg. sf1.00tf10 38816747
+Dur 19666.20,19666 NF 119 IS 0.40 Framerate 60.00
+cm=rf-2.81,-0.60:3.86x4.14,-135.0deg  pe126 -1.0,-6.0 fx=0.0
+props sq0.00 xo-3.13 yo0.20 wi7.00 hi7.00 or-135.00 sf1.00 tf10.00 dx0.0000 se11624 id8649 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+Expt Cancelled
+cm=rf-2.81,-0.60:3.86x4.14,-135.0deg  pe126 -1.0,-6.0 fx=0.00,fy=0.00 
+cm=back=rds,wi=7.99,hi=8.00,ce=1.00,xo=-3.13,yo=1.00,dx=0.00,co=1.00
+mtop=op+do+aa+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+0m+gm+x2+cS+C3+CF
+
+expt: rds et=dx e2=or
+Expt Start (38816747): rds Disparity  0.00: 0.20x9 ed=20.4300
+xExpt2: Orientation -45.00: 180.00x2
+stim 38820921-38840587:1602 bG rds0 props sq0.00 xo-3.13 yo0.20 wi7.00 hi7.00 or45.00 sf1.00 tf10.00 dx-0.8000 se11633 id8650 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+TrialGood 847: 38819777-38841366 1
+stim 38847087-38866753:1603 bG rds0 props sq0.00 xo-3.13 yo0.20 wi7.00 hi7.00 or-135.00 sf1.00 tf10.00 dx0.6000 se11642 id8651 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+TrialGood 848: 38846059-38867531 1
+stim 38873253-38892919:1604 bG rds0 props sq0.00 xo-3.13 yo0.20 wi7.00 hi7.00 or45.00 sf1.00 tf10.00 dx0.8000 se11651 id8652 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+TrialGood 849: 38872222-38893698 1
+props sq0.00 xo-3.13 yo0.20 wi7.00 hi7.00 or45.00 sf1.00 tf10.00 dx0.2000 se11660 id8653 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 38925585-38945251:1606 bG rds0 props sq0.00 xo-3.13 yo0.20 wi7.00 hi7.00 or45.00 sf1.00 tf10.00 dx0.2000 se11670 id8655 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+TrialGood 850: 38924463-38946030 1
+props sq0.00 xo-3.13 yo0.20 wi7.00 hi7.00 or-135.00 sf1.00 tf10.00 dx-0.6000 se11679 id8656 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 38968917-38988584:1608 bG rds0 props sq0.00 xo-3.13 yo0.20 wi7.00 hi7.00 or-135.00 sf1.00 tf10.00 dx-0.6000 se11685 id8658 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+TrialGood 851: 38967880-38989363 1
+props sq0.00 xo-3.13 yo0.20 wi7.00 hi7.00 or45.00 sf1.00 tf10.00 dx-0.2000 se11694 id8659 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+Expt Cancelled
+cm=rf-2.81,-0.60:3.86x4cl
+cm=back=rds,wi=7.99,hi=8.00,ce=1.00,xo=-3.13,yo=1.00,dx=0.00,co=1.00
+mtop=op+do+aa+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+0m+gm+x2+cS+C3+CF
+
+expt: rds et=dx e2=or
+Expt Start (39040099): rds Disparity  0.00: 0.20x9 ed=20.4300
+xExpt2: Orientation -45.00: 180.00x2

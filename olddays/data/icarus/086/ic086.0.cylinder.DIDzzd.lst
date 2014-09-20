@@ -1,0 +1,27 @@
+Expt Disparity : cylinder 0.000 +-0.200 *5. 602-612, x Expt Initial Disparity: 0.000 +-0.004 *6. 602-612, nr4at-2.18,-5.68, 10.00x10.00, -45.00 deg. sf1.00tf10 46799917
+Dur 19833.00,19833 NF 120 IS 0.40 Framerate 60.00
+cm=rf-2.14,-5.63:2.10x1.33,-45.0deg  pe86 2,-5 fx=0.00,fy=5.
+props sq0.00 xo-2.18 yo-5.68 wi6.99 hi7.00 or-45.00 sf1.00 tf10.00 dx-0.0050 se10263 id7328 bd0.0000 Id-0.0060 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+Expt Cancelled
+cm=noback
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+cs+2a+bm+gm+x2+cb+cS+C3
+
+expt: cylinder et=dx e2=Id
+Expt Start (46799917): cylinder Disparity  0.00: 0.20x5 ed=19.6100
+xExpt2: Initial Disparity 0.00: 0.00x6
+props sq-2.37 xo-2.18 yo-5.68 wi10.00 hi10.00 or-45.00 sf1.00 tf10.00 dx0.2000 se10264 id7329 bd0.0000 Id-0.0100 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+stim 46836958-46856791:603 bG cylinder0 props sq2.37 xo-2.18 yo-5.68 wi10.00 hi10.00 or-45.00 sf1.00 tf10.00 dx-0.4000 se10265 id7330 bd0.0000 Id0.0000 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialWrong 128: 46835847-46860797 1
+stim 46867791-46887624:604 bG cylinder0 props sq2.37 xo-2.18 yo-5.68 wi10.00 hi10.00 or-45.00 sf1.00 tf10.00 dx-0.2000 se10266 id7331 bd0.0000 Id0.0000 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialGood 129: 46866780-46891038 1
+stim 46998121-47017954:605 bG cylinder0 props sq2.37 xo-2.18 yo-5.68 wi10.00 hi10.00 or-45.00 sf1.00 tf10.00 dx-0.2000 se10267 id7332 bd0.0000 Id0.0060 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialWrong 130: 46997013-47021638 1
+props sq-2.37 xo-2.18 yo-5.68 wi10.00 hi10.00 or-45.00 sf1.00 tf10.00 dx0.2000 se10268 id7333 bd0.0000 Id0.0000 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+props sq-2.37 xo-2.18 yo-5.68 wi10.00 hi10.00 or-45.00 sf1.00 tf10.00 dx0.4000 se10269 id7334 bd0.0000 Id0.0000 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+stim 47095452-47115285:608 bG cylinder0 props sq2.37 xo-2.18 yo-5.68 wi10.00 hi10.00 or-45.00 sf1.00 tf10.00 dx-0.4000 se10270 id7335 bd0.0000 Id0.0000 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+props sq-2.37 xo-2.18 yo-5.68 wi10.00 hi10.00 or-45.00 sf1.00 tf10.00 dx0.4000 se10271 id7336 bd0.0000 Id0.0100 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+props sq-2.37 xo-2.18 yo-5.68 wi10.00 hi10.00 or-45.00 sf1.00 tf10.00 dx0.2000 se10272 id7337 bd0.0000 Id0.0060 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+stim 47193783-47213616:611 bG cylinder0 props sq-2.37 xo-2.18 yo-5.68 wi10.00 hi10.00 or-45.00 sf1.00 tf10.00 dx0.2000 se10273 id7338 bd0.0000 Id0.0000 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialWrong 131: 47192626-47217310 1
+props sq-2.37 xo-2.18 yo-5.68 wi10.00 hi10.00 or-45.00 sf1.00 tf10.00 dx0.0000 se10274 id7339 bd0.0000 Id0.0060 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+Expt Cancelled

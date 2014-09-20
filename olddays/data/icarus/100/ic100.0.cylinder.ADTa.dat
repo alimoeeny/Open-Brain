@@ -1,0 +1,13 @@
+!f:$UNITGRAPHS/dxcylinder.f
+\Title ic100.0.cylinder.ADTa.trl 1628 to 1656 Binoc
+#Preperiod 0.050, rate 0.00 +- 0.000  n = 21
+Delay = 0
+\xy-e
+-0.4000 6.27 6 1.22
+-0.2000 6.27 3 1.19
+0.0000 29.62 4 2.23
+0.2000 26.57 4 1.74
+0.4000 21.48 4 1.75
+\yax 0 30
+\xax -0.40 0.40
+\label i=1 te=n=3 - 6 

@@ -1,0 +1,8 @@
+UFF ic009.0 Created 21/11/2006 14:08 as ic009.1 by v4.50 replay version 1.41 Rev $Revision: 1.55 $
+expt: rds et=or e2=e0
+Expt Start (1089092117): rds Orientation 22.50: 45.00x8 ed=0.0000
+xExpt2: EXPTYPE_NONE 0.00: 0.00x0
+cm=rf-8.63,-7.87:12.60x12.80,-90.0deg  pe37 0,-4 fx=0.00,fy=5.00 
+/bgc/data/icarus/009/ic009.0.ufl: File ends in Expt
+end: 77857:0
+Expts:

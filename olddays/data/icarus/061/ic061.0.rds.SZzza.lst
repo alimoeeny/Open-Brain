@@ -1,0 +1,26 @@
+Expt Size (H and W): rds 14.991 +-0.500 *5. 4612-4617, nr10at-5.55,-8.25, 14.50x14.49, 80.00 deg. sf3.00tf10 57005101
+Dur 3999.67,19999 NF 25 IS 0.40 Framerate 60.00
+cm=rf-5.53,-7.23:12.92x12.23,80.0deg  pe78 -2,-4 fx=0.00,fy=
+props sq0.00 xo-5.55 yo-8.25 wi14.98 hi15.00 or80.00 sf3.00 tf10.00 dx-1.0001 se151609 id11264 bd-0.2000 op=+cn+cp+sc+cd+xe+bm+ic 
+TrialGood 1191: 56781102-56802915 4
+EndExpt  (56804210)
+cm=noback
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+sp+da+cS+C3
+
+expt: rds et=sz e2=e0
+Expt Start (57005101): rds Size (H and W) 14.99: 0.50x5 ed=13.2700
+xExpt2: EXPTYPE_NONE 170.00: 180.00x0
+stim 57010791-57014791:4612 bG rds0 props sq0.00 xo-5.55 yo-8.25 wi15.98 hi15.99 or80.00 sf3.00 tf10.00 dx-0.1000 se151610 id11265 bd-0.2000 sz15.98 op=+cn+cp+sc+cd+bm+ic 
+stim 57016124-57020124:4613 bG rds0 props sq0.00 xo-5.55 yo-8.25 wi14.98 hi14.99 or80.00 sf3.00 tf10.00 dx-0.1000 se151661 id11266 bd-0.2000 sz14.99 op=+cn+cp+sc+cd+bm+ic 
+stim 57021459-57025457:4614 bG none0 props sq0.00 xo-5.55 yo-8.25 wi14.98 hi14.99 or80.00 sf3.00 tf10.00 dx-0.1000 se151712 id11267 bd-0.2000 sz14.99 op=+cn+cp+sc+cd+bm+ic 
+stim 57026790-57030790:4615 bG rds0 props sq0.00 xo-5.55 yo-8.25 wi15.50 hi15.49 or80.00 sf3.00 tf10.00 dx-0.1000 se151713 id11268 bd-0.2000 sz15.49 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 1192: 57009681-57031556 4
+stim 57037290-57041290:4616 bG rds0 props sq0.00 xo-5.55 yo-8.25 wi13.98 hi13.99 or80.00 sf3.00 tf10.00 dx-0.1000 se151764 id11269 bd-0.2000 sz13.98 op=+cn+cp+sc+cd+bm+ic 
+stim 57042623-57046623:4617 bG rds0 props sq0.00 xo-5.55 yo-8.25 wi14.50 hi14.49 or80.00 sf3.00 tf10.00 dx-0.1000 se151815 id11270 bd-0.2000 sz14.50 op=+cn+cp+sc+cd+bm+ic 
+Expt Cancelled
+cm=noback
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+sp+da+cS+C3
+
+expt: rds et=sz e2=e0
+Expt Start (57097704): rds Size (H and W) 14.99: 0.50x5 ed=13.2700
+xExpt2: EXPTYPE_NONE 170.00: 180.00x0

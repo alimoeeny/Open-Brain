@@ -1,0 +1,33 @@
+Expt Y offset: rds -13.087 +-3.000 *9. 296-308, nr4at-19.05,-13.09, 2.01x10.00, -45.00 deg. sf1.00tf10 3965722
+Dur 3647.00,16389 NF 22 IS 0.40 Framerate 60.00
+cm=rf-19.17,-12.84:12.35x10.42,5.6deg  pe31 -3,-2 fx=2.00,fy
+props sq0.00 xo-19.05 yo-13.09 wi2.01 hi10.00 or-45.00 sf1.00 tf10.00 dx-0.4000 se11300 id7559 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+cm=noback
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+cS+C3
+
+expt: rds et=yo e2=e0
+Expt Start (3965722): rds Y offset -13.09: 3.00x9 ed=16.5300
+xExpt2: EXPTYPE_NONE 45.00: 180.00x0
+stim 3971716-3975216:296 bG rds0 props sq0.00 xo-19.05 yo-22.09 wi2.01 hi10.00 or-45.00 sf1.00 tf10.00 dx-0.4000 se11303 id7560 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 3976550-3980049:297 bG none0 props sq0.00 xo-19.05 yo-13.09 wi2.01 hi10.00 or-45.00 sf1.00 tf10.00 dx-0.4000 se11306 id7561 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 3981383-3984883:298 bG rds0 props sq0.00 xo-19.05 yo-4.09 wi2.01 hi10.00 or-45.00 sf1.00 tf10.00 dx-0.4000 se11309 id7562 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 70: 3970584-3985655 3
+stim 3993049-3996549:299 bG rds0 props sq0.00 xo-19.05 yo-10.09 wi2.01 hi10.00 or-45.00 sf1.00 tf10.00 dx-0.4000 se11312 id7563 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 3997882-4001382:300 bG rds0 props sq0.00 xo-19.05 yo-7.09 wi2.01 hi10.00 or-45.00 sf1.00 tf10.00 dx-0.4000 se11315 id7564 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 4002716-4006216:301 bG rds0 props sq0.00 xo-19.05 yo-16.09 wi2.01 hi10.00 or-45.00 sf1.00 tf10.00 dx-0.4000 se11318 id7565 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 4007549-4011049:302 bG rds0 props sq0.00 xo-19.05 yo-25.09 wi2.01 hi10.00 or-45.00 sf1.00 tf10.00 dx-0.4000 se11321 id7566 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 71: 3991902-4011820 4
+stim 4018715-4022215:303 bG rds0 props sq0.00 xo-19.05 yo-13.09 wi2.01 hi10.00 or-45.00 sf1.00 tf10.00 dx-0.4000 se11324 id7567 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 4023548-4027049:304 bG rds0 props sq0.00 xo-19.05 yo-1.09 wi2.01 hi10.00 or-45.00 sf1.00 tf10.00 dx-0.4000 se11327 id7568 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 4028382-4031881:305 bG rds0 props sq0.00 xo-19.05 yo-19.09 wi2.01 hi10.00 or-45.00 sf1.00 tf10.00 dx-0.4000 se11330 id7569 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 4033215-4036715:306 bG rds0 props sq0.00 xo-19.05 yo-25.09 wi2.01 hi10.00 or-45.00 sf1.00 tf10.00 dx-0.4000 se11333 id7570 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 72: 4017591-4037487 4
+stim 4043548-4047048:307 bG rds0 props sq0.00 xo-19.05 yo-10.09 wi2.01 hi10.00 or-45.00 sf1.00 tf10.00 dx-0.4000 se11336 id7571 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+props sq0.00 xo-19.05 yo-13.09 wi2.01 hi10.00 or-45.00 sf1.00 tf10.00 dx-0.4000 se11339 id7572 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+Expt Cancelled
+cm=noback
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+cS+C3
+
+expt: none et=yo e2=e0
+Expt Start (4245515): none Y offset -7.00: 3.00x9 ed=16.5300
+xExpt2: EXPTYPE_NONE 45.00: 180.00x0

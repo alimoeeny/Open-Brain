@@ -1,0 +1,27 @@
+Expt Disparity : cylinder 0.000 +-0.003 *5. 482-489, x Expt Initial Disparity: 0.000 +-0.200 *6. 482-489, nr4at-7.50,1.20, 9.99x10.00, 115.00 deg. sf1.00tf10 750249816
+Dur 9863.45,0 NF 57 IS 0.40 Framerate 60.00
+cm=rf-7.00,1.27:2.88x6.04,110.0deg  pe95 0,-6 fx=0.00,fy=0.0
+props sq3.00 xo-7.51 yo1.20 wi9.99 hi10.00 or115.00 sf1.00 tf10.00 dx0.0000 se8526 id6926 bd0.0000 MD=0 op=+cn+cp+2a+xe+bm+ic 
+TrialGood 147: 749776144-749801380 2
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+cs+2a+bm+gm+x2+cb+cS+C3
+
+expt: cylinder et=dx e2=Id
+Expt Start (750249816): cylinder Disparity  0.00: 0.00x5 ed=18.4400
+xExpt2: Initial Disparity 0.00: 0.20x6
+props sq-2.72 xo-7.51 yo1.20 wi9.99 hi10.00 or115.00 sf1.00 tf10.00 dx-0.0030 se8527 id6927 bd0.0000 Id0.3000 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+stim 750278864-750288364:483 bG cylinder0 props sq-2.72 xo-7.51 yo1.20 wi9.99 hi10.00 or115.00 sf1.00 tf10.00 dx0.0000 se8528 id6928 bd0.0000 Id0.5000 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+props sq2.72 xo-7.51 yo1.20 wi9.99 hi10.00 or115.00 sf1.00 tf10.00 dx0.0000 se8529 id6929 bd0.0000 Id-0.3000 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+props sq-2.72 xo-7.51 yo1.20 wi9.99 hi10.00 or115.00 sf1.00 tf10.00 dx-0.0030 se8530 id6930 bd0.0000 Id0.5000 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+stim 750332030-750341530:486 bG cylinder0 props sq-2.72 xo-7.51 yo1.20 wi9.99 hi10.00 or115.00 sf1.00 tf10.00 dx-0.0030 se8531 id6931 bd0.0000 Id0.5000 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+props sq2.72 xo-7.51 yo1.20 wi9.99 hi10.00 or115.00 sf1.00 tf10.00 dx0.0030 se8532 id6932 bd0.0000 Id0.0000 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+stim 750365362-750374862:488 bG cylinder0 props sq2.72 xo-7.51 yo1.20 wi9.99 hi10.00 or115.00 sf1.00 tf10.00 dx0.0000 se8533 id6933 bd0.0000 Id-0.5000 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+props sq2.72 xo-7.51 yo1.20 wi9.99 hi10.00 or115.00 sf1.00 tf10.00 dx0.0030 se8534 id6934 bd0.0000 Id0.0000 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+Expt Cancelled
+cm=rf-7.00,1.27:2.88x6.04,110.0deg  pe95 0,-6 fx=0.00,fy=0.00 
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+cs+2a+bm+gm+x2+cb+cS+C3
+
+expt: cylinder et=dx e2=Id
+Expt Start (750428096): cylinder Disparity  0.00: 0.00x5 ed=18.4400
+xExpt2: Initial Disparity 0.00: 0.20x6

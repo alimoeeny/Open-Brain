@@ -1,0 +1,23 @@
+Clearclusters
+Cluster1 en6:42.41,81.69 ve6:6.70,15.57
+#Set by ceb on Tue Nov 28 14:50:12 2006
+
+Expt Orientation: rds 22.500 +-45.000 *8. 79-82, nr4at-13.13,-1.33, 5.00x5.00, 180.00 deg. sf1.00tf10 627471
+Dur 3499.75,17999 NF 22 IS 0.40 Framerate 60.00
+cm=rf-13.13,-1.33:5.00x4.70,38.9deg  pe29 1,-5 fx=0.00,fy=0.
+props sq0.00 xo-13.13 yo-1.33 wi5.00 hi5.00 or22.50 sf1.00 tf9.58 dx1.0001 se8804 id6727 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 17: 587796-607682 4
+EndExpt  (608964)
+cm=noback
+mtop=op+do+aa+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+cS+C3
+
+expt: rds et=or e2=e0
+Expt Start (627471): rds Orientation 22.50: 45.00x8 ed=12.5100
+xExpt2: EXPTYPE_NONE 0.00: 0.00x0
+stim 632077-635576:79 bG rds0 props sq0.00 xo-13.13 yo-1.33 wi5.00 hi5.00 or0.00 sf1.00 tf9.58 dx1.0001 se8807 id6728 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 636909-640409:80 bG rds0 props sq0.00 xo-13.13 yo-1.33 wi5.00 hi5.00 or-90.00 sf1.00 tf9.58 dx1.0001 se8810 id6729 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 641743-645243:81 bG rds0 props sq0.00 xo-13.13 yo-1.33 wi5.00 hi5.00 or-45.00 sf1.00 tf9.58 dx1.0001 se8813 id6730 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 646576-650076:82 bG rds0 props sq0.00 xo-13.13 yo-1.33 wi5.00 hi5.00 or90.00 sf1.00 tf9.58 dx1.0001 se8816 id6731 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 18: 631007-650850 4
+EndExpt  (656244)
+cm=rf-13.13,-1.33:5.00x4.70,38.9deg  pe29 1,-5 fx=0.00,fy=0.00 

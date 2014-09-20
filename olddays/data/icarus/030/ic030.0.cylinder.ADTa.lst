@@ -1,0 +1,33 @@
+Clearclusters
+Cluster1 en6:30.12,81.93 ve6:12.68,24.36 pairen,ve,0.000000
+#Set by ceb on Wed Dec  6 10:51:13 2006
+
+Expt Disparity : cylinder 0.000 +-0.200 *6. 349-357, nr4at0.90,-9.80, 10.00x10.00, 180.00 deg. sf1.00tf10 3492707
+Dur 8018.39,0 NF 110 IS 0.40 Framerate 60.00
+cm=rf0.98,-9.80:8.63x8.80,-60.0deg  pe41 -2,-4 fx=0.00,fy=0.
+%%Uncancelled Expt
+props sq3.00 xo0.90 yo-9.80 wi10.00 hi10.00 or180.00 sf1.00 tf10.00 dx-0.4000 se16800 id9731 bd0.0000 MD=0 op=+cn+cp+2a+bm+ic 
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+sp+cS+C3
+
+expt: cylinder et=dx e2=e0
+Expt Start (3492707): cylinder Disparity  0.00: 0.20x6 ed=13.9300
+xExpt2: EXPTYPE_NONE 0.55: 0.30x2
+stim 3497691-3515857:349 bG cylinder0 props sq0.00 xo0.90 yo-9.80 wi10.00 hi10.00 or180.00 sf1.00 tf10.00 dx-0.3000 se16801 id9732 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+props sq0.00 xo0.90 yo-9.80 wi10.00 hi10.00 or180.00 sf1.00 tf10.00 dx0.0000 se16802 id9733 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 3732851-3751018:351 bG none0 props sq0.00 xo0.90 yo-9.80 wi10.00 hi10.00 or180.00 sf1.00 tf10.00 dx0.0000 se16805 id9736 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+props sq0.00 xo0.90 yo-9.80 wi10.00 hi10.00 or180.00 sf1.00 tf10.00 dx0.5000 se16806 id9737 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+props sq0.00 xo0.90 yo-9.80 wi10.00 hi10.00 or180.00 sf1.00 tf10.00 dx0.5000 se16808 id9739 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+props sq0.00 xo0.90 yo-9.80 wi10.00 hi10.00 or180.00 sf1.00 tf10.00 dx0.5000 se16811 id9742 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+props sq0.00 xo0.90 yo-9.80 wi10.00 hi10.00 or180.00 sf1.00 tf10.00 dx0.5000 se16812 id9743 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+props sq0.00 xo0.90 yo-9.80 wi10.00 hi10.00 or180.00 sf1.00 tf10.00 dx0.5000 se16814 id9745 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+props sq0.00 xo0.90 yo-9.80 wi10.00 hi10.00 or180.00 sf1.00 tf10.00 dx0.5000 se16815 id9746 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+Expt Cancelled
+End Follows Cancel
+cm=rf0.98,-9.80:8.63x8.80,-60.0deg  pe41 -2,-4 fx=0.00,fy=0.00 
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+sp+cS+C3
+
+expt: cylinder et=dx e2=e0
+Expt Start (4464652): cylinder Disparity  0.00: 0.20x6 ed=13.9300
+xExpt2: EXPTYPE_NONE 0.55: 0.30x2

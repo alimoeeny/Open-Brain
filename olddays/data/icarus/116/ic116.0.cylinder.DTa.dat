@@ -1,0 +1,17 @@
+!f:$UNITGRAPHS/dxcylinder.f
+\Title ic116.0.cylinder.DTa.trl 370 to 403 Binoc
+#Preperiod 0.050, rate 5.71 +- 0.000  n = 28
+Delay = 0
+\xy-e
+-0.5000 16.21 5 3.03
+-0.3000 19.47 4 3.34
+-0.1000 19.21 4 3.11
+0.1000 4.74 4 1.39
+0.3000 4.91 3 0.70
+0.5000 6.58 4 0.50
+\label i=2 te=Blank \2_
+\xy-e--
+0.0000 13.16 4 1.01
+\yax 0 20
+\xax -0.50 0.50
+\label i=1 te=n=3 - 5 

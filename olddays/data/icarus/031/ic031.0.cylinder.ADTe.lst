@@ -1,0 +1,30 @@
+Clearclusters
+Cluster1 en6:25.30,45.30 ve6:10.59,23.16 pairen,ve,0.000000
+#Set by ceb on Mon Dec 11 09:21:19 2006
+
+Expt Disparity : cylinder 0.000 +-0.004 *5. 666-670, x Expt Initial Disparity: 0.000 +-0.005 *4. 666-670, nr20at-1.67,-9.71, 10.00x10.00, -45.00 deg. sf1.00tf10 48589541
+Dur 20103.88,19916 NF 119 IS 0.40 Framerate 60.00
+cm=rf-1.63,-9.59:8.50x7.58,-45.0deg  pe44 -3,-4 fx=0.00,fy=0
+props sq-2.60 xo-1.67 yo-9.71 wi10.00 hi10.00 or-45.00 sf1.00 tf10.00 dx0.0030 se8597 id6820 bd0.0000 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialWrong 202: 48557045-48581873 2
+cm=noback
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+cs+2a+bm+gm+x2+cS+C3
+
+expt: cylinder et=dx e2=Id
+Expt Start (48589541): cylinder Disparity  0.00: 0.00x5 ed=13.1800
+xExpt2: Initial Disparity 0.00: 0.00x4
+props sq-2.60 xo-1.67 yo-9.71 wi10.00 hi10.00 or-45.00 sf1.00 tf10.00 dx0.0080 se8598 id6821 bd0.0000 Id-0.00 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+stim 48615600-48635267:667 bG cylinder0 props sq-2.60 xo-1.67 yo-9.71 wi10.00 hi10.00 or-45.00 sf1.00 tf10.00 dx0.0000 se8599 id6822 bd0.0000 Id0.01 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialGood 203: 48614563-48638992 2
+props sq-2.60 xo-1.67 yo-9.71 wi10.00 hi10.00 or-45.00 sf1.00 tf10.00 dx0.0040 se8600 id6823 bd0.0000 Id-0.01 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+stim 48734598-48754764:669 bG cylinder0 props sq-2.60 xo-1.67 yo-9.71 wi10.00 hi10.00 or-45.00 sf1.00 tf10.00 dx0.0040 se8600 id6823 bd0.0000 Id-0.01 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialGood 204: 48733503-48758767 2
+props sq-2.60 xo-1.67 yo-9.71 wi10.00 hi10.00 or-45.00 sf1.00 tf10.00 dx0.0040 se8600 id6823 bd0.0000 Id-0.01 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+cm=noback
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+cs+2a+bm+gm+x2+cS+C3
+
+Error! Experiment started without stopping, trial 671
+
+expt: cylinder et=dx e2=Id
+Expt Start (48787599): cylinder Disparity  0.00: 0.00x5 ed=13.1800
+xExpt2: Initial Disparity 0.00: 0.00x4

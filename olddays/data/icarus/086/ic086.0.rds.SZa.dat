@@ -1,0 +1,16 @@
+!f:$UNITGRAPHS/sz.f
+\Title ic086.0.rds.SZa.trl 422 to 446 Binoc FY 5.00
+#Preperiod 0.050, rate 3.33 +- 0.000  n = 24
+none = 0
+\xy-e
+4.0200 37.15 5 4.24
+6.9900 45.00 4 4.10
+10.0000 30.71 4 5.52
+13.0100 40.00 4 4.21
+16.0200 20.95 3 3.43
+\label i=2 te=Blank \2_
+\xy-e--
+10.0000 0.71 4 0.71
+\yax 0 50
+\xax 4.02 16.02
+\label i=1 te=n=3 - 5 NOBACK wi=6.99 or=-45.00Ro=-30sl=1

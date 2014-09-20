@@ -1,0 +1,9 @@
+!f:$UNITGRAPHS/bd.f
+\Title ic064.0.cylinder.ABDSPg.trl 1006 to 1184 Binoc
+#Preperiod 0.050, rate 2.20 +- 0.000  n = 109
+none = 0
+\xy-e
+0.0000 24.90 109 1.63
+\yax 0 30
+\xax -0.10 0.10
+\label i=1 te=n=109 

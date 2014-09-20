@@ -1,0 +1,12 @@
+!f:$UNITGRAPHS/bd.f
+\Title ic007.0.cylinder.ABD.trl 297 to 860 Binoc
+#Preperiod 0.050, rate 10.00 +- 0.000  n = 88
+none = 0
+\xy-e
+0.0000 44.48 316 1.82
+\label i=2 te=Blank \2_
+\xy-e--
+0.0000 12.43 1 0.00
+\yax 0 50
+\xax -0.10 0.10
+\label i=1 te=n=1 - 316 

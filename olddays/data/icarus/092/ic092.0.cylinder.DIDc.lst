@@ -1,0 +1,31 @@
+Clearclusters
+Cluster1 en6:28.92,73.01 ve6:10.45,26.89 pairen,ve,0.000000
+#Set by ceb on Tue Mar 20 16:57:57 2007
+
+Expt Disparity : cylinder 0.000 +-0.003 *5. 694-698, x Expt Initial Disparity: 0.000 +-0.006 *6. 694-698, nr4at-6.40,1.24, 10.00x10.00, -90.00 deg. sf1.00tf10 12393006
+Dur 6177.43,0 NF 119 IS 0.40 Framerate 60.00
+cm=rf-3.29,1.71:7.75x14.06,90.0deg  pe91 -2,-5 fx=0.00,fy=0.L
+props sq3.00 xo-3.25 yo1.71 wi10.00 hi10.00 or-90.00 sf1.00 tf10.00 dx0.0000 se11643 id8083 bd0.0000 MD=0 op=+cn+cp+2a+xe+bm+ic 
+TrialGood 161: 12341187-12366374 1
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+cs+2a+bm+gm+x2+cb+cS+C3
+
+expt: cylinder et=dx e2=Id
+Expt Start (12393006): cylinder Disparity  0.00: 0.00x5 ed=21.8500
+xExpt2: Initial Disparity 0.00: 0.01x6
+stim 12398056-12417723:694 bG cylinder0 props sq3.00 xo-6.40 yo1.24 wi10.00 hi10.00 or-90.00 sf1.00 tf10.00 dx0.0030 se11644 id8084 bd0.0000 Id0.0090 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialWrong 162: 12397042-12421860 1
+stim 12427722-12447389:695 bG cylinder0 props sq3.00 xo-6.40 yo1.24 wi10.00 hi10.00 or-90.00 sf1.00 tf10.00 dx0.0060 se11645 id8085 bd0.0000 Id0.0000 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialWrong 163: 12426686-12451210 1
+stim 12457055-12476721:696 bG cylinder0 props sq-3.00 xo-6.40 yo1.24 wi10.00 hi10.00 or-90.00 sf1.00 tf10.00 dx-0.0060 se11646 id8086 bd0.0000 Id0.0000 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialWrong 164: 12456021-12481296 1
+stim 12488054-12507720:697 bG cylinder0 props sq3.00 xo-6.40 yo1.24 wi10.00 hi10.00 or-90.00 sf1.00 tf10.00 dx0.0060 se11647 id8087 bd0.0000 Id-0.0090 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialWrong 165: 12486979-12511358 1
+stim 12518387-12538053:698 bG cylinder0 props sq3.00 xo-6.40 yo1.24 wi10.00 hi10.00 or-90.00 sf1.00 tf10.00 dx0.0060 se11648 id8088 bd0.0000 Id-0.0090 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+EndExpt  (12538239)
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+cs+2a+bm+gm+x2+cb+cS+C3
+
+expt: cylinder et=dx e2=Id
+Expt Start (12707612): cylinder Disparity  0.00: 0.00x5 ed=21.8500
+xExpt2: Initial Disparity 0.00: 0.01x6

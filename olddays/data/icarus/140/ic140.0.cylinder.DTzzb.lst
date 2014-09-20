@@ -1,0 +1,30 @@
+Expt Disparity : cylinder 0.000 +-2.000 *5. 388-395, nr4at-0.45,-2.10, 9.99x10.00, -60.00 deg. sf1.00tf10 5457937
+Dur 9500.00,20333 NF 58 IS 0.40 Framerate 60.00
+cm=rf-0.60,-2.25:2.05x1.33,-60.cl
+props sq0.00 xo-0.45 yo-2.10 wi15.98 hi16.00 or-60.00 sf1.00 tf10.00 dx0.0000 se9313 id7050 bd0.0000 sz15.99 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 92: 5330870-5352838 2
+EndExpt  (5353925)
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+0m+gm+cS+C3
+
+expt: cylinder et=dx e2=e0
+Expt Start (5457937): cylinder Disparity  0.00: 2.00x5 ed=17.2000
+xExpt2: EXPTYPE_NONE 0.55: 0.30x2
+stim 5462732-5472232:388 bG cylinder0 props sq0.00 xo-0.45 yo-2.10 wi9.99 hi10.00 or-60.00 sf1.00 tf10.00 dx4.0049 se9315 id7051 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 5473565-5483065:389 bG none0 props sq0.00 xo-0.45 yo-2.10 wi9.99 hi10.00 or-60.00 sf1.00 tf10.00 dx0.0000 se9316 id7052 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 93: 5461585-5483831 2
+props sq0.00 xo-0.45 yo-2.10 wi9.99 hi10.00 or-60.00 sf1.00 tf10.00 dx0.0000 se9317 id7053 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+props sq0.00 xo-0.45 yo-2.10 wi9.99 hi10.00 or-60.00 sf1.00 tf10.00 dx0.0000 se9318 id7054 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 5523397-5532897:392 bG cylinder0 props sq0.00 xo-0.45 yo-2.10 wi9.99 hi10.00 or-60.00 sf1.00 tf10.00 dx0.0000 se9319 id7055 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 5534230-5543730:393 bG cylinder0 props sq0.00 xo-0.45 yo-2.10 wi9.99 hi10.00 or-60.00 sf1.00 tf10.00 dx-4.0049 se9320 id7056 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 94: 5522344-5544496 2
+stim 5550396-5559896:394 bG cylinder0 props sq0.00 xo-0.45 yo-2.10 wi9.99 hi10.00 or-60.00 sf1.00 tf10.00 dx-2.0006 se9321 id7057 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 5561229-5570729:395 bG cylinder0 props sq0.00 xo-0.45 yo-2.10 wi9.99 hi10.00 or-60.00 sf1.00 tf10.00 dx2.0006 se9322 id7058 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 95: 5549330-5571496 2
+Expt Cancelled
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+0m+gm+cS+C3
+
+expt: cylinder et=dx e2=e0
+Expt Start (5631976): cylinder Disparity  0.00: 0.20x5 ed=17.2000
+xExpt2: EXPTYPE_NONE 0.55: 0.30x2

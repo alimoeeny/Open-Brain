@@ -1,0 +1,17 @@
+!f:$UNITGRAPHS/dxcylinder.f
+\Title ic156.0.cylinder.61DTRCa.trl 521 to 583 Binoc
+#Preperiod 0.050, rate 4.21 +- 0.000  n = 57
+Delay = 0
+\xy-e
+-0.5000 16.00 10 2.78
+-0.3000 16.49 9 3.60
+-0.1000 22.11 7 3.38
+0.1000 25.92 8 4.29
+0.3000 18.95 7 4.86
+0.5000 16.32 8 2.06
+\label i=2 te=Blank \2_
+\xy-e--
+0.0000 5.26 8 2.10
+\yax 0 30
+\xax -0.50 0.50
+\label i=1 te=n=7 - 10 

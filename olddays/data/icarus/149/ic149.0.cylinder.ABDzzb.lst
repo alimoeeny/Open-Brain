@@ -1,0 +1,22 @@
+Expt Disparity : cylinder 0.000 +-0.002 *5. 576-580, x Expt Initial Disparity: 0.000 +-0.030 *6. 576-580, nr4at-13.23,-2.50, 9.99x10.00, -90.00 deg. sf1.00tf10 45234021
+Dur 19666.00,19666 NF 119 IS 0.40 Framerate 60.00
+cm=rf-13.42,-2.77:13.80x12.93,5.6deg  pe123 -1.0,-4.0 fx=7.0
+props sq-3.00 xo-13.23 yo-2.50 wi9.99 hi10.00 or-90.00 sf1.00 tf10.00 dx-0.0050 se15002 id11962 bd0.0000 Id-0.0750 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+Expt Cancelled
+fx=-7.00,fy=0.00
+cm=rf-13.42,-2.77:13.80x12.93,5.6deg  pe123 -1.0,-4.0 fx=7.00,fy=0.00 cl
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+cs+2a+bm+0m+gm+x2+cb+cS+C3+CF
+
+expt: cylinder et=dx e2=Id
+Expt Start (45234021): cylinder Disparity  0.00: 0.00x5 ed=13.6400
+xExpt2: Initial Disparity 0.00: 0.03x6
+props sq0.00 xo-13.23 yo-2.50 wi9.99 hi10.00 or-90.00 sf1.00 tf10.00 dx0.0000 se15005 id11964 bd0.0000 Id0.0000 op=+cn+cp+sc+2a+cd+xe+bm 
+stim 45261010-45280676:577 bG cylinder0 props sq0.00 xo-13.23 yo-2.50 wi9.99 hi10.00 or-90.00 sf1.00 tf10.00 dx-0.0025 se15006 id11965 bd0.0000 Id0.0450 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialGood 145: 45260020-45281461 1
+stim 45287176-45306842:578 bG cylinder0 props sq0.00 xo-13.23 yo-2.50 wi9.99 hi10.00 or-90.00 sf1.00 tf10.00 dx0.0050 se15007 id11966 bd0.0000 Id0.0450 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialGood 146: 45286168-45307626 1
+stim 45313509-45333175:579 bG cylinder0 props sq0.00 xo-13.23 yo-2.50 wi9.99 hi10.00 or-90.00 sf1.00 tf10.00 dx0.0000 se15008 id11967 bd0.0000 Id-0.0750 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialGood 147: 45312429-45333960 1
+stim 45339675-45359341:580 bG cylinder0 props sq0.00 xo-13.23 yo-2.50 wi9.99 hi10.00 or-90.00 sf1.00 tf10.00 dx-0.0025 se15009 id11968 bd0.0000 Id0.0000 op=+cn+cp+sc+2a+cd+xe+bm 
+Expt Cancelled

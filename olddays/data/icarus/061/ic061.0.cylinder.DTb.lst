@@ -1,0 +1,40 @@
+Clearclusters
+Cluster1 en6:29.26,81.93 ve6:10.01,29.52 pairen,ve,0.102344
+#Set by bgc on Tue Feb 27 20:20:52 2007
+
+#Cluster1 en6:29.26,81.93 ve6:10.01,29.52 pairen,ve,0.102344
+#Set by bgc on Tue Feb 27 20:20:50 2007
+
+Expt Disparity : cylinder 0.000 +-0.100 *3. 4229-4236, nr4at-5.71,-8.21, 5.00x5.00, 80.00 deg. sf3.00tf10 49827155
+Dur 19832.67,19832 NF 120 IS 0.40 Framerate 60.00
+cm=rf-5.53,-7.23:12.92x12.23,80.0deg  pe78 -2,-4 fx=0.00,fy=
+props sq0.00 xo-5.71 yo-8.21 wi3.00 hi3.00 or80.00 sf3.00 tf10.00 dx-0.1000 se151161 id10879 bd-0.2000 sz3.00 op=+cn+cp+sc+cd+bm+fS 
+TrialGood 1005: 49478143-49499744 1
+EndExpt  (49500850)
+cm=back=rds,wi=15.98,hi=15.98,ce=1.00,xo=-5.71,yo=1.00,dx=-0.20,co=1.00
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+cs+bm+gm+sp+da+cS+C3
+
+expt: cylinder et=dx e2=e0
+Expt Start (49827155): cylinder Disparity  0.00: 0.10x3 ed=13.2700
+xExpt2: EXPTYPE_NONE 0.00: 0.20x0
+stim 49831969-49851802:4229 bG cylinder0 props sq0.00 xo-5.71 yo-8.21 wi5.00 hi5.00 or80.00 sf3.00 tf10.00 dx0.1000 se151161 id10880 bd-0.2000 op=+cn+cp+sc+cd+bm 
+TrialGood 1006: 49830935-49852564 1
+props sq0.00 xo-5.71 yo-8.21 wi5.00 hi5.00 or80.00 sf3.00 tf10.00 dx0.0000 se151161 id10881 bd-0.2000 op=+cn+cp+sc+cd+bm 
+stim 49871801-49891634:4231 bG cylinder0 props sq0.00 xo-2.16 yo-8.84 wi5.00 hi5.00 or80.00 sf3.00 tf10.00 dx0.0000 se151161 id10882 bd-0.2000 op=+cn+cp+sc+cd+bm 
+TrialGood 1007: 49870788-49892397 1
+stim 49898301-49918133:4232 bG cylinder0 props sq0.00 xo-2.16 yo-8.84 wi5.00 hi5.00 or80.00 sf3.00 tf10.00 dx-0.1000 se151161 id10883 bd-0.2000 op=+cn+cp+sc+cd+bm 
+TrialGood 1008: 49897282-49918897 1
+stim 49924800-49944633:4233 bG cylinder0 props sq0.00 xo-5.71 yo-8.21 wi5.00 hi5.00 or80.00 sf3.00 tf10.00 dx-0.1000 se151161 id10884 bd-0.2000 op=+cn+cp+sc+cd+bm 
+TrialGood 1009: 49923769-49945395 1
+props sq0.00 xo-2.16 yo-8.84 wi5.00 hi5.00 or80.00 sf3.00 tf10.00 dx-0.1000 se151161 id10885 bd-0.2000 op=+cn+cp+sc+cd+bm 
+stim 49973466-49993298:4235 bG cylinder0 props sq0.00 xo-5.71 yo-8.21 wi5.00 hi5.00 or80.00 sf3.00 tf10.00 dx-0.1000 se151161 id10886 bd-0.2000 op=+cn+cp+sc+cd+bm 
+TrialGood 1010: 49972451-49994060 1
+stim 49999798-50019631:4236 bG cylinder0 props sq0.00 xo-5.71 yo-8.21 wi5.00 hi5.00 or80.00 sf3.00 tf10.00 dx0.1000 se151161 id10887 bd-0.2000 op=+cn+cp+sc+cd+bm 
+TrialGood 1011: 49998786-50020393 1
+EndExpt  (50021605)
+cm=back=rds,wi=15.98,hi=15.98,ce=1.00,xo=-5.71,yo=1.00,dx=-0.20,co=1.00
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+cs+bm+gm+sp+da+cS+C3
+
+expt: cylinder et=dx e2=e0
+Expt Start (50094722): cylinder Disparity  0.00: 0.10x3 ed=13.2700
+xExpt2: EXPTYPE_NONE 0.00: 0.20x0

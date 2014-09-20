@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My New OpenBrain! - Neurons</title>
+    <link rel="stylesheet" href="style/main.css" type="text/css">
+</head>
+<body>
+<script src="menu.js"></script>
+<div id="neuronslist"></div>
+<script src="http://www.google.com/jsapi"></script>
+<script>
+  // Load jQuery
+  google.load("jquery", "1");
+  google.setOnLoadCallback(function() {
+      //alert('onload');
+     $.getJSON('../experiments/_view/allNames', jCallBack);
+  }
+);
+
+function jCallBack(data)
+{
+  var s = '<ul>';
+    //alert(data.total_rows);
+    for(var i=0; i < Number(data.total_rows); i++){
+        var d = data.rows[i];
+        s += '<li><a href=\'../OpenWebBrain/raster.html?exptid="' + d['value'].DocId  + '"\'>' + d['value'].DocName + '</a> [ <a href=\'../OpenWebBrain/psth.html?exptid="' + d['value'].DocId + '"\'>sdf</a> ] - [ <a href=\'../OpenWebBrain/sdf.html?exptid="' + d['value'].DocId + '"\'>sdf 2</a> ] [ <a href=\'../OpenWebBrain/sdfG.html?exptid="' + d['value'].DocId + '"\'>sdf G</a> ]</li>';
+    }
+    s += '</ul>';
+    $('#neuronslist').append(s);
+}
+</script>
+</body>
+</html>

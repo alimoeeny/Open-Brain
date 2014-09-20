@@ -1,0 +1,9 @@
+!f:$UNITGRAPHS/bd.f
+\Title ic136.0.cylinder.ABDd.trl 552 to 650 Binoc FY 5.00
+#Preperiod 0.050, rate 4.38 +- 0.000  n = 73
+none = 0
+\xy-e
+0.0000 3.28 73 0.26
+\yax 0 10
+\xax -0.10 0.10
+\label i=1 te=n=73 

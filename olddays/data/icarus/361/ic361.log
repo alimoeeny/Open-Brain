@@ -1,0 +1,20 @@
+01-Sep-2009 16:50:57 Fixed LFP in Z:\bgc\data\icarus\361\ic361.lfp.mat
+01-Sep-2009 16:51:16 Saving index Z:\bgc\data\icarus\361\ic361idx.mat
+Cluster set for P1 Expt 1 01-Sep-2009 18:32:49
+Cluster set for P1 Expt 2 01-Sep-2009 18:32:59
+Cluster set for P1 Expt 3 01-Sep-2009 18:33:02
+Cluster set for P1 Expt 4 01-Sep-2009 18:33:08
+Cluster set for P1 Expt 5 01-Sep-2009 18:33:20
+Cluster set for P1 Expt 6 01-Sep-2009 18:33:34
+Cluster set for P1 Expt 7 01-Sep-2009 18:33:37
+Cluster set for P1 Expt 8 01-Sep-2009 18:33:45
+Cluster set for P1 Expt 9 01-Sep-2009 18:33:51
+Cluster set for P1 Expt 10 01-Sep-2009 18:33:57
+Cluster set for P1 Expt 11 01-Sep-2009 18:34:05
+Cluster set for P1 Expt 12 01-Sep-2009 18:34:11
+01-Sep-2009 18:34:24,Saved 794 spikes (Expts 1 2) to /bgc/data/icarus/361/ic361.c1.rds.OT.mat
+01-Sep-2009 18:34:27,Saved 726 spikes (Expts 3 4) to /bgc/data/icarus/361/ic361.c1.rds.OP.mat
+01-Sep-2009 18:34:31,Saved 1215 spikes (Expts 5 6) to /bgc/data/icarus/361/ic361.c1.rds.PP.mat
+01-Sep-2009 18:34:35,Saved 642 spikes (Expts 7 8) to /bgc/data/icarus/361/ic361.c1.rds.SZ.mat
+01-Sep-2009 18:34:38,Saved 1849 spikes (Expts 9 10) to /bgc/data/icarus/361/ic361.c1.rds.DT.mat
+01-Sep-2009 18:34:42,Saved 924 spikes (Expts 11 12) to /bgc/data/icarus/361/ic361.c1.cylinder.DT.mat

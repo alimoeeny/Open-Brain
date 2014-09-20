@@ -1,0 +1,16 @@
+!f:$UNITGRAPHS/sz.f
+\Title ic059.0.rds.SZb.trl 491 to 515 Binoc
+#Preperiod 0.050, rate 0.83 +- 0.000  n = 24
+none = 0
+\xy-e
+3.0000 1.71 5 0.70
+5.0000 4.29 4 0.82
+6.9900 8.57 3 2.86
+9.0000 11.43 4 1.17
+11.0000 16.43 4 2.95
+\label i=2 te=Blank \2_
+\xy-e--
+6.9900 0.00 4 0.00
+\yax 0 20
+\xax 3.00 11.00
+\label i=1 te=n=3 - 5 NOBACK wi=6.99 or=-45.00Ro=-125sl=1

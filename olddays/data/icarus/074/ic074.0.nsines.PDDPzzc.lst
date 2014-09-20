@@ -1,0 +1,17 @@
+Expt Phase Disp as Disp: nsines 0.000 +-0.150 *11. 1372-1375, x Expt Diparate phase: 22.500 +-45.000 *8. 1372-1375, nr4at-3.97,-0.90, 6.02x6.00, -90.00 deg. sf3.00tf10 20272910
+Dur 3499.75,0 NF 22 IS 0.40 Framerate 60.00
+cm=rf-3.97,-0.90:3.38x3.46,-90.0deg  pe83 0,-6 fx=0.00,fy=0.
+props sq0.00 xo-3.97 yo-0.90 wi6.02 hi6.00 or-90.00 sf3.00 tf10.00 dx0.0000 se15288 id7771 bd0.0000 Pd-0.60 dp0.79 op=+cn+cp+sc+cd+xe+bm+ic+fS+(null)+(null)  dp0.79
+TrialGood 461: 20184200-20204084 26
+EndExpt  (20207380)
+cm=back=rds,wi=7.03,hi=7.02,ce=1.00,xo=-3.97,yo=1.00,dx=0.00,co=1.00
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+im+iu+cs+bm+gm+x2+da+ao+fS+cS+C3
+
+expt: nsines et=Pd e2=dp
+Expt Start (20272910): nsines Phase Disp as Disp 0.00: 0.15x11 ed=18.2700
+xExpt2: Diparate phase 22.50: 45.00x8
+stim 20277921-20281420:1372 bG nsines0 props sq0.00 xo-3.97 yo-0.90 wi6.02 hi6.00 or-90.00 sf3.00 tf10.00 dx0.0000 se15288 id7772 bd0.0000 Pd0.45 dp-2.36 op=+cn+cp+sc+cd+xe+bm+ic+fS+(null)+(null)  dp-2.36
+stim 20282754-20286254:1373 bG nsines0 props sq0.00 xo-3.97 yo-0.90 wi6.02 hi6.00 or-90.00 sf3.00 tf10.00 dx0.0000 se15288 id7773 bd0.0000 Pd0.60 dp0.00 op=+cn+cp+sc+cd+xe+bm+ic+fS+(null)+(null)  dp0.00
+stim 20287587-20291087:1374 bG nsines0 props sq0.00 xo-3.97 yo-0.90 wi6.02 hi6.00 or-90.00 sf3.00 tf10.00 dx0.0000 se15288 id7774 bd0.0000 Pd-0.75 dp1.57 op=+cn+cp+sc+cd+xe+bm+ic+fS+(null)+(null)  dp1.57
+stim 20292420-20295920:1375 bG nsines0 props sq0.00 xo-3.97 yo-0.90 wi6.02 hi6.00 or-90.00 sf3.00 tf10.00 dx0.0000 se15288 id7775 bd0.0000 Pd-0.75 dp-2.36 op=+cn+cp+sc+cd+xe+bm+ic+fS+(null)+(null)  dp-2.36
+Expt Cancelled

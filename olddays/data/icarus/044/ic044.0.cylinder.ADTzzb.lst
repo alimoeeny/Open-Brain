@@ -1,0 +1,29 @@
+Expt Disparity : cylinder 0.000 +-0.008 *5. 293-302, x Expt Initial Disparity: 0.000 +-0.003 *6. 293-302, nr4at-3.98,-2.05, 6.99x7.00, 8.00 deg. sf1.00tf10 5766103
+Dur 19666.50,19666 NF 119 IS 0.40 Framerate 60.00
+cm=rf-3.93,-2.05:2.57x2.57,-90.0deg  pe53 -1,-6 fx=0.00,fy=0
+props sq0.42 xo-3.98 yo-2.05 wi6.99 hi7.00 or8.00 sf1.00 tf10.00 dx0.0080 se9474 id6997 bd0.0000 Id0.01 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialGood 67: 5669502-5692707 4
+Expt Cancelled
+cm=rf-3.93,-2.05:2.57x2.57,-90.0deg  pe53 -1,-6 fx=0.00,fy=0.00 
+cm=rf-3.93,-2.05:2.57x2.57,-90.0deg  pe53 -1,-6 fx=0.00,fy=0.00 
+cm=noback
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+cs+2a+bm+gm+x2+cS+C3
+
+expt: cylinder et=dx e2=Id
+Expt Start (5766103): cylinder Disparity  0.00: 0.01x5 ed=15.2900
+xExpt2: Initial Disparity 0.00: 0.00x6
+stim 5771847-5791514:293 bG cylinder0 props sq0.00 xo-3.98 yo-2.05 wi6.99 hi7.00 or8.00 sf1.00 tf10.00 dx-0.0080 se9475 id6998 bd0.0000 Id-0.01 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialWrong 68: 5770737-5795231 2
+stim 5800847-5820513:294 bG cylinder0 props sq0.00 xo-3.98 yo-2.05 wi6.99 hi7.00 or8.00 sf1.00 tf10.00 dx-0.0160 se9476 id6999 bd0.0000 Id0.00 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialGood 69: 5799969-5824557 2
+stim 5830679-5850346:295 bG cylinder0 props sq0.00 xo-3.98 yo-2.05 wi6.99 hi7.00 or8.00 sf1.00 tf10.00 dx0.0080 se9477 id7000 bd0.0000 Id0.00 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+props sq0.00 xo-3.98 yo-2.05 wi6.99 hi7.00 or8.00 sf1.00 tf10.00 dx0.0080 se9478 id7001 bd0.0000 Id0.00 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+props sq0.00 xo-3.98 yo-2.05 wi6.99 hi7.00 or8.00 sf1.00 tf10.00 dx0.0160 se9479 id7002 bd0.0000 Id0.00 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+stim 5928343-5948010:298 bG cylinder0 props sq0.00 xo-3.98 yo-2.05 wi6.99 hi7.00 or8.00 sf1.00 tf10.00 dx-0.0160 se9480 id7003 bd0.0000 Id0.00 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialGood 70: 5927292-5951875 2
+stim 5958843-5978509:299 bG cylinder0 props sq0.00 xo-3.98 yo-2.05 wi6.99 hi7.00 or8.00 sf1.00 tf10.00 dx-0.0080 se9481 id7004 bd0.0000 Id0.00 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialGood 71: 5957841-5982415 2
+props sq0.00 xo-3.98 yo-2.05 wi6.99 hi7.00 or8.00 sf1.00 tf10.00 dx0.0160 se9482 id7005 bd0.0000 Id0.00 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+props sq0.00 xo-3.98 yo-2.05 wi6.99 hi7.00 or8.00 sf1.00 tf10.00 dx0.0000 se9483 id7006 bd0.0000 Id0.01 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+stim 6024841-6044507:302 bG cylinder0 props sq0.00 xo-3.98 yo-2.05 wi6.99 hi7.00 or8.00 sf1.00 tf10.00 dx0.0000 se9484 id7007 bd0.0000 Id0.01 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+Expt Cancelled

@@ -1,0 +1,42 @@
+Clearclusters
+Cluster1 en6:17.11,40.96 ve6:15.59,25.06 pairen,ve,0.331396
+#Set by ceb on Tue May  1 13:45:05 2007
+
+Expt Disparity : cylinder 0.000 +-0.002 *5. 820-831, x Expt Initial Disparity: 0.000 +-0.017 *6. 820-831, nr4at-4.82,1.13, 7.00x7.00, -90.00 deg. sf1.00tf10 84552356
+Dur 19816.30,19666 NF 119 IS 0.40 Framerate 60.00
+cm=rf-4.70,1.01:4.26x1cl
+props sq3.00 xo-4.82 yo1.13 wi7.00 hi7.00 or-90.00 sf1.00 tf10.00 dx0.0000 se10110 id7507 bd0.0000 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialGood 230: 84361897-84386625 1
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+cs+2a+bm+0m+gm+x2+cb+cS+C3
+
+expt: cylinder et=dx e2=Id
+Expt Start (84552356): cylinder Disparity  0.00: 0.00x5 ed=19.9200
+xExpt2: Initial Disparity 0.00: 0.02x6
+stim 84556975-84576641:820 bG cylinder0 props sq3.00 xo-4.82 yo1.13 wi7.00 hi7.00 or-90.00 sf1.00 tf10.00 dx0.0018 se10111 id7508 bd0.0000 Id0.0250 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialGood 231: 84555819-84580456 1
+props sq3.00 xo-4.82 yo1.13 wi7.00 hi7.00 or-90.00 sf1.00 tf10.00 dx0.0000 se10112 id7509 bd0.0000 Id0.0000 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+stim 84603307-84622973:822 bG cylinder0 props sq3.00 xo-4.82 yo1.13 wi7.00 hi7.00 or-90.00 sf1.00 tf10.00 dx0.0036 se10113 id7510 bd0.0000 Id-0.0260 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialGood 232: 84602181-84626581 1
+props sq3.00 xo-4.82 yo1.13 wi7.00 hi7.00 or-90.00 sf1.00 tf10.00 dx0.0018 se10114 id7511 bd0.0000 Id0.0000 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+stim 84664805-84684472:824 bG cylinder0 props sq3.00 xo-4.82 yo1.13 wi7.00 hi7.00 or-90.00 sf1.00 tf10.00 dx0.0036 se10115 id7512 bd0.0000 Id-0.0430 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+props sq-3.00 xo-4.82 yo1.13 wi7.00 hi7.00 or-90.00 sf1.00 tf10.00 dx-0.0018 se10116 id7513 bd0.0000 Id-0.0430 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+props sq3.00 xo-4.82 yo1.13 wi7.00 hi7.00 or-90.00 sf1.00 tf10.00 dx0.0000 se10117 id7514 bd0.0000 Id0.0250 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+stim 84747303-84766970:827 bG cylinder0 props sq3.00 xo-4.82 yo1.13 wi7.00 hi7.00 or-90.00 sf1.00 tf10.00 dx0.0036 se10118 id7515 bd0.0000 Id0.0430 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialGood 233: 84746231-84770215 1
+stim 84778136-84797802:828 bG cylinder0 props sq3.00 xo-4.82 yo1.13 wi7.00 hi7.00 or-90.00 sf1.00 tf10.00 dx0.0036 se10119 id7516 bd0.0000 Id0.0000 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialGood 234: 84777020-84800891 1
+props sq-3.00 xo-4.82 yo1.13 wi7.00 hi7.00 or-90.00 sf1.00 tf10.00 dx0.0000 se10120 id7517 bd0.0000 Id0.0000 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+stim 84827635-84847301:830 bG cylinder0 props sq-3.00 xo-4.82 yo1.13 wi7.00 hi7.00 or-90.00 sf1.00 tf10.00 dx-0.0036 se10121 id7518 bd0.0000 Id0.0250 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialGood 235: 84826595-84850333 1
+stim 84856301-84875967:831 bG cylinder0 props sq-3.00 xo-4.82 yo1.13 wi7.00 hi7.00 or-90.00 sf1.00 tf10.00 dx-0.0018 se10122 id7519 bd0.0000 Id-0.0260 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialGood 236: 84855259-84879387 1
+Appended file at 84852829
+Error! Experiment started without stopping, trial 832
+
+UFF ic116.0 Created 26/4/2007 09:17 as ic116.2 by v4.55 replay version 1.41 Rev $Revision: 1.55 $
+expt: cylinder et=dx e2=Id
+Expt Start (84942265): cylinder Disparity  0.00: 0.00x5 ed=19.9200
+xExpt2: Initial Disparity 0.00: 0.02x6
+cm=rf-4.70,1.01:4.26x1.53,-90.0deg  pe103 -1.0,-6.0 fx=0.00,fy=0.00 
+cm=rf-4.70,1.01:4.26xsb-

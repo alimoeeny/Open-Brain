@@ -1,0 +1,30 @@
+Expt Disparity : cylinder 0.000 +-0.002 *5. 464-471, x Expt Initial Disparity: 0.000 +-0.035 *6. 464-471, nr4at-11.12,-3.00, 9.99x10.00, 90.00 deg. sf1.00tf10 16997857
+Dur 10454.39,19666 NF 119 IS 0.40 Framerate 60.00
+cm=rf-11.12,-3.09:1cl
+props sq-3.00 xo-11.12 yo-3.00 wi9.99 hi10.00 or90.00 sf1.00 tf10.00 dx0.2000 se13336 id8816 bd0.0000 MD=0 op=+cn+cp+2a+xe+bm+ic 
+TrialWrong 114: 16737411-16763204 2
+cm=rf-11.12,-3.09:1cl
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+cs+2a+bm+0m+gm+x2+cb+cS+C3+CF
+
+expt: cylinder et=dx e2=Id
+Expt Start (16997857): cylinder Disparity  0.00: 0.00x5 ed=19.7900
+xExpt2: Initial Disparity 0.00: 0.04x6
+stim 17002122-17021788:464 bG cylinder0 props sq0.00 xo-11.12 yo-3.00 wi9.99 hi10.00 or90.00 sf1.00 tf10.00 dx0.0017 se13337 id8817 bd0.0000 Id0.0000 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialGood 115: 17001090-17022573 1
+stim 17065620-17085287:465 bG cylinder0 props sq0.00 xo-11.12 yo-3.00 wi9.99 hi10.00 or90.00 sf1.00 tf10.00 dx0.0000 se13338 id8818 bd0.0000 Id-0.0520 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialGood 116: 17064487-17086073 1
+props sq0.00 xo-11.12 yo-3.00 wi9.99 hi10.00 or90.00 sf1.00 tf10.00 dx-0.0034 se13339 id8819 bd0.0000 Id0.0530 op=+cn+cp+sc+2a+cd+xe+bm 
+props sq0.00 xo-11.12 yo-3.00 wi9.99 hi10.00 or90.00 sf1.00 tf10.00 dx0.0017 se13341 id8821 bd0.0000 Id-0.0520 op=+cn+cp+sc+2a+cd+xe+bm 
+props sq0.00 xo-11.12 yo-3.00 wi9.99 hi10.00 or90.00 sf1.00 tf10.00 dx0.0034 se13343 id8823 bd0.0000 Id-0.0870 op=+cn+cp+sc+2a+cd+xe+bm 
+stim 17163784-17183451:469 bG cylinder0 props sq0.00 xo-11.12 yo-3.00 wi9.99 hi10.00 or90.00 sf1.00 tf10.00 dx-0.0034 se13345 id8825 bd0.0000 Id0.0880 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialGood 117: 17162754-17184239 1
+props sq0.00 xo-11.12 yo-3.00 wi9.99 hi10.00 or90.00 sf1.00 tf10.00 dx0.0000 se13346 id8826 bd0.0000 Id0.0530 op=+cn+cp+sc+2a+cd+xe+bm 
+props sq0.00 xo-11.12 yo-3.00 wi9.99 hi10.00 or90.00 sf1.00 tf10.00 dx-0.0034 se13348 id8828 bd0.0000 Id0.0000 op=+cn+cp+sc+2a+cd+xe+bm 
+Expt Cancelled
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+cs+2a+bm+0m+gm+x2+cb+cS+C3+CF
+
+expt: cylinder et=dx e2=Id
+Expt Start (17331445): cylinder Disparity  0.00: 0.00x5 ed=19.7900
+xExpt2: Initial Disparity 0.00: 0.04x6

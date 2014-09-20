@@ -1,0 +1,27 @@
+Expt Y offset: none 0.000 +-3.000 *9. 350-356, nr4at-9.64,-9.00, 3.01x15.00, 0.00 deg. sf1.00tf10 7110176
+Dur 3500.00,15416 NF 22 IS 0.40 Framerate 60.00
+cm=rf-9.56,-0.32:14.79x9.95,-135.0deg  pe128 0.0,-6.0 fx=0.0
+props sq0.00 xo-9.64 yo3.00 wi3.01 hi15.00 or0.00 sf1.00 tf10.00 dx0.1500 se15966 id10510 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+Expt Cancelled
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+0m+gm+cS+C3+CF
+
+expt: none et=yo e2=e0
+Expt Start (7110176): none Y offset 0.00: 3.00x9 ed=19.8900
+xExpt2: EXPTYPE_NONE 90.00: 180.00x0
+stim 7116148-7119648:350 bG none0 props sq0.00 xo-9.64 yo12.00 wi3.01 hi15.00 or0.00 sf1.00 tf10.00 dx0.1500 se15971 id10512 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 7120982-7124482:351 bG none0 props sq0.00 xo-9.64 yo0.00 wi3.01 hi15.00 or0.00 sf1.00 tf10.00 dx0.1500 se15972 id10513 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 7125815-7129315:352 bG none0 props sq0.00 xo-9.64 yo-12.00 wi3.01 hi15.00 or0.00 sf1.00 tf10.00 dx0.1500 se15973 id10514 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 72: 7115152-7130087 3
+stim 7135815-7139315:353 bG none0 props sq0.00 xo-9.64 yo-6.00 wi3.01 hi15.00 or0.00 sf1.00 tf10.00 dx0.1500 se15974 id10515 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 7140481-7143981:354 bG none0 props sq0.00 xo-9.64 yo9.00 wi3.01 hi15.00 or0.00 sf1.00 tf10.00 dx0.1500 se15975 id10516 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 7145148-7148648:355 bG none0 props sq0.00 xo-9.64 yo0.00 wi3.01 hi15.00 or0.00 sf1.00 tf10.00 dx0.1500 se15976 id10517 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 7149981-7153481:356 bG none0 props sq0.00 xo-9.64 yo-9.00 wi3.01 hi15.00 or0.00 sf1.00 tf10.00 dx0.1500 se15977 id10518 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 73: 7134803-7154254 4
+Expt Cancelled
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+0m+gm+cS+C3+CF
+
+expt: rds et=yo e2=e0
+Expt Start (7206287): rds Y offset 0.00: 3.00x9 ed=19.8900
+xExpt2: EXPTYPE_NONE 90.00: 180.00x0

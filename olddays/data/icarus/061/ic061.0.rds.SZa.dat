@@ -1,0 +1,17 @@
+!f:$UNITGRAPHS/sz.f
+\Title ic061.0.rds.SZa.trl 4630 to 4679 Binoc
+#Preperiod 0.050, rate 3.60 +- 0.000  n = 50
+\Xlabel Position Disp
+none = 0
+\xy-e
+5.0000 93.89 9 8.28
+6.9900 77.15 7 5.52
+9.0000 54.69 8 5.70
+11.0000 32.19 8 6.19
+13.0100 17.78 9 3.07
+\label i=2 te=Blank \2_
+\xy-e--
+9.0000 0.83 9 0.59
+\yax 0 100
+\xax 5.00 13.01
+\label i=1 te=n=7 - 9 NOBACK wi=9.00 or=80.00Ro=80sl=0

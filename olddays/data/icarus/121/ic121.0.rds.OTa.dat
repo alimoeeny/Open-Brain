@@ -1,0 +1,9 @@
+!f:$UNITGRAPHS/or.f
+\Title ic121.0.rds.OTa.trl 1 to 7 Binoc FY 5.00
+#Preperiod 0.050, rate 50.00 +- 2.000  n = 8
+none = 0
+\xy-e
+133.3500 62.19 8 7.46
+\yax 0 70
+\xax 133.25 133.45
+\label i=1 te=n=8 NOBACK wi=15.01 or=133.35Ro=135sl=1

@@ -1,0 +1,26 @@
+Expt Disparity : rds 0.000 +-0.200 *13. 50-60, nr4at-0.28,-5.53, 7.00x7.00, -86.62 deg. sf1.00tf10 528831
+Dur 3500.00,17916 NF 22 IS 0.40 Framerate 60.00
+cm=rf-0.24,-5.09:2.85x3.21,5.6deg  pe105 -2.0,-5.0 fx=0.00,f
+props sq0.00 xo-0.28 yo-5.53 wi7.00 hi7.00 or135.00 sf1.00 tf10.00 dx-0.5000 se8922 id6916 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 11: 389005-408871 4
+EndExpt  (410070)
+cm=back=rds,wi=7.99,hi=8.00,ce=1.00,xo=-0.28,yo=1.00,dx=0.00,co=1.00
+mtop=op+do+aa+72+fc+fb+ap+wt+cf+ws+ts+sw+ic+cs+bm+gm+cS+C3
+
+expt: rds et=dx e2=e0
+Expt Start (528831): rds Disparity  0.00: 0.20x13 ed=17.6200
+xExpt2: EXPTYPE_NONE 0.00: 180.00x0
+stim 533598-537098:50 bG rds0 props sq0.00 xo-0.28 yo-5.53 wi7.00 hi7.00 or-86.62 sf1.00 tf10.00 dx0.0000 se8925 id6917 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 538431-541931:51 bG rds0 props sq0.00 xo-0.28 yo-5.53 wi7.00 hi7.00 or-86.62 sf1.00 tf10.00 dx0.2000 se8928 id6918 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 543098-546598:52 bG rds0 props sq0.00 xo-0.28 yo-5.53 wi7.00 hi7.00 or-86.62 sf1.00 tf10.00 dx-1.0001 se8931 id6919 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 547931-551431:53 bG rds0 props sq0.00 xo-0.28 yo-5.53 wi7.00 hi7.00 or-86.62 sf1.00 tf10.00 dx1.2001 se8934 id6920 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 12: 532476-552206 4
+stim 558098-561598:54 bG rds0 props sq0.00 xo-0.28 yo-5.53 wi7.00 hi7.00 or-86.62 sf1.00 tf10.00 dx1.0001 se8937 id6921 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 562931-566431:55 bG none0 props sq0.00 xo-0.28 yo-5.53 wi7.00 hi7.00 or-86.62 sf1.00 tf10.00 dx0.0000 se8940 id6922 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 567764-571264:56 bG rds0 props sq0.00 xo-0.28 yo-5.53 wi7.00 hi7.00 or-86.62 sf1.00 tf10.00 dx-1.2001 se8943 id6923 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 572597-576097:57 bG rds0 props sq0.00 xo-0.28 yo-5.53 wi7.00 hi7.00 or-86.62 sf1.00 tf10.00 dx-0.4000 se8946 id6924 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 13: 557021-576872 4
+stim 594263-597763:58 bG rds0 props sq0.00 xo-0.28 yo-5.53 wi7.00 hi7.00 or-86.62 sf1.00 tf10.00 dx-0.8000 se8952 id6926 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 599097-602597:59 bG rds0 props sq0.00 xo-0.28 yo-5.53 wi7.00 hi7.00 or-86.62 sf1.00 tf10.00 dx0.8000 se8955 id6927 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 603930-607430:60 bG rds0 props sq0.00 xo-0.28 yo-5.53 wi7.00 hi7.00 or-86.62 sf1.00 tf10.00 dx-0.2000 se8958 id6928 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+Expt Cancelled

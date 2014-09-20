@@ -1,0 +1,34 @@
+Clearclusters
+Cluster1 en6:26.02,62.17 ve6:8.62,19.58 pairen,ve,0.000000
+#Set by ceb on Wed Mar  7 18:13:32 2007
+
+Expt Paralell Offset: rds -1.044 +-1.000 *13. 1420-1434, nr4at-2.99,-6.92, 20.00x2.00, -45.00 deg. sf1.00tf10 53628520
+Dur 3690.38,17999 NF 22 IS 0.40 Framerate 60.00
+cm=rf-2.61,-6.61:3.29x3.93,-45.0deg  pe84 1,-5 fx=0.00,fy=0.
+props sq0.00 xo-3.70 yo-6.22 wi20.00 hi2.00 or-45.00 sf1.00 tf10.00 dx0.2000 se12501 id9405 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 709: 53554221-53574499 4
+cm=noback
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+cb+cS+C3
+
+expt: rds et=Pp e2=e0
+Expt Start: rds type 287 -1.04: 1.00x13 ed=18.4000
+xExpt2: EXPTYPE_NONE 0.00: 0.00x0
+stim 53635388-53638888:1420 bG rds0 props sq0.00 xo-7.23 yo-2.68 wi20.00 hi2.00 or-45.00 sf1.00 tf10.00 dx0.2000 se12504 id9406 bd0.0000 Pp-3.22 op=+cn+cp+sc+cd+bm+ic 
+stim 53640221-53643721:1421 bG rds0 props sq0.00 xo-4.40 yo-5.51 wi20.00 hi2.00 or-45.00 sf1.00 tf10.00 dx0.2000 se12507 id9407 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 53645055-53648554:1422 bG rds0 props sq0.00 xo-2.28 yo-7.63 wi20.00 hi2.00 or-45.00 sf1.00 tf10.00 dx0.2000 se12510 id9408 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 53649888-53653388:1423 bG rds0 props sq0.00 xo0.55 yo-10.46 wi20.00 hi2.00 or-45.00 sf1.00 tf10.00 dx0.2000 se12513 id9409 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 710: 53634275-53654164 4
+stim 53660054-53663554:1424 bG rds0 props sq0.00 xo-0.87 yo-9.05 wi20.00 hi2.00 or-45.00 sf1.00 tf10.00 dx0.2000 se12516 id9410 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+props sq0.00 xo-7.94 yo-1.97 wi20.00 hi2.00 or-45.00 sf1.00 tf10.00 dx0.2000 se12519 id9411 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 53681054-53684554:1426 bG rds0 props sq0.00 xo-7.94 yo-1.97 wi20.00 hi2.00 or-45.00 sf1.00 tf10.00 dx0.2000 se12522 id9412 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 53685888-53689387:1427 bG rds0 props sq0.00 xo-6.52 yo-3.39 wi20.00 hi2.00 or-45.00 sf1.00 tf10.00 dx0.2000 se12525 id9413 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 53690720-53694220:1428 bG none0 props sq0.00 xo-3.70 yo-6.22 wi20.00 hi2.00 or-45.00 sf1.00 tf10.00 dx0.2000 se12528 id9414 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 53695553-53699053:1429 bG rds0 props sq0.00 xo-3.70 yo-6.22 wi20.00 hi2.00 or-45.00 sf1.00 tf10.00 dx0.2000 se12531 id9415 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 711: 53680062-53699830 4
+stim 53705720-53709220:1430 bG rds0 props sq0.00 xo-5.11 yo-4.80 wi20.00 hi2.00 or-45.00 sf1.00 tf10.00 dx0.2000 se12534 id9416 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 53710553-53714053:1431 bG rds0 props sq0.00 xo-5.82 yo-4.10 wi20.00 hi2.00 or-45.00 sf1.00 tf10.00 dx0.2000 se12537 id9417 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 53715386-53718887:1432 bG rds0 props sq0.00 xo-0.16 yo-9.75 wi20.00 hi2.00 or-45.00 sf1.00 tf10.00 dx0.2000 se12540 id9418 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 53720219-53723719:1433 bG rds0 props sq0.00 xo-1.57 yo-8.34 wi20.00 hi2.00 or-45.00 sf1.00 tf10.00 dx0.2000 se12543 id9419 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 712: 53704565-53724498 4
+props sq0.00 xo-2.99 yo-6.92 wi20.00 hi2.00 or-45.00 sf1.00 tf10.00 dx0.2000 se12546 id9420 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+EndExpt  (53744543)

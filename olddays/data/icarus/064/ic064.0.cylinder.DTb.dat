@@ -1,0 +1,11 @@
+!f:$UNITGRAPHS/dxcylinder.f
+\Title ic064.0.cylinder.DTSPb.trl 382 to 397 Binoc FY 0.33 0
+#Preperiod 0.050, rate 18.46 +- 1.414  n = 13
+Delay = 0
+\xy-e
+-0.1000 41.43 6 3.60
+0.0000 38.10 3 7.80
+0.1000 2.86 4 1.17
+\yax 0 50
+\xax -0.10 0.10
+\label i=1 te=n=3 - 6 

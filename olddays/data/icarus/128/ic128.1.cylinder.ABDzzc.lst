@@ -1,0 +1,26 @@
+Expt Disparity : cylinder 0.000 +-0.002 *5. 550-558, x Expt Initial Disparity: 0.000 +-0.018 *6. 550-558, nr4at-4.68,-1.31, 7.00x7.00, -90.00 deg. sf1.00tf10 8380318
+Dur 10483.55,19666 NF 119 IS 0.40 Framerate 60.00
+cm=rf-4.97,-cl
+props sq0.00 xo-4.68 yo-1.31 wi7.00 hi7.00 or-90.00 sf1.00 tf10.00 dx0.0000 se10418 id7324 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 131: 7765949-7788200 2
+EndExpt  (7789557)
+cm=rf-4.97,-cl
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+cs+2a+bm+0m+gm+x2+cb+cS+C3
+
+expt: cylinder et=dx e2=Id
+Expt Start (8380318): cylinder Disparity  0.00: 0.00x5 ed=18.6600
+xExpt2: Initial Disparity 0.00: 0.02x6
+stim 8384750-8404417:550 bG cylinder0 props sq0.00 xo-4.68 yo-1.31 wi7.00 hi7.00 or-90.00 sf1.00 tf10.00 dx-0.0018 se10419 id7325 bd0.0000 Id-0.0270 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialGood 132: 8383675-8405202 1
+props sq0.00 xo-4.68 yo-1.31 wi7.00 hi7.00 or-90.00 sf1.00 tf10.00 dx0.0036 se10420 id7326 bd0.0000 Id0.0000 op=+cn+cp+sc+2a+cd+xe+bm 
+props sq0.00 xo-4.68 yo-1.31 wi7.00 hi7.00 or-90.00 sf1.00 tf10.00 dx0.0018 se10421 id7327 bd0.0000 Id0.0270 op=+cn+cp+sc+2a+cd+xe+bm 
+stim 8445748-8465415:553 bG cylinder0 props sq0.00 xo-4.68 yo-1.31 wi7.00 hi7.00 or-90.00 sf1.00 tf10.00 dx-0.0036 se10422 id7328 bd0.0000 Id0.0000 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialGood 133: 8444607-8466200 1
+props sq0.00 xo-4.68 yo-1.31 wi7.00 hi7.00 or-90.00 sf1.00 tf10.00 dx-0.0036 se10423 id7329 bd0.0000 Id-0.0270 op=+cn+cp+sc+2a+cd+xe+bm 
+props sq0.00 xo-4.68 yo-1.31 wi7.00 hi7.00 or-90.00 sf1.00 tf10.00 dx-0.0036 se10424 id7330 bd0.0000 Id-0.0450 op=+cn+cp+sc+2a+cd+xe+bm 
+props sq0.00 xo-4.68 yo-1.31 wi7.00 hi7.00 or-90.00 sf1.00 tf10.00 dx-0.0018 se10425 id7331 bd0.0000 Id0.0270 op=+cn+cp+sc+2a+cd+xe+bm 
+stim 8533413-8553079:557 bG cylinder0 props sq0.00 xo-4.68 yo-1.31 wi7.00 hi7.00 or-90.00 sf1.00 tf10.00 dx0.0036 se10426 id7332 bd0.0000 Id0.0270 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialGood 134: 8532381-8553865 1
+props sq0.00 xo-4.68 yo-1.31 wi7.00 hi7.00 or-90.00 sf1.00 tf10.00 dx0.0036 se10427 id7333 bd0.0000 Id0.0000 op=+cn+cp+sc+2a+cd+xe+bm 
+Expt Cancelled

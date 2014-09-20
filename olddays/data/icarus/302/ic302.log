@@ -1,0 +1,32 @@
+07-Aug-2009 16:38:12 Fixed LFP in Z:\bgc\data\icarus\302\ic302.lfp.mat
+07-Aug-2009 16:38:34 Saving index Z:\bgc\data\icarus\302\ic302idx.mat
+Cluster set for P1 Expt 1 07-Aug-2009 16:58:31
+07-Aug-2009 16:58:33,Saved 649 spikes (Expts 1) to Z:\data\icarus\302\ic302.c1.rds.OT.mat
+Cluster set for P1 Expt 2 07-Aug-2009 16:58:37
+07-Aug-2009 16:58:39,Saved 983 spikes (Expts 2) to Z:\data\icarus\302\ic302.c1.rds.OP.mat
+Cluster set for P1 Expt 3 07-Aug-2009 16:58:47
+07-Aug-2009 16:58:49,Saved 961 spikes (Expts 3) to Z:\data\icarus\302\ic302.c1.rds.PP.mat
+Cluster set for P1 Expt 4 07-Aug-2009 16:58:57
+Cluster set for P1 Expt 6 07-Aug-2009 16:59:00
+07-Aug-2009 16:59:05,Saved 1225 spikes (Expts 4 6) to Z:\data\icarus\302\ic302.c1.cylinder.DT.mat
+Cluster set for P1 Expt 5 07-Aug-2009 16:59:14
+07-Aug-2009 16:59:17,Saved 636 spikes (Expts 5) to Z:\data\icarus\302\ic302.c1.cylinder.SZ.mat
+Cluster set for P1 Expt 7 07-Aug-2009 16:59:22
+Cluster set for P1 Expt 9 07-Aug-2009 16:59:31
+Cluster set for P1 Expt 10 07-Aug-2009 16:59:40
+Cluster set for P1 Expt 12 07-Aug-2009 16:59:48
+07-Aug-2009 16:59:56,Saved 17358 spikes (Expts 9 10 12) to Z:\data\icarus\302\ic302.c1.cylinder.ABD.mat
+Cluster set for P1 Expt 12 13-Aug-2009 14:39:03
+13-Aug-2009 14:39:15,Saved 18566 spikes (Expts 7 9 10 12) to Z:\data\icarus\302\ic302.c1.cylinder.ABD.mat
+14-Nov-2009 21:01:13,Saved 802 spikes (Expts 1) to /bgc/data/icarus/302/ic302.c1.rds.OT.mat
+14-Nov-2009 21:01:13, LFP file /bgc/data/icarus/302/ic302.lfp.rds.OT.mat (Took 0.1 0.0)
+14-Nov-2009 21:01:14,Saved 1140 spikes (Expts 2) to /bgc/data/icarus/302/ic302.c1.rds.OP.mat
+14-Nov-2009 21:01:14, LFP file /bgc/data/icarus/302/ic302.lfp.rds.OP.mat (Took 0.1 0.0)
+14-Nov-2009 21:01:14,Saved 1121 spikes (Expts 3) to /bgc/data/icarus/302/ic302.c1.rds.PP.mat
+14-Nov-2009 21:01:14, LFP file /bgc/data/icarus/302/ic302.lfp.rds.PP.mat (Took 0.1 0.0)
+14-Nov-2009 21:01:14,Saved 1492 spikes (Expts 4 6) to /bgc/data/icarus/302/ic302.c1.cylinder.DT.mat
+14-Nov-2009 21:01:15, LFP file /bgc/data/icarus/302/ic302.lfp.cylinder.DT.mat (Took 0.1 0.0)
+14-Nov-2009 21:01:15,Saved 781 spikes (Expts 5) to /bgc/data/icarus/302/ic302.c1.cylinder.SZ.mat
+14-Nov-2009 21:01:15, LFP file /bgc/data/icarus/302/ic302.lfp.cylinder.SZ.mat (Took 0.1 0.0)
+14-Nov-2009 21:01:16,Saved 19331 spikes (Expts 7 9 10 12) to /bgc/data/icarus/302/ic302.c1.cylinder.ABD.mat
+14-Nov-2009 21:01:16, LFP file /bgc/data/icarus/302/ic302.lfp.cylinder.ABD.mat (Took 0.3 0.1)

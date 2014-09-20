@@ -1,0 +1,32 @@
+Expt Paralell Offset: rds 0.000 +-2.000 *9. 615-621, nr5at-6.81,10.87, 20.00x2.00, 15.00 deg. sf3.00tf10 13083274
+Dur 4738.00,14000 NF 25 IS 0.40 Framerate 60.00
+cm=rf-5.30,5.21:6.10x3.64,15.0deg  pe83 0,-6 fx=0.00,fy=0.00
+props sq0.00 xo-5.25 yo4.36 wi8.00 hi8.00 or135.00 sf3.00 tf10.00 dx-0.4000 se70622 id11583 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 129: 8458784-8479054 4
+EndExpt  (8482662)
+cm=rf-5.21,5.17:6.10x3.64,45.0deg  pe83 0,-6 fx=0.00,fy=0.00 
+cm=rf-5.21,5.17:6.10x3.64,6.6deg  pe83 0,-6 fx=0.00,fy=0.00 
+cm=rf-5.30,5.21:6.10x3.64,6.6deg  pe83 0,-6 fx=0.00,fy=0.00 
+cm=rf-5.30,5.21:6.10x3.64,15.0deg  pe83 0,-6 fx=0.00,fy=0.00 
+cm=rf-5.30,5.21:6.10x3.64,15.0deg  pe83 0,-6 fx=0.00,fy=0.00 
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+sp+da+ao+cS+C3
+
+expt: rds et=Pp e2=e0
+Expt Start: rds type 288 0.00: 2.00x9 ed=21.0500
+xExpt2: EXPTYPE_NONE 0.00: 2.00x2
+stim 13079503-13088669:615 bG rds0 props sq0.00 xo-2.95 yo11.91 wi20.00 hi2.00 or15.00 sf3.00 tf10.00 dx-0.1583 se70625 id11584 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 13089669-13093669:616 bG rds0 props sq0.00 xo0.92 yo12.94 wi20.00 hi2.00 or15.00 sf3.00 tf10.00 dx-0.1583 se70628 id11585 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 13094669-13098669:617 bG none0 props sq0.00 xo-6.81 yo10.87 wi20.00 hi2.00 or15.00 sf3.00 tf10.00 dx-0.1583 se70631 id11586 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 13099669-13103669:618 bG rds0 props sq0.00 xo-4.88 yo11.39 wi20.00 hi2.00 or15.00 sf3.00 tf10.00 dx-0.1583 se70634 id11587 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 130: 13083668-13103941 4
+stim 13109835-13113835:619 bG rds0 props sq0.00 xo-10.68 yo9.84 wi20.00 hi2.00 or15.00 sf3.00 tf10.00 dx-0.1583 se70637 id11588 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 13114835-13118835:620 bG rds0 props sq0.00 xo-1.02 yo12.42 wi20.00 hi2.00 or15.00 sf3.00 tf10.00 dx-0.1583 se70640 id11589 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 13119835-13123835:621 bG rds0 props sq0.00 xo-6.81 yo10.87 wi20.00 hi2.00 or15.00 sf3.00 tf10.00 dx-0.1583 se70643 id11590 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+Expt Cancelled
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+sp+da+ao+cS+C3
+
+expt: rds et=Pp e2=e0
+Expt Start: rds type 288 0.00: 2.00x9 ed=21.0500
+xExpt2: EXPTYPE_NONE 0.00: 2.00x2

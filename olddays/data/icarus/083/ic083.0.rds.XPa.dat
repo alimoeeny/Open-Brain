@@ -1,0 +1,9 @@
+!f:$UNITGRAPHS/xo.f
+\Title ic083.0.rds.XPa.trl 1 to 7 Binoc
+#Preperiod 0.050, rate 7.50 +- 0.000  n = 8
+none = 0
+\xy-e
+-2.2700 43.44 8 1.56
+\yax 0 50
+\xax -2.37 -2.17
+\label i=1 te=n=8 NOBACK wi=10.00 or=3.55Ro=0sl=1

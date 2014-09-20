@@ -1,0 +1,85 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+    <head> 
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+        <title>My New OpenBrain! - Spike Density Function Plot</title> 
+    <link rel="stylesheet" href="style/main.css" type="text/css">
+        <link rel="stylesheet" href="demo.css" type="text/css" media="screen"> 
+        <link rel="stylesheet" href="demo-print.css" type="text/css" media="print"> 
+         <link rel="stylesheet" href="style/main.css" type="text/css">
+   <style type="text/css" media="screen"> 
+            #holder {
+                height: 500px;
+                margin: 5px 0 0 5px;
+                width: 2500px;
+            }
+        </style> 
+        <script src="raphael.js" type="text/javascript" charset="utf-8"></script> 
+        <script src="querystring.js"></script>
+        <script src="OpenBrainArray.js" type="text/javascript"></script>
+    </head> 
+    <body> 
+        <div id="nobes">
+           <form id="nobesForm" method="GET"> 
+           <input type="hidden" name="exptid" id="exptid" value="">
+           <input type="radio" name="sortField" value="dx">Disparity</input>
+           <input type="radio" name="sortField" value="RespDir">Response</input>
+           <input type="button" name="submitBtn" onclick="submit()" value="Go!"/> 
+           </form>
+        </div>
+        <div id="holder"></div> 
+        <script src="http://www.google.com/jsapi"></script>
+        <script type="text/javascript" language="javascript" charset="utf-8">
+            //load jQuery
+            google.load("jquery","1");
+            google.setOnLoadCallback(function() {
+                var qs = new Querystring();
+                $('#exptid').val(qs.get('exptid'));
+                //$.getJSON('../experiments/_view/spiketrain?key=' + qs.get('exptid'), jCallBack );
+                //$.getJSON('../experiments/_view/spiketrain2?key=' + qs.get('exptid'), jCallBack );
+                $.getJSON('../analysis/_view/sdf10?key=' + qs.get('exptid'), jCallBack );
+                }
+                );
+
+            function jCallBack(data){
+                var dots = new Array;
+                var r = Raphael("holder", 2500, 500);
+                p1 = r.path("M0 480L500 480") 
+                p1.attr({fill:"#f0f", stroke: "#f0f", "stroke-width":4});
+                p2 = r.path("M20 20L20 500"); 
+                p2.attr({fill:"#f0f", stroke: "#ff0", "stroke-width":4}); 
+
+                sdf = data.rows[0]['value'];
+	        sdf = OBnormalize(sdf);      
+                j1 = 0; k1=500; j2=0; k2=500;
+                // scale the time
+                ScFc = 1.0;
+                if (sdf.length>1000)
+                    ScFc = 1000.0 / sdf.length;           
+                for(j=0; j< sdf.length; j++){
+                    j2 = ScFc * j; k2 = 400.0-(470.0*sdf[j]); 
+                    //dots[j] = r.rect(j2, k2, 2, 2, 0).attr({fill: "#666", stroke: "none"})
+                    p = 'M' + Math.round(j1) + ' ' + Math.round(k1) + 'L' + Math.round(j2) + ' ' + Math.round(k2);  
+                    r.path(p).attr({fill: "#000", stroke: "#555", "stroke-width": 3})
+                    //console.log(p);
+                    j1 = j2; k1 = k2;
+                    }
+    
+/*                    month = r.text(310, 27, months[now]).attr({fill: "#fff", stroke: "none", "font": '100 18px "Helvetica Neue", Helvetica, "Arial Unicode MS", Arial, sans-serif'}),
+                    rightc = r.circle(364, 27, 10).attr({fill: "#fff", stroke: "none"}),
+                    right = r.path("M360,22l10,5 -10,5z").attr({fill: "#000"}),
+                    leftc = r.circle(256, 27, 10).attr({fill: "#fff", stroke: "none"}),
+                    left = r.path("M260,22l-10,5 10,5z").attr({fill: "#000"}),
+                    c = r.path("M0,0").attr({fill: "none", "stroke-width": 3}),
+                    bg = r.path("M0,0").attr({stroke: "none", opacity: .3}),
+                    dotsy = [];
+                    c.attr({path: values[0], stroke: clr[0]});
+                    bg.attr({path: values[0] + "L590,250 10,250z", fill: clr[0]});
+*/
+                  }
+                                                       
+</script>
+
+
+    </body> 
+</html>

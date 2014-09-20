@@ -1,0 +1,25 @@
+Expt Orientation: none 22.500 +-45.000 *8. 38-42, nr4at-6.06,-1.11, 8.00x8.00, -90.00 deg. sf3.00tf10 1224421
+Dur 3499.88,17999 NF 22 IS 0.40 Framerate 60.00
+cm=rf-6.27,-1.24:3.38x3.46,135.0deg  pe83 0,-6 fx=0.00,fy=0.)
+props sq0.00 xo-6.06 yo-1.11 wi8.00 hi8.00 or22.50 sf3.00 tf10.00 dx-0.1250 se29067 id8891 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+EndExpt  (1058094)
+cm=noback
+mtop=op+do+aa+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+sp+da+ao+cS+C3
+
+expt: none et=or e2=e0
+Expt Start (1224421): none Orientation 22.50: 45.00x8 ed=19.3300
+xExpt2: EXPTYPE_NONE 225.00: 180.00x0
+stim 1228937-1232436:38 bG none0 props sq0.00 xo-6.06 yo-1.11 wi8.00 hi8.00 or45.00 sf3.00 tf10.00 dx-0.1250 se29070 id8893 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 1233770-1237270:39 bG none0 props sq0.00 xo-6.06 yo-1.11 wi8.00 hi8.00 or90.00 sf3.00 tf10.00 dx-0.1250 se29071 id8894 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 1238603-1242103:40 bG none0 props sq0.00 xo-6.06 yo-1.11 wi8.00 hi8.00 or0.00 sf3.00 tf10.00 dx-0.1250 se29072 id8895 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 1243436-1246936:41 bG none0 props sq0.00 xo-6.06 yo-1.11 wi8.00 hi8.00 or135.00 sf3.00 tf10.00 dx-0.1250 se29073 id8896 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 8: 1227799-1247707 4
+stim 1253603-1257102:42 bG none0 props sq0.00 xo-6.06 yo-1.11 wi8.00 hi8.00 or-90.00 sf3.00 tf10.00 dx-0.1250 se29074 id8897 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+Expt Cancelled
+cm=rf-6.27,-1.24:3.38x3.46,135.0deg  pe83 0,-6 fx=0.00,fy=0.00 
+cm=noback
+mtop=op+do+aa+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+sp+da+ao+cS+C3
+
+expt: rds et=or e2=e0
+Expt Start (1313029): rds Orientation 22.50: 45.00x8 ed=19.3300
+xExpt2: EXPTYPE_NONE 225.00: 180.00x0

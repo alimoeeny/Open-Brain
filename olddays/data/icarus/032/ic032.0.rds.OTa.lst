@@ -1,0 +1,40 @@
+Clearclusters
+Cluster1 en6:32.77,65.30 ve6:15.27,27.40 pairen,ve,0.000000
+#Set by ceb on Mon Dec 11 09:23:11 2006
+
+Expt Orientation: rds 22.500 +-45.000 *8. 2-9, nr20at-1.67,-6.74, 10.00x10.00, 90.00 deg. sf1.00tf10 328777
+Dur 19728.88,19666 NF 119 IS 0.40 Framerate 60.00
+cm=rf-1.67,-6.74:8.42x7.58,-45.0deg  pe44 -3,-4 fx=0.00,fy=0
+props sq0.00 xo-1.67 yo-6.74 wi10.00 hi10.00 or-55.51 sf1.00 tf10.00 dx0.5000 se8813 id7036 bd0.0000 Id0.01 op=+cn+cp+xe 
+TrialGood 0: 76468-98467 1
+cm=noback
+mtop=op+do+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+cS+C3
+
+Error! Experiment started without stopping, trial 2
+
+expt: rds et=or e2=e0
+Expt Start (328777): rds Orientation 22.50: 45.00x8 ed=13.2600
+xExpt2: EXPTYPE_NONE 0.00: 0.00x0
+props sq0.00 xo-1.67 yo-6.74 wi10.00 hi10.00 or45.00 sf1.00 tf10.00 dx0.5000 se8982 id7037 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 356494-376160:3 bG rds0 props sq0.00 xo-1.67 yo-6.74 wi10.00 hi10.00 or45.00 sf1.00 tf10.00 dx0.5000 se8987 id7038 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 1: 355424-376929 1
+stim 382826-402492:4 bG rds0 props sq0.00 xo-1.67 yo-6.74 wi10.00 hi10.00 or180.00 sf1.00 tf10.00 dx0.5000 se8996 id7039 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 2: 381797-403261 1
+stim 409159-428825:5 bG rds0 props sq0.00 xo-1.67 yo-6.74 wi10.00 hi10.00 or0.00 sf1.00 tf10.00 dx0.5000 se9005 id7040 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 3: 408054-429594 1
+stim 435492-455158:6 bG rds0 props sq0.00 xo-1.67 yo-6.74 wi10.00 hi10.00 or-45.00 sf1.00 tf10.00 dx0.5000 se9014 id7041 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 4: 434388-455927 1
+stim 461824-481491:7 bG none0 props sq0.00 xo-1.67 yo-6.74 wi10.00 hi10.00 or22.50 sf1.00 tf10.00 dx0.5000 se9023 id7042 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 5: 460796-482276 1
+stim 488157-507824:8 bG rds0 props sq0.00 xo-1.67 yo-6.74 wi10.00 hi10.00 or-135.00 sf1.00 tf10.00 dx0.5000 se9026 id7043 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 6: 487067-508593 1
+stim 514490-534157:9 bG rds0 props sq0.00 xo-1.67 yo-6.74 wi10.00 hi10.00 or90.00 sf1.00 tf10.00 dx0.5000 se9035 id7044 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 7: 513404-534926 1
+EndExpt  (536325)
+cm=rf-1.67,-6.74:8.42x7.58,-45.0deg  pe44 -3,-4 fx=0.00,fy=0.00 
+cm=noback
+mtop=op+do+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+cS+C3
+
+expt: rds et=or e2=e0
+Expt Start (571050): rds Orientation 22.50: 45.00x8 ed=13.2600
+xExpt2: EXPTYPE_NONE 0.00: 0.00x0

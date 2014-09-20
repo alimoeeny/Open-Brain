@@ -1,0 +1,25 @@
+Expt Orientation: rds 22.500 +-45.000 *8. 250-253, x Expt Orientation: 90.000 +-180.000 *2. 250-253, nr4at-13.23,-2.50, 9.99x10.00, 135.00 deg. sf1.00tf10 39587672
+Dur 3499.75,0 NF 22 IS 0.40 Framerate 60.00
+cm=rf-13.42,-2.77:13.84x12.93,5.6deg  pe123 -1.0,-4.0 fx=cl
+props sq0.00 xo-13.23 yo-2.50 wi9.99 hi10.00 or0.00 sf1.00 tf10.00 dx0.8000 se14242 id11633 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+TrialGood 51: 39432249-39452098 4
+EndExpt  (39453502)
+fx=-7.00,fy=0.00
+cm=rf-13.42,-2.77:13.84x12.93,5.6deg  pe123 -1.0,-4.0 fx=cl
+cm=back=rds,wi=11.00,hi=10.99,ce=1.00,xo=-13.23,yo=1.00,dx=0.00,co=1.00
+mtop=op+do+aa+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+0m+gm+x2+cS+C3+CF
+
+expt: rds et=or e2=or
+Expt Start (39587672): rds Orientation 22.50: 45.00x8 ed=13.6600
+xExpt2: Orientation 90.00: 180.00x2
+stim 39592315-39595815:250 bG rds0 props sq0.00 xo-13.23 yo-2.50 wi9.99 hi10.00 or90.00 sf1.00 tf10.00 dx0.6000 se14245 id11634 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 39597148-39600648:251 bG rds0 props sq0.00 xo-13.23 yo-2.50 wi9.99 hi10.00 or-135.00 sf1.00 tf10.00 dx0.6000 se14248 id11635 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 39601981-39605481:252 bG rds0 props sq0.00 xo-13.23 yo-2.50 wi9.99 hi10.00 or-90.00 sf1.00 tf10.00 dx0.6000 se14251 id11636 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 39606815-39610314:253 bG rds0 props sq0.00 xo-13.23 yo-2.50 wi9.99 hi10.00 or135.00 sf1.00 tf10.00 dx0.6000 se14254 id11637 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+Expt Cancelled
+cm=back=rds,wi=11.00,hi=10.99,ce=1.00,xo=-13.23,yo=1.00,dx=0.00,co=1.00
+mtop=op+do+aa+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+0m+gm+cS+C3+CF
+
+expt: rds et=or e2=e0
+Expt Start (39633210): rds Orientation 22.50: 45.00x8 ed=13.6600
+xExpt2: EXPTYPE_NONE 90.00: 180.00x0

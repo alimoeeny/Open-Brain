@@ -1,0 +1,9 @@
+UFF ic012.0 Created 2/10/2006 11:33 as ic012.2 by v4.50 replay version 1.41 Rev $Revision: 1.55 $
+expt: bar et=or e2=e0
+Expt Start (11779807): bar Orientation 105.00: 30.00x6 ed=0.0000
+xExpt2: EXPTYPE_NONE 0.00: 0.00x0
+cm=rf-0.51,-2.10:0.73x0.90,38.9deg  pe29 1,-5 fx=0.00,fy=0.00 
+pos 3:232 is 164864 stim 0, spike 0 toff 0
+/bgc/data/icarus/012/ic012.0.ufl: File ends in Expt
+end: 100000:164864
+Expts:

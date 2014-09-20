@@ -1,0 +1,18 @@
+Expt Disparity : cylinder 0.000 +-0.100 *5. 486-489, nr4at-14.18,10.34, 15.01x15.00, 135.00 deg. sf1.00tf10 7349590
+Dur 9500.00,0 NF 58 IS 0.40 Framerate 60.00
+cm=rf-14.37,10.58:13.65x13.58,cl
+props sq0.00 xo-14.18 yo10.34 wi15.01 hi15.00 or135.00 sf1.00 tf10.00 dx0.2000 se11401 id7746 bd0.0000 op=+cn+cp+sc+2a+cd+bm 
+Expt Cancelled
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+cs+2a+bm+0m+gm+cS+C3
+
+expt: cylinder et=dx e2=e0
+Expt Start (7349590): cylinder Disparity  0.00: 0.10x5 ed=20.8000
+xExpt2: EXPTYPE_NONE 0.55: 0.30x2
+stim 7354162-7363662:486 bG cylinder0 props sq0.00 xo-14.18 yo10.34 wi15.01 hi15.00 or135.00 sf1.00 tf10.00 dx0.1000 se11403 id7748 bd0.0000 op=+cn+cp+sc+2a+cd+bm 
+props sq0.00 xo-14.18 yo10.34 wi15.01 hi15.00 or135.00 sf1.00 tf10.00 dx0.0000 se11404 id7749 bd0.0000 op=+cn+cp+sc+2a+cd+bm 
+stim 7379328-7388828:488 bG cylinder0 props sq0.00 xo-14.18 yo10.34 wi15.01 hi15.00 or135.00 sf1.00 tf10.00 dx0.0000 se11405 id7750 bd0.0000 op=+cn+cp+sc+2a+cd+bm 
+stim 7390161-7399661:489 bG cylinder0 props sq0.00 xo-14.18 yo10.34 wi15.01 hi15.00 or135.00 sf1.00 tf10.00 dx-0.1000 se11406 id7751 bd0.0000 op=+cn+cp+sc+2a+cd+bm 
+Expt Cancelled
+fx=-15.00,fy=0.00
+cm=rf-14.37,10.58:1cl

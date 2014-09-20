@@ -1,0 +1,33 @@
+Expt Phase Disp as Disp: nsines 0.000 +-0.150 *11. 1649-1653, x Expt Diparate phase: 22.500 +-45.000 *8. 1649-1653, nr4at-3.97,-0.90, 6.02x6.00, -90.00 deg. sf3.00tf0 24495120
+Dur 3500.00,18000 NF 22 IS 0.40 Framerate 60.00
+cm=rf-3.97,-0.90:3.38x3.46,-90.0deg  pe83 0,-6 fx=0.00,fy=0.
+props sq0.00 xo-3.97 yo-0.90 wi6.02 hi6.00 or-90.00 sf3.00 tf10.00 dx0.0000 se23234 id8050 bd0.0000 Pd-0.30 dp-1.57 op=+cn+cp+sc+cd+xe+rp+bm+ic+fS+(null)+(null)  dp-1.57
+EndExpt  (22545534)
+cm=back=rds,wi=7.03,hi=7.02,ce=1.00,xo=-3.97,yo=1.00,dx=0.00,co=1.00
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+sw+bw+ic+im+iu+cs+bm+gm+x2+da+ao+fS+cS+C3
+
+expt: nsines et=Pd e2=dp
+Expt Start (22739954): nsines Phase Disp as Disp 0.00: 0.15x11 ed=18.2700
+xExpt2: Diparate phase 22.50: 45.00x8
+cm=rf-3.97,-0.90:3.38x3.46,-90.0deg  pe83 0,-6 fx=0.00,fy=0.00 
+Expt Cancelled
+cm=rf-3.97,-0.90:3.38x3.46,-90.0deg  pe83 0,-6 fx=0.00,fy=0.00 
+cm=back=rds,wi=7.03,hi=7.02,ce=1.00,xo=-3.97,yo=1.00,dx=0.00,co=1.00
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+im+iu+cs+bm+gm+x2+rp+da+ao+cS+C3
+
+expt: nsines et=Pd e2=dp
+Expt Start (24495120): nsines Phase Disp as Disp 0.00: 0.15x11 ed=18.3300
+xExpt2: Diparate phase 22.50: 45.00x8
+stim 24499482-24502982:1649 bG nsines0 props sq0.00 xo-3.97 yo-0.90 wi6.02 hi6.00 or-90.00 sf3.00 tf0.10 dx0.0000 se24086 id8101 bd0.0000 Pd-0.15 dp2.36 op=+cn+cp+sc+cd+xe+rp+bm+ic+fS+(null)  dp2.36
+stim 24504316-24507816:1650 bG nsines0 props sq0.00 xo-3.97 yo-0.90 wi6.02 hi6.00 or-90.00 sf3.00 tf0.10 dx0.0000 se24130 id8102 bd0.0000 Pd0.30 dp-0.79 op=+cn+cp+sc+cd+xe+rp+bm+ic+fS+(null)  dp-0.79
+stim 24509149-24512649:1651 bG nsines0 props sq0.00 xo-3.97 yo-0.90 wi6.02 hi6.00 or-90.00 sf3.00 tf0.10 dx0.0000 se24174 id8103 bd0.0000 Pd-0.60 dp0.00 op=+cn+cp+sc+cd+xe+rp+bm+ic+fS+(null)  dp0.00
+stim 24513982-24517482:1652 bG nsines0 props sq0.00 xo-3.97 yo-0.90 wi6.02 hi6.00 or-90.00 sf3.00 tf0.10 dx0.0000 se24218 id8104 bd0.0000 Pd0.00 dp3.14 op=+cn+cp+sc+cd+xe+rp+bm+ic+fS+(null)  dp3.14
+TrialGood 519: 24498350-24518304 4
+stim 24524148-24527648:1653 bG nsines0 props sq0.00 xo-3.97 yo-0.90 wi6.02 hi6.00 or-90.00 sf3.00 tf0.10 dx0.0000 se24262 id8105 bd0.0000 Pd-0.30 dp0.00 op=+cn+cp+sc+cd+xe+rp+bm+ic+fS+(null)  dp0.00
+Expt Cancelled
+cm=back=rds,wi=7.03,hi=7.02,ce=1.00,xo=-3.97,yo=1.00,dx=0.00,co=1.00
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+im+iu+cs+bm+gm+x2+da+ao+cS+C3
+
+expt: nsines et=Pd e2=dp
+Expt Start (24568820): nsines Phase Disp as Disp 0.00: 0.15x11 ed=18.2300
+xExpt2: Diparate phase 22.50: 45.00x8

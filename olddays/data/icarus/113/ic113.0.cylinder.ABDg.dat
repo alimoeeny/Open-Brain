@@ -1,0 +1,9 @@
+!f:$UNITGRAPHS/bd.f
+\Title ic113.0.cylinder.ABDg.trl 1942 to 2500 Binoc
+#Preperiod 0.050, rate 13.15 +- 0.000  n = 321
+none = 0
+\xy-e
+0.0000 20.86 321 0.21
+\yax 0 30
+\xax -0.10 0.10
+\label i=1 te=n=321 

@@ -1,0 +1,50 @@
+15-Jul-2009 16:48:37 Fixed LFP in Z:\bgc\data\icarus\258\ic258.lfp.mat
+15-Jul-2009 16:50:35 Saving index Z:\bgc\data\icarus\258\ic258idx.mat
+Cluster set for P1 Expt 1 15-Jul-2009 17:21:23
+Cluster set for P1 Expt 4 15-Jul-2009 17:21:27
+15-Jul-2009 17:21:32,Saved 561 spikes (Expts 1 4) to Z:\data\icarus\258\ic258.c1.rds.OP.mat
+Cluster set for P1 Expt 2 15-Jul-2009 17:21:37
+Cluster set for P1 Expt 3 15-Jul-2009 17:21:41
+15-Jul-2009 17:21:46,Saved 769 spikes (Expts 2 3) to Z:\data\icarus\258\ic258.c1.rds.OT.mat
+Cluster set for P1 Expt 5 15-Jul-2009 17:21:57
+Cluster set for P1 Expt 6 15-Jul-2009 17:22:08
+15-Jul-2009 17:22:12,Saved 767 spikes (Expts 5 6) to Z:\data\icarus\258\ic258.c1.rds.PP.mat
+Cluster set for P1 Expt 7 15-Jul-2009 17:22:18
+Cluster set for P1 Expt 21 15-Jul-2009 17:22:37
+15-Jul-2009 17:22:46,Saved 1260 spikes (Expts 7 21) to Z:\data\icarus\258\ic258.c1.cylinder.DT.mat
+Cluster set for P1 Expt 8 15-Jul-2009 17:23:03
+Cluster set for P1 Expt 9 15-Jul-2009 17:23:08
+Cluster set for P1 Expt 10 15-Jul-2009 17:23:17
+15-Jul-2009 17:23:30,Saved 1283 spikes (Expts 8 10) to Z:\data\icarus\258\ic258.c1.cylinder.SZ.mat
+Cluster set for P1 Expt 11 15-Jul-2009 17:23:56
+Cluster set for P1 Expt 12 15-Jul-2009 17:24:13
+Cluster set for P1 Expt 13 15-Jul-2009 17:24:22
+Cluster set for P1 Expt 14 15-Jul-2009 17:24:33
+Cluster set for P1 Expt 15 15-Jul-2009 17:24:54
+Cluster set for P1 Expt 16 15-Jul-2009 17:25:12
+Cluster set for P1 Expt 16 15-Jul-2009 17:25:14
+Cluster set for P1 Expt 16 15-Jul-2009 17:25:15
+Cluster set for P1 Expt 17 15-Jul-2009 17:25:23
+Cluster set for P1 Expt 17 15-Jul-2009 17:25:24
+15-Jul-2009 17:26:42,Saved 51921 spikes (Expts 11 12 13 14 15 16 17) to Z:\data\icarus\258\ic258.c1.cylinder.ABD.mat
+Cluster set for P1 Expt 18 15-Jul-2009 17:26:59
+Cluster set for P1 Expt 19 15-Jul-2009 17:27:03
+15-Jul-2009 17:27:07,Saved 1341 spikes (Expts 18 19) to Z:\data\icarus\258\ic258.c1.rds.DT.mat
+Cluster set for P1 Expt 22 15-Jul-2009 17:27:14
+15-Jul-2009 17:27:17,Saved 568 spikes (Expts 22) to Z:\data\icarus\258\ic258.c1.rds.SZ.mat
+14-Nov-2009 20:45:41,Saved 711 spikes (Expts 1 4) to /bgc/data/icarus/258/ic258.c1.rds.OP.mat
+14-Nov-2009 20:45:42, LFP file /bgc/data/icarus/258/ic258.lfp.rds.OP.mat (Took 1.0 0.0)
+14-Nov-2009 20:45:43,Saved 945 spikes (Expts 2 3) to /bgc/data/icarus/258/ic258.c1.rds.OT.mat
+14-Nov-2009 20:45:43, LFP file /bgc/data/icarus/258/ic258.lfp.rds.OT.mat (Took 0.8 0.0)
+14-Nov-2009 20:45:44,Saved 961 spikes (Expts 5 6) to /bgc/data/icarus/258/ic258.c1.rds.PP.mat
+14-Nov-2009 20:45:45, LFP file /bgc/data/icarus/258/ic258.lfp.rds.PP.mat (Took 0.9 0.0)
+14-Nov-2009 20:45:46,Saved 1475 spikes (Expts 7 21) to /bgc/data/icarus/258/ic258.c1.cylinder.DT.mat
+14-Nov-2009 20:45:47, LFP file /bgc/data/icarus/258/ic258.lfp.cylinder.DT.mat (Took 0.9 0.0)
+14-Nov-2009 20:45:47,Saved 1457 spikes (Expts 8 10) to /bgc/data/icarus/258/ic258.c1.cylinder.SZ.mat
+14-Nov-2009 20:45:48, LFP file /bgc/data/icarus/258/ic258.lfp.cylinder.SZ.mat (Took 0.8 0.0)
+14-Nov-2009 20:45:52,Saved 53144 spikes (Expts 11 12 13 14 15 16 17) to /bgc/data/icarus/258/ic258.c1.cylinder.ABD.mat
+14-Nov-2009 20:46:00, LFP file /bgc/data/icarus/258/ic258.lfp.cylinder.ABD.mat (Took 7.7 0.2)
+14-Nov-2009 20:46:01,Saved 1494 spikes (Expts 18 19) to /bgc/data/icarus/258/ic258.c1.rds.DT.mat
+14-Nov-2009 20:46:03, LFP file /bgc/data/icarus/258/ic258.lfp.rds.DT.mat (Took 1.6 0.1)
+14-Nov-2009 20:46:03,Saved 619 spikes (Expts 22) to /bgc/data/icarus/258/ic258.c1.rds.SZ.mat
+14-Nov-2009 20:46:03, LFP file /bgc/data/icarus/258/ic258.lfp.rds.SZ.mat (Took 0.4 0.0)

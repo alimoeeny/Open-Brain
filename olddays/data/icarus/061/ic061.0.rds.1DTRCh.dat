@@ -1,0 +1,16 @@
+!f:$UNITGRAPHS/dxrds.f
+\Title ic061.0.rds.1DTRCh.trl 4813 to 4870 Binoc
+#Preperiod 0.050, rate 1.79 +- 0.000  n = 56
+\Xlabel Position Disp
+Delay = 0
+\xy-e
+-0.6000 23.98 9 2.37
+-0.4000 25.90 8 2.65
+-0.2000 25.21 8 2.04
+0.0000 25.59 8 3.37
+0.2000 33.13 7 3.27
+0.4000 28.30 8 2.67
+0.6000 24.58 8 2.12
+\yax 0 40
+\xax -0.60 0.60
+\label i=1 te=n=7 - 9 Bd-0.20,co=1.00 dy=0.0000 wi=6.99 or=80.00sl=0

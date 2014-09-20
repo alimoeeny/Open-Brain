@@ -1,0 +1,25 @@
+Clearclusters
+Cluster1 en6:33.25,68.67 ve6:13.66,24.69
+#Set by bgc on Fri Apr 13 17:50:13 2007
+
+Expt Paralell Offset: rds 0.000 +-3.000 *9. 332-334, nr4at-15.05,6.89, 1.99x20.00, 45.00 deg. sf1.00tf10 4734724
+Dur 3500.33,0 NF 22 IS 0.40 Framerate 60.00
+cm=rf-10.81,11.14:10.89x9.49,45.0deg  pe99 0.0,0.0 fx=7.00,f
+props sq0.00 xo-17.17 yo4.77 wi1.99 hi20.00 or-135.00 sf1.00 tf10.00 dx0.0583 se14676 id9735 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+EndExpt  (4706341)
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+0m+gm+cS+C3
+
+expt: rds et=Pp e2=e0
+Expt Start: rds type 288 0.00: 3.00x9 ed=16.0100
+xExpt2: EXPTYPE_NONE -45.00: 180.00x0
+stim 4739287-4742788:332 bG rds0 props sq0.00 xo-19.29 yo2.65 wi1.99 hi20.00 or45.00 sf1.00 tf10.00 dx0.0583 se14684 id9737 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 4744121-4747621:333 bG rds0 props sq0.00 xo-4.44 yo17.50 wi1.99 hi20.00 or45.00 sf1.00 tf10.00 dx0.0583 se14688 id9738 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 4748954-4752454:334 bG rds0 props sq0.00 xo-15.05 yo6.89 wi1.99 hi20.00 or45.00 sf1.00 tf10.00 dx0.0583 se14692 id9739 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+EndExpt  (4752666)
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+0m+gm+cS+C3
+
+expt: rds et=Op e2=e0
+Expt Start: rds type 287 0.00: 3.00x9 ed=16.0100
+xExpt2: EXPTYPE_NONE -45.00: 180.00x0

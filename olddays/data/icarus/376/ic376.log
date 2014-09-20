@@ -1,0 +1,40 @@
+03-Sep-2009 14:09:05 Fixed LFP in Z:\bgc\data\icarus\376\ic376.lfp.mat
+03-Sep-2009 14:09:25 Saving index Z:\bgc\data\icarus\376\ic376idx.mat
+Cluster set for P1 Expt 1 03-Sep-2009 14:59:21
+Cluster set for P1 Expt 2 03-Sep-2009 14:59:25
+Cluster set for P1 Expt 3 03-Sep-2009 14:59:28
+Cluster set for P1 Expt 1 03-Sep-2009 14:59:55
+Cluster set for P1 Expt 1 03-Sep-2009 15:00:04
+Cluster set for P1 Expt 2 03-Sep-2009 15:00:34
+Cluster set for P1 Expt 3 03-Sep-2009 15:00:47
+Cluster set for P1 Expt 4 03-Sep-2009 15:00:59
+Cluster set for P1 Expt 5 03-Sep-2009 15:01:16
+Cluster set for P1 Expt 5 03-Sep-2009 15:01:28
+Cluster set for P1 Expt 6 03-Sep-2009 15:01:37
+Cluster set for P1 Expt 7 03-Sep-2009 15:01:49
+Cluster set for P1 Expt 8 03-Sep-2009 15:02:07
+Cluster set for P1 Expt 9 03-Sep-2009 15:02:16
+Cluster set for P1 Expt 10 03-Sep-2009 15:02:20
+Cluster set for P1 Expt 11 03-Sep-2009 15:02:25
+Cluster set for P1 Expt 12 03-Sep-2009 15:02:32
+Cluster set for P1 Expt 13 03-Sep-2009 15:02:36
+Cluster set for P1 Expt 14 03-Sep-2009 15:02:40
+Cluster set for P1 Expt 4 03-Sep-2009 15:03:12
+Cluster set for P1 Expt 3 03-Sep-2009 15:03:35
+Cluster set for P1 Expt 4 03-Sep-2009 15:03:39
+Cluster set for P1 Expt 1 03-Sep-2009 15:03:52
+Cluster set for P1 Expt 2 03-Sep-2009 15:03:59
+Cluster set for P1 Expt 3 03-Sep-2009 15:04:02
+Cluster set for P1 Expt 4 03-Sep-2009 15:04:05
+03-Sep-2009 15:04:15,Saved 156 spikes (Expts 1 2 3 4) to /bgc/data/icarus/376/ic376.c1.rds.OT.mat
+Cluster set for P1 Expt 5 03-Sep-2009 15:04:24
+Cluster set for P1 Expt 6 03-Sep-2009 15:04:37
+03-Sep-2009 15:04:44,Saved 94 spikes (Expts 5 6) to /bgc/data/icarus/376/ic376.c1.rds.VE.mat
+Cluster set for P1 Expt 7 03-Sep-2009 15:04:57
+Cluster set for P1 Expt 8 03-Sep-2009 15:05:04
+03-Sep-2009 15:05:08,Saved 132 spikes (Expts 7 8) to /bgc/data/icarus/376/ic376.c1.rds.SZ.mat
+03-Sep-2009 15:05:16,Saved 7 spikes (Expts 9) to /bgc/data/icarus/376/ic376.c1.rds.PP.mat
+Cluster set for P1 Expt 10 03-Sep-2009 15:05:24
+Cluster set for P1 Expt 11 03-Sep-2009 15:05:28
+03-Sep-2009 15:05:33,Saved 224 spikes (Expts 10 11) to /bgc/data/icarus/376/ic376.c1.cylinder.DT.mat
+03-Sep-2009 15:05:42,Saved 25 spikes (Expts 12 13) to /bgc/data/icarus/376/ic376.c1.cylinder.SZ.mat

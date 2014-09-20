@@ -1,0 +1,32 @@
+Expt Disparity : rds 22.500 +-45.000 *13. 0-11, nr4at-0.39,0.34, 3.00x3.00, -135.00 deg. sf1.00tf10 155453
+Dur 3499.83,17999 NF 21 IS 0.40 Framerate 60.00
+UFF ic051.0 Created 13/2/2007 14:00 as ic051.1 by v4.50 replay version 1.41 Rev $Revision: 1.55 $
+expt: rds et=dx e2=e0
+Expt Start (155453): rds Disparity  0.00: 0.20x13 ed=0.0000
+xExpt2: EXPTYPE_NONE 0.00: 0.00x0
+cm=rf-0.39,0.34:1.37x2.01,5.6deg  pe70 -4,-8 fx=0.00,fy=0.00 
+cm=:disparity tuned
+CR sampling 1136363.62Hz
+stim 214091-217591:0 bG rds0 props sq0.00 xo-0.39 yo0.34 wi3.00 hi3.00 or-45.00 sf1.00 tf10.00 dx0.2000 se8436 id6691 bd0.0000 op=+cn+cp+sc+cd 
+stim 218924-222424:1 bG rds0 props sq0.00 xo-0.39 yo0.34 wi3.00 hi3.00 or-45.00 sf1.00 tf10.00 dx0.4000 se8439 id6692 bd0.0000 op=+cn+cp+sc+cd 
+stim 223757-227257:2 bG rds0 props sq0.00 xo-0.39 yo0.34 wi3.00 hi3.00 or-45.00 sf1.00 tf10.00 dx-0.2000 se8442 id6693 bd0.0000 op=+cn+cp+sc+cd 
+stim 228591-232091:3 bG rds0 props sq0.00 xo-0.39 yo0.34 wi3.00 hi3.00 or-45.00 sf1.00 tf10.00 dx0.8000 se8445 id6694 bd0.0000 op=+cn+cp+sc+cd 
+TrialGood 0: 213039-232868 4
+stim 238758-242257:4 bG rds0 props sq0.00 xo-0.39 yo0.34 wi3.00 hi3.00 or-45.00 sf1.00 tf10.00 dx-0.8000 se8448 id6695 bd0.0000 op=+cn+cp+sc+cd 
+stim 243590-247090:5 bG rds0 props sq0.00 xo-0.39 yo0.34 wi3.00 hi3.00 or-45.00 sf1.00 tf10.00 dx-0.6000 se8451 id6696 bd0.0000 op=+cn+cp+sc+cd 
+stim 248423-251923:6 bG rds0 props sq0.00 xo-0.39 yo0.34 wi3.00 hi3.00 or-45.00 sf1.00 tf10.00 dx1.0001 se8454 id6697 bd0.0000 op=+cn+cp+sc+cd 
+stim 253257-256756:7 bG rds0 props sq0.00 xo-0.39 yo0.34 wi3.00 hi3.00 or-45.00 sf1.00 tf10.00 dx-1.0001 se8457 id6698 bd0.0000 op=+cn+cp+sc+cd 
+TrialGood 1: 237678-257534 4
+cmcl
+stim 403419-406919:8 bG rds0 props sq0.00 xo-0.39 yo0.34 wi3.00 hi3.00 or-45.00 sf1.00 tf10.00 dx0.0000 se8457 id6698 bd0.0000 op=+cn+cp 
+stim 408253-411753:9 bG rds0 props sq0.00 xo-0.39 yo0.34 wi3.00 hi3.00 or45.00 sf1.00 tf10.00 dx0.0000 se8460 id6699 bd0.0000 op=+cn+cp+sc+cd 
+stim 413086-416586:10 bG rds0 props sq0.00 xo-0.39 yo0.34 wi3.00 hi3.00 or135.00 sf1.00 tf10.00 dx0.0000 se8463 id6700 bd0.0000 op=+cn+cp+sc+cd 
+stim 417919-421419:11 bG rds0 props sq0.00 xo-0.39 yo0.34 wi3.00 hi3.00 or-135.00 sf1.00 tf10.00 dx0.0000 se8466 id6701 bd0.0000 op=+cn+cp+sc+cd 
+TrialGood 2: 402395-422189 4
+Expt Cancelled
+cm=noback
+mtop=op+do+aa+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+cS+C3
+
+expt: rds et=or e2=e0
+Expt Start (499765): rds Orientation 22.50: 45.00x8 ed=22.9200
+xExpt2: EXPTYPE_NONE 0.00: 0.00x0

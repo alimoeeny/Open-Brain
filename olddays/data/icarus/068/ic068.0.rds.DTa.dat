@@ -1,0 +1,28 @@
+!f:$UNITGRAPHS/dxrds.f
+\Title ic068.0.rds.DTa.trl 297 to 345 Binoc
+#Preperiod 0.050, rate 0.43 +- 0.000  n = 47
+\Xlabel Position Disp
+Delay = 0
+\xy-e
+-0.3000 5.24 6 1.36
+-0.2000 7.86 4 3.17
+-0.1000 12.86 4 1.43
+0.0000 18.57 4 1.84
+0.1000 21.43 4 1.84
+0.2000 13.57 4 1.37
+0.3000 10.71 4 3.17
+\label i=2 te=Left Monocular \2_
+\xy-e
+0.0000 8.57 4 1.17
+\label i=3 te=Right Monocular \3_
+\xy-e
+0.0000 2.86 5 0.90
+\label i=4 te=Uncorrelated \4_
+\xy-e
+0.0000 5.72 3 1.65
+\label i=5 te=Blank \5_
+\xy-e--
+0.0000 0.00 5 0.00
+\yax 0 30
+\xax -0.30 0.30
+\label i=1 te=n=3 - 6 Bd0.00,co=1.00 dy=0.0000 wi=6.99 or=170.00sl=0

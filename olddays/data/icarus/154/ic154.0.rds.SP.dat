@@ -1,0 +1,9 @@
+!f:$UNITGRAPHS/orsp.f
+\Title ic154.0.rds.SP.trl 447 to 478 Binoc
+#Preperiod 0.050, rate 17.42 +- 1.000  n = 31
+\label i=2 te=Blank \1_
+\xy-e--
+0.0000 16.00 5 4.00
+\yax 0 20
+\xax 0.00 13.00
+\label i=1 te=n=5 NOBACK wi=5.01 or=-90.00sl=1

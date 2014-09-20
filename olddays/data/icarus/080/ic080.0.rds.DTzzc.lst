@@ -1,0 +1,27 @@
+Expt Disparity : rds 0.283 +-0.200 *13. 272-278, nr4at-6.69,2.65, 8.00x8.00, 45.00 deg. sf3.00tf10 3097938
+Dur 3499.71,17000 NF 22 IS 0.40 Framerate 60.00
+cm=rf-6.52,2.61:6.10x3.64,45.0deg  pe83 0,-6 fx=0.00,fy=0.00
+props sq0.00 xo-6.69 yo2.65 wi8.00 hi8.00 or45.00 sf3.00 tf10.00 dx0.0000 se41123 id10471 bd0.0000 op=+cn+cp+sc+cd+bm+ic+fS+(null) 
+TrialGood 57: 2938416-2958341 4
+EndExpt  (2961350)
+cm=back=rds,wi=9.00,hi=9.00,ce=1.00,xo=-6.69,yo=1.00,dx=0.00,co=1.00
+mtop=op+do+aa+72+fc+fb+ap+wt+cf+ws+ts+bw+ic+im+iu+cs+bm+gm+sp+da+ao+fS+cS+C3
+
+expt: rds et=dx e2=e0
+Expt Start (3097938): rds Disparity  0.28: 0.20x13 ed=19.6900
+xExpt2: EXPTYPE_NONE 135.00: 180.00x2
+stim 3105389-3108889:272 bG rds0 props sq0.00 xo-6.69 yo2.65 wi8.00 hi8.00 or45.00 sf3.00 tf10.00 dx-0.3167 se41167 id10472 bd0.0000 op=+cn+cp+sc+cd+bm+ic+fS+(null)+(null) 
+stim 3109889-3113389:273 bG rds0 props sq0.00 xo-6.69 yo2.65 wi8.00 hi8.00 or45.00 sf3.00 tf10.00 dx0.2833 se41297 id10473 bd0.0000 op=+cn+cp+sc+cd+bm+ic+fS+(null)+(null) 
+stim 3114389-3117889:274 bG rds0 props sq0.00 xo-6.69 yo2.65 wi8.00 hi8.00 or45.00 sf3.00 tf10.00 dx0.4834 se41347 id10474 bd0.0000 op=+cn+cp+sc+cd+bm+ic+fS+(null)+(null) 
+stim 3118889-3122389:275 bG rds0 props sq0.00 xo-6.69 yo2.65 wi8.00 hi8.00 or45.00 sf3.00 tf10.00 dx1.2835 se41397 id10475 bd0.0000 op=+cn+cp+sc+cd+bm+ic+fS+(null)+(null) 
+TrialGood 58: 3104316-3122768 26
+stim 3128889-3132389:276 bG rds0 props sq0.00 xo-6.69 yo2.65 wi8.00 hi8.00 or45.00 sf3.00 tf10.00 dx-0.1167 se41445 id10476 bd0.0000 op=+cn+cp+sc+cd+bm+ic+fS+(null)+(null) 
+stim 3133389-3136889:277 bG rds0 props sq0.00 xo-6.69 yo2.65 wi8.00 hi8.00 or45.00 sf3.00 tf10.00 dx1.0834 se41541 id10477 bd0.0000 op=+cn+cp+sc+cd+bm+ic+fS+(null)+(null) 
+stim 3137890-3141388:278 bG rds0 props sq0.00 xo-6.69 yo2.65 wi8.00 hi8.00 or45.00 sf3.00 tf10.00 dx-0.9167 se41585 id10478 bd0.0000 op=+cn+cp+sc+cd+bm+ic+fS+(null)+(null) 
+Expt Cancelled
+cm=back=rds,wi=9.00,hi=9.00,ce=1.00,xo=-6.69,yo=1.00,dx=0.00,co=1.00
+mtop=op+do+aa+72+fc+fb+ap+wt+cf+ws+ts+bw+ic+im+iu+cs+bm+gm+sp+da+ao+fS+cS+C3
+
+expt: rds et=dx e2=e0
+Expt Start (3236683): rds Disparity  0.00: 0.20x7 ed=19.6900
+xExpt2: EXPTYPE_NONE 135.00: 180.00x2

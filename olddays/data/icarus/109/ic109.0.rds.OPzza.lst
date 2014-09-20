@@ -1,0 +1,30 @@
+Expt Orthog Offset: rds 15.059 +-3.000 *8. 372-378, nr4at-5.84,13.68, 3.01x20.00, -30.00 deg. sf1.00tf10 5814599
+Dur 9708.25,20333 NF 58 IS 0.40 Framerate 60.00
+cm=rf2.88,3.09:10.89x9.49,110.1deg  pe99 0.0,0.0 fx=7.00,fy=
+props sq0.00 xo-15.71 yo10.07 wi3.01 hi20.00 or-30.00 sf1.00 tf10.00 dx0.0000 se10340 id7175 bd0.0000 op=+cn+cp+bm+ic 
+TrialGood 93: 5731412-5754058 2
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+0m+gm+cS+C3
+
+expt: rds et=Op e2=e0
+Expt Start: rds type 287 15.06: 3.00x8 ed=15.8600
+xExpt2: EXPTYPE_NONE 0.55: 0.30x2
+stim 5819454-5828954:372 bG rds0 props sq0.00 xo-17.11 yo9.56 wi3.01 hi20.00 or-30.00 sf1.00 tf10.00 dx0.0000 se10354 id7176 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 5830287-5839787:373 bG rds0 props sq0.00 xo-11.48 yo11.62 wi3.01 hi20.00 or-30.00 sf1.00 tf10.00 dx0.0000 se10360 id7177 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 94: 5818434-5840556 2
+stim 5846620-5856119:374 bG rds0 props sq0.00 xo-19.93 yo8.53 wi3.01 hi20.00 or-30.00 sf1.00 tf10.00 dx0.0000 se10366 id7178 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 5857453-5866953:375 bG rds0 props sq0.00 xo-25.57 yo6.46 wi3.01 hi20.00 or-30.00 sf1.00 tf10.00 dx0.0000 se10372 id7179 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 95: 5845475-5867723 2
+stim 5873619-5883119:376 bG rds0 props sq0.00 xo-22.75 yo7.49 wi3.01 hi20.00 or-30.00 sf1.00 tf10.00 dx0.0000 se10378 id7180 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 5884452-5893952:377 bG rds0 props sq0.00 xo-14.30 yo10.59 wi3.01 hi20.00 or-30.00 sf1.00 tf10.00 dx0.0000 se10384 id7181 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 96: 5872479-5894722 2
+stim 5900453-5909952:378 bG none0 props sq0.00 xo-15.71 yo10.07 wi3.01 hi20.00 or-30.00 sf1.00 tf10.00 dx0.0000 se10390 id7182 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+Expt Cancelled
+fx=-7.00,fy=-5.00
+cm=rf2.88,3.09:10.89x9.49,-30.0deg  pe99 0.0,0.0 fx=7.00,fy=-5.00 
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+0m+gm+cS+C3
+
+expt: rds et=Op e2=e0
+Expt Start: rds type 287 15.06: 3.00x8 ed=15.8600
+xExpt2: EXPTYPE_NONE 0.55: 0.30x2

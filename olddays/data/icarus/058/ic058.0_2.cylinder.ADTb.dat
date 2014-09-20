@@ -1,0 +1,13 @@
+!f:$UNITGRAPHS/dxcylinder.f
+\Title ic058.0_2.cylinder.ADTb.trl 2113 to 2352 Binoc
+#Preperiod 0.050, rate 0.00 +- 0.000  n = 163
+Delay = 0
+\xy-e
+-0.0160 1.11 35 0.21
+-0.0080 0.86 33 0.16
+0.0000 2.61 27 0.38
+0.0080 3.80 32 0.54
+0.0160 4.92 36 0.54
+\yax 0 10
+\xax -0.02 0.02
+\label i=1 te=n=27 - 36 

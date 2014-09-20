@@ -1,0 +1,18 @@
+Expt Paralell Offset: rds -4.000 +-3.000 *9. 490-493, nr4at16.24,20.32, 15.01x2.00, -45.00 deg. sf1.00tf10 10807466
+Dur 3500.25,18000 NF 22 IS 0.40 Framerate 60.00
+cm=rf-7.68,-9.25:2.01x1.33,-45.0deg  pe120 0.0,-5.0 fx=0.00,
+props sq0.00 xo-6.18 yo-10.98 wi15.01 hi2.00 or-45.00 sf1.00 tf10.00 dx0.0000 se11596 id8187 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 105: 10450750-10470548 4
+EndExpt  (10471759)
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+0m+gm+cS+C3
+
+expt: rds et=Pp e2=e0
+Expt Start: rds type 288 -4.00: 3.00x9 ed=17.3300
+xExpt2: EXPTYPE_NONE 0.00: 0.02x0
+stim 10812435-10815935:490 bG rds0 props sq0.00 xo20.48 yo16.08 wi15.01 hi2.00 or-45.00 sf1.00 tf10.00 dx0.0000 se11600 id8188 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 10817268-10820769:491 bG rds0 props sq0.00 xo9.87 yo26.69 wi15.01 hi2.00 or-45.00 sf1.00 tf10.00 dx0.0000 se11604 id8189 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 10822102-10825602:492 bG rds0 props sq0.00 xo14.12 yo22.44 wi15.01 hi2.00 or-45.00 sf1.00 tf10.00 dx0.0000 se11608 id8190 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 10826935-10830435:493 bG none0 props sq0.00 xo16.24 yo20.32 wi15.01 hi2.00 or-45.00 sf1.00 tf10.00 dx0.0000 se11612 id8191 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 106: 10811321-10831207 4
+Expt Cancelled

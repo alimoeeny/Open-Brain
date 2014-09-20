@@ -1,0 +1,19 @@
+27-Aug-2009 15:06:26 Fixed LFP in Z:\bgc\data\icarus\349\ic349.lfp.mat
+27-Aug-2009 15:06:38 Saving index Z:\bgc\data\icarus\349\ic349idx.mat
+Cluster set for P1 Expt 1 27-Aug-2009 18:04:35
+Cluster set for P1 Expt 2 27-Aug-2009 18:04:38
+Cluster set for P1 Expt 4 27-Aug-2009 18:04:43
+Cluster set for P1 Expt 5 27-Aug-2009 18:04:47
+Cluster set for P1 Expt 3 27-Aug-2009 18:05:08
+Cluster set for P1 Expt 6 27-Aug-2009 18:05:25
+Cluster set for P1 Expt 7 27-Aug-2009 18:05:29
+Cluster set for P1 Expt 8 27-Aug-2009 18:05:34
+Cluster set for P1 Expt 9 27-Aug-2009 18:05:44
+Cluster set for P1 Expt 10 27-Aug-2009 18:05:48
+Cluster set for P1 Expt 11 27-Aug-2009 18:05:52
+Cluster set for P1 Expt 12 27-Aug-2009 18:05:55
+27-Aug-2009 18:06:08,Saved 1155 spikes (Expts 4 5) to /bgc/data/icarus/349/ic349.c1.rds.OT.mat
+27-Aug-2009 18:06:16,Saved 868 spikes (Expts 3 12) to /bgc/data/icarus/349/ic349.c1.rds.DT.mat
+27-Aug-2009 18:06:20,Saved 1128 spikes (Expts 6 7) to /bgc/data/icarus/349/ic349.c1.rds.OP.mat
+27-Aug-2009 18:06:23,Saved 1476 spikes (Expts 8 9) to /bgc/data/icarus/349/ic349.c1.rds.PP.mat
+27-Aug-2009 18:06:27,Saved 1754 spikes (Expts 10 11) to /bgc/data/icarus/349/ic349.c1.rds.SZ.mat

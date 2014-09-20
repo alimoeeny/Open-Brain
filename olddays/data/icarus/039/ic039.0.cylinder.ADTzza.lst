@@ -1,0 +1,28 @@
+Expt Disparity : cylinder 0.000 +-0.004 *5. 872-879, x Expt Initial Disparity: 0.000 +-0.004 *6. 872-879, nr4at-9.13,-8.04, 10.00x10.00, -90.00 deg. sf1.00tf10 26950776
+Dur 3500.00,0 NF 22 IS 0.40 Framerate 60.00
+cm=rf-9.34,-7.92:9.25x11.00,-90.0deg  pe56 -1,-4 fx=0.00,fy=
+props sq0.00 xo-9.13 yo-8.04 wi10.00 hi10.00 or-90.00 sf1.00 tf10.00 dx0.1000 se11663 id7916 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 244: 26578575-26598335 4
+EndExpt  (26599623)
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+cs+2a+bm+gm+x2+cS+C3
+
+expt: cylinder et=dx e2=Id
+Expt Start (26950776): cylinder Disparity  0.00: 0.00x5 ed=15.4800
+xExpt2: Initial Disparity 0.00: 0.00x6
+stim 26966892-26970392:872 bG cylinder0 props sq-3.00 xo-9.13 yo-8.04 wi10.00 hi10.00 or-90.00 sf1.00 tf10.00 dx0.0080 se11665 id7918 bd0.0000 Id-0.01 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+stim 26971725-26975225:873 bG cylinder0 props sq3.00 xo-9.13 yo-8.04 wi10.00 hi10.00 or-90.00 sf1.00 tf10.00 dx-0.0040 se11666 id7919 bd0.0000 Id0.00 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+stim 26976559-26980059:874 bG cylinder0 props sq-3.00 xo-9.13 yo-8.04 wi10.00 hi10.00 or-90.00 sf1.00 tf10.00 dx0.0080 se11667 id7920 bd0.0000 Id0.00 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+props sq3.00 xo-9.13 yo-8.04 wi10.00 hi10.00 or-90.00 sf1.00 tf10.00 dx-0.0080 se11668 id7921 bd0.0000 Id0.00 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+stim 26999391-27002891:876 bG cylinder0 props sq-3.00 xo-9.13 yo-8.04 wi10.00 hi10.00 or-90.00 sf1.00 tf10.00 dx0.0040 se11669 id7922 bd0.0000 Id0.00 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+stim 27004225-27007725:877 bG cylinder0 props sq3.00 xo-9.13 yo-8.04 wi10.00 hi10.00 or-90.00 sf1.00 tf10.00 dx-0.0040 se11670 id7923 bd0.0000 Id-0.01 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+stim 27009058-27012558:878 bG cylinder0 props sq-3.00 xo-9.13 yo-8.04 wi10.00 hi10.00 or-90.00 sf1.00 tf10.00 dx0.0000 se11671 id7924 bd0.0000 Id0.01 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+stim 27013891-27017391:879 bG cylinder0 props sq3.00 xo-9.13 yo-8.04 wi10.00 hi10.00 or-90.00 sf1.00 tf10.00 dx0.0000 se11672 id7925 bd0.0000 Id-0.01 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+Expt Cancelled
+cm=rf-9.34,-7.92:9.25x11.00,-90.0deg  pe56 -1,-4 fx=0.00,fy=0.00 
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+cs+2a+bm+gm+x2+cS+C3
+
+expt: cylinder et=dx e2=Id
+Expt Start (27049503): cylinder Disparity  0.00: 0.00x5 ed=15.4800
+xExpt2: Initial Disparity 0.00: 0.00x6

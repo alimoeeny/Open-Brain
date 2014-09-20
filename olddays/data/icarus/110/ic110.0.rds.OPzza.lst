@@ -1,0 +1,18 @@
+Expt Orthog Offset: rds 0.000 +-3.000 *9. 323-326, x Expt Orientation: -45.000 +-180.000 *2. 323-326, nr4at-13.81,5.94, 1.99x20.00, -135.00 deg. sf1.00tf10 4531610
+Dur 3564.83,0 NF 22 IS 0.40 Framerate 60.00
+cm=rf-10.81,11.14:10.89x9.49,-30.0deg  pe99 0.0,0.0 fx=7.00,_
+props sq0.00 xo-10.81 yo11.14 wi1.99 hi20.00 or45.00 sf1.00 tf10.00 dx0.0583 se14655 id9730 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+TrialGood 67: 4415945-4436239 4
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+0m+gm+x2+cS+C3
+
+expt: rds et=Op e2=or
+Expt Start: rds type 287 0.00: 3.00x9 ed=16.0100
+xExpt2: Orientation -45.00: 180.00x2
+stim 4537626-4541126:323 bG rds0 props sq0.00 xo-16.81 yo0.74 wi1.99 hi20.00 or-135.00 sf1.00 tf10.00 dx0.0583 se14660 id9731 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 4542459-4545960:324 bG rds0 props sq0.00 xo-10.81 yo11.14 wi1.99 hi20.00 or45.00 sf1.00 tf10.00 dx0.0583 se14664 id9732 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 4547293-4550792:325 bG rds0 props sq0.00 xo-4.81 yo21.53 wi1.99 hi20.00 or45.00 sf1.00 tf10.00 dx0.0583 se14668 id9733 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 4552125-4555625:326 bG rds0 props sq0.00 xo-13.81 yo5.94 wi1.99 hi20.00 or-135.00 sf1.00 tf10.00 dx0.0583 se14672 id9734 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+Expt Cancelled
+fx=-7.00,fy=-8.00
+cm=rf-10.81,11.14:10.89x9.49,45.0deg  pe99 0.0,0.0 fx=7.00,fy=-8.00 

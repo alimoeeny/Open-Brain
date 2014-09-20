@@ -1,0 +1,16 @@
+!f:$UNITGRAPHS/sz.f
+\Title ic085.0.cylinder.SZ.trl 752 to 813 Binoc FY 5.00
+#Preperiod 0.050, rate 5.60 +- 0.000  n = 25
+none = 0
+\xy-e
+4.0200 36.88 11 3.05
+6.9900 35.36 8 2.47
+10.0000 27.15 8 3.46
+13.0100 19.59 7 2.68
+16.0200 19.29 8 1.69
+\label i=2 te=Blank \2_
+\xy-e--
+10.0000 2.50 8 1.14
+\yax 0 40
+\xax 4.02 16.02
+\label i=1 te=n=7 - 11 

@@ -1,0 +1,31 @@
+01-Jul-2009 18:03:54 Saving index Z:\data\icarus\235\ic235idx.mat
+Cluster set for P1 Expt 1 01-Jul-2009 18:04:28
+Cluster set for P1 Expt 2 01-Jul-2009 18:04:33
+Cluster set for P1 Expt 3 01-Jul-2009 18:04:40
+Cluster set for P1 Expt 4 01-Jul-2009 18:04:46
+Cluster set for P1 Expt 5 01-Jul-2009 18:04:54
+Cluster set for P1 Expt 6 01-Jul-2009 18:05:17
+Cluster set for P1 Expt 7 01-Jul-2009 18:05:35
+Cluster set for P1 Expt 8 01-Jul-2009 18:05:50
+Cluster set for P1 Expt 9 01-Jul-2009 18:06:09
+Cluster set for P1 Expt 10 01-Jul-2009 18:06:20
+01-Jul-2009 18:08:11,Saved 1277 spikes (Expts 1 2) to Z:\data\icarus\235\ic235.c1.rds.PP.mat
+01-Jul-2009 18:08:21,Saved 1809 spikes (Expts 3 4) to Z:\data\icarus\235\ic235.c1.rds.OT.mat
+01-Jul-2009 18:08:30,Saved 874 spikes (Expts 5) to Z:\data\icarus\235\ic235.c1.cylinder.DT.mat
+01-Jul-2009 18:11:22,Saved 27985 spikes (Expts 6 7 8 9) to Z:\data\icarus\235\ic235.c1.cylinder.ABD.mat
+14-Nov-2009 18:56:54,Saved 1413 spikes (Expts 1 2) to /bgc/data/icarus/235/ic235.c1.rds.PP.mat
+14-Nov-2009 18:56:55, LFP file /bgc/data/icarus/235/ic235.lfp.rds.PP.mat (Took 0.5 0.0)
+14-Nov-2009 18:56:56,Saved 2223 spikes (Expts 3 4) to /bgc/data/icarus/235/ic235.c1.rds.OT.mat
+14-Nov-2009 18:56:56, LFP file /bgc/data/icarus/235/ic235.lfp.rds.OT.mat (Took 0.5 0.0)
+14-Nov-2009 18:56:57,Saved 1070 spikes (Expts 5) to /bgc/data/icarus/235/ic235.c1.cylinder.DT.mat
+14-Nov-2009 18:56:57, LFP file /bgc/data/icarus/235/ic235.lfp.cylinder.DT.mat (Took 0.3 0.0)
+14-Nov-2009 18:57:01,Saved 29821 spikes (Expts 6 7 8 9) to /bgc/data/icarus/235/ic235.c1.cylinder.ABD.mat
+14-Nov-2009 18:57:03, LFP file /bgc/data/icarus/235/ic235.lfp.cylinder.ABD.mat (Took 1.3 0.1)
+14-Nov-2009 20:32:35,Saved 1413 spikes (Expts 1 2) to /bgc/data/icarus/235/ic235.c1.rds.PP.mat
+14-Nov-2009 20:32:36, LFP file /bgc/data/icarus/235/ic235.lfp.rds.PP.mat (Took 0.5 0.0)
+14-Nov-2009 20:32:37,Saved 2223 spikes (Expts 3 4) to /bgc/data/icarus/235/ic235.c1.rds.OT.mat
+14-Nov-2009 20:32:37, LFP file /bgc/data/icarus/235/ic235.lfp.rds.OT.mat (Took 0.5 0.0)
+14-Nov-2009 20:32:38,Saved 1070 spikes (Expts 5) to /bgc/data/icarus/235/ic235.c1.cylinder.DT.mat
+14-Nov-2009 20:32:38, LFP file /bgc/data/icarus/235/ic235.lfp.cylinder.DT.mat (Took 0.3 0.0)
+14-Nov-2009 20:32:42,Saved 29821 spikes (Expts 6 7 8 9) to /bgc/data/icarus/235/ic235.c1.cylinder.ABD.mat
+14-Nov-2009 20:32:43, LFP file /bgc/data/icarus/235/ic235.lfp.cylinder.ABD.mat (Took 1.3 0.1)

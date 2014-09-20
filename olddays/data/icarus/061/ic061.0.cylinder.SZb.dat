@@ -1,0 +1,16 @@
+!f:$UNITGRAPHS/sz.f
+\Title ic061.0.cylinder.SZb.trl 4174 to 4191 Binoc
+#Preperiod 0.050, rate 1.67 +- 0.000  n = 12
+none = 0
+\xy-e
+3.0000 50.75 3 1.10
+5.0000 31.77 2 1.51
+6.9900 11.09 2 0.00
+9.0000 4.54 2 1.01
+11.0000 1.01 2 1.01
+\label i=2 te=Uncorrelated \2_
+\xy-e
+0.0000 19.16 1 0.00
+\yax 0 60
+\xax 3.00 11.00
+\label i=1 te=n=1 - 3 

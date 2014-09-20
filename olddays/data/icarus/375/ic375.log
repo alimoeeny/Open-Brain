@@ -1,0 +1,12 @@
+03-Sep-2009 14:08:12 Fixed LFP in Z:\bgc\data\icarus\375\ic375.lfp.mat
+03-Sep-2009 14:08:24 Saving index Z:\bgc\data\icarus\375\ic375idx.mat
+Cluster set for P1 Expt 1 03-Sep-2009 14:45:54
+Cluster set for P1 Expt 2 03-Sep-2009 14:45:59
+Cluster set for P1 Expt 3 03-Sep-2009 14:48:22
+Cluster set for P1 Expt 4 03-Sep-2009 14:53:49
+Cluster set for P1 Expt 5 03-Sep-2009 14:54:01
+Cluster set for P1 Expt 6 03-Sep-2009 14:54:07
+Cluster set for P1 Expt 7 03-Sep-2009 14:54:14
+03-Sep-2009 14:54:23,Saved 971 spikes (Expts 1 2 3) to /bgc/data/icarus/375/ic375.c1.rds.OT.mat
+03-Sep-2009 14:54:27,Saved 778 spikes (Expts 4 5) to /bgc/data/icarus/375/ic375.c1.rds.DT.mat
+03-Sep-2009 14:54:32,Saved 181 spikes (Expts 6 7) to /bgc/data/icarus/375/ic375.c1.cylinder.DT.mat

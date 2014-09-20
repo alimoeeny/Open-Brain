@@ -1,0 +1,23 @@
+05-Jul-2009 17:01:45 Saving index Z:\bgc\data\icarus\175\ic175idx.mat
+Cluster set for P5 Expt 1 06-Jul-2009 19:30:33
+Cluster set for P5 Expt 2 06-Jul-2009 19:30:46
+Cluster set for P5 Expt 3 06-Jul-2009 19:30:49
+Cluster set for P5 Expt 4 06-Jul-2009 19:30:51
+Cluster set for P5 Expt 6 06-Jul-2009 19:30:59
+Cluster set for P5 Expt 5 06-Jul-2009 19:31:08
+Cluster set for P5 Expt 7 06-Jul-2009 19:31:15
+Cluster set for P5 Expt 8 06-Jul-2009 19:31:17
+Cluster set for P5 Expt 9 06-Jul-2009 19:31:20
+Cluster set for P5 Expt 10 06-Jul-2009 19:31:23
+Cluster set for P5 Expt 11 06-Jul-2009 19:31:24
+Cluster set for P5 Expt 12 06-Jul-2009 19:31:27
+Cluster set for P5 Expt 13 06-Jul-2009 19:31:29
+Cluster set for P5 Expt 14 06-Jul-2009 19:31:31
+Cluster set for P5 Expt 15 06-Jul-2009 19:31:36
+06-Jul-2009 19:31:46,Saved 85 spikes (Expts 1) to /data/icarus/175/ic175.c1.rds.OT.mat
+06-Jul-2009 19:31:49,Saved 203 spikes (Expts 2) to /data/icarus/175/ic175.c1.rds.DT.mat
+06-Jul-2009 19:31:54,Saved 147 spikes (Expts 3 4) to /data/icarus/175/ic175.c1.rds.OP.mat
+06-Jul-2009 19:31:58,Saved 317 spikes (Expts 5 6 7) to /data/icarus/175/ic175.c1.rds.PP.mat
+06-Jul-2009 19:32:35,Saved 177 spikes (Expts 9 10) to /data/icarus/175/ic175.c1.cylinder.DT.mat
+06-Jul-2009 19:32:45,Saved 138 spikes (Expts 11 12) to /data/icarus/175/ic175.c1.cylinder.SZ.mat
+06-Jul-2009 19:32:57,Saved 160 spikes (Expts 13 14) to tmp.mat

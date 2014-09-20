@@ -1,0 +1,28 @@
+Expt Orthog Offset: rds -1.225 +-2.000 *11. 204-211, x Expt Orientation: 60.000 +-180.000 *2. 204-211, nr4at-6.24,-7.06, 3.00x20.00, -30.00 deg. sf1.00tf10 41218382
+Dur 3789.26,10583 NF 22 IS 0.40 Framerate 60.00
+cm=rf-7.41,-9.59:2.10x1.33,-30.0deg  pe86 2,-5 fx=0.00,fy=5.
+props sq0.00 xo-7.58 yo-9.38 wi3.00 hi20.00 or-30.00 sf1.00 tf10.00 dx0.6000 se9481 id6984 bd0.0000 op=+cn+cp+xe+bm+ic 
+TrialGood 46: 41171898-41192213 4
+cm=noback
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+x2+cS+C3
+
+expt: rds et=Op e2=or
+Expt Start: rds type 287 -1.23: 2.00x11 ed=19.6100
+xExpt2: Orientation 60.00: 180.00x2
+stim 41223098-41226598:204 bG rds0 props sq0.00 xo-10.24 yo-13.99 wi3.00 hi20.00 or-30.00 sf1.00 tf10.00 dx0.6000 se9484 id6985 bd0.0000 Op17.23 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 41227931-41231432:205 bG rds0 props sq0.00 xo-3.24 yo-1.86 wi3.00 hi20.00 or150.00 sf1.00 tf10.00 dx0.6000 se9487 id6986 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 41232765-41236265:206 bG rds0 props sq0.00 xo-11.24 yo-15.72 wi3.00 hi20.00 or-30.00 sf1.00 tf10.00 dx0.6000 se9490 id6987 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 41249598-41253098:207 bG rds0 props sq0.00 xo-12.24 yo-17.45 wi3.00 hi20.00 or-30.00 sf1.00 tf10.00 dx0.6000 se9496 id6989 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+TrialGood 47: 41248569-41253879 1
+stim 41259764-41263264:208 bG rds0 props sq0.00 xo-3.24 yo-1.86 wi3.00 hi20.00 or-30.00 sf1.00 tf10.00 dx0.6000 se9499 id6990 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 41264597-41268097:209 bG rds0 props sq0.00 xo-11.24 yo-15.72 wi3.00 hi20.00 or150.00 sf1.00 tf10.00 dx0.6000 se9502 id6991 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 41269264-41272764:210 bG rds0 props sq0.00 xo-8.24 yo-10.52 wi3.00 hi20.00 or150.00 sf1.00 tf10.00 dx0.6000 se9505 id6992 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 41273932-41277430:211 bG rds0 props sq0.00 xo-6.24 yo-7.06 wi3.00 hi20.00 or-30.00 sf1.00 tf10.00 dx0.6000 se9508 id6993 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+TrialGood 48: 41258616-41278213 4
+Expt Cancelled
+cm=noback
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+cS+C3
+
+expt: rds et=Op e2=e0
+Expt Start: rds type 287 -1.23: 2.00x11 ed=19.6100
+xExpt2: EXPTYPE_NONE 60.00: 180.00x0

@@ -1,0 +1,11 @@
+!f:$UNITGRAPHS/dxcylinder.f
+\Title ic072.0.cylinder.DTSP.trl 534 to 634 Binoc
+#Preperiod 0.050, rate 1.33 +- 0.000  n = 30
+Delay = 0
+\xy-e
+-0.1000 22.86 26 1.23
+0.0000 20.38 23 1.87
+0.1000 4.40 23 0.83
+\yax 0 30
+\xax -0.10 0.10
+\label i=1 te=n=23 - 26 

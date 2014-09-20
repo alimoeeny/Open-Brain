@@ -1,0 +1,32 @@
+Expt Disparity : cylinder 0.000 +-0.200 *6. 494-503, nr4at-4.19,1.07, 3.00x3.00, 180.00 deg. sf1.00tf10 6922452
+Dur 3499.40,14721 NF 22 IS 0.40 Framerate 60.00
+cm=rf-4.18,1.05:3.59x3.34,180.0deg* pe80 -1,-7 fx=0.00,fy=0.
+
+props sq0.00 xo-5.68 yo1.05 wi10.00 hi10.00 or180.00 sf1.00 tf10.00 dx-0.1000 se10358 id7357 bd-0.0100 op=+cn+cp+sc+cd+bm 
+Expt Cancelled
+cm=noback
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+cs+bm+gm+cS+C3
+
+expt: cylinder et=dx e2=e0
+Expt Start (6922452): cylinder Disparity  0.00: 0.20x6 ed=20.1600
+xExpt2: EXPTYPE_NONE 0.55: 0.30x2
+stim 6929044-6932544:494 bG cylinder0 props sq0.00 xo-5.68 yo1.05 wi3.00 hi3.00 or180.00 sf1.00 tf10.00 dx-0.5000 se10361 id7360 bd-0.0100 op=+cn+cp+sc+cd+bm 
+stim 6933878-6937377:495 bG cylinder0 props sq0.00 xo-5.68 yo1.05 wi3.00 hi3.00 or180.00 sf1.00 tf10.00 dx-0.1000 se10362 id7361 bd-0.0100 op=+cn+cp+sc+cd+bm 
+TrialGood 109: 6927944-6938145 2
+stim 6943878-6947377:496 bG cylinder0 props sq0.00 xo-5.68 yo1.05 wi3.00 hi3.00 or180.00 sf1.00 tf10.00 dx0.1000 se10363 id7362 bd-0.0100 op=+cn+cp+sc+cd+bm 
+stim 6948545-6952044:497 bG cylinder0 props sq0.00 xo-5.68 yo1.05 wi3.00 hi3.00 or180.00 sf1.00 tf10.00 dx0.5000 se10364 id7363 bd-0.0100 op=+cn+cp+sc+cd+bm 
+stim 6953377-6956877:498 bG cylinder0 props sq0.00 xo-5.68 yo1.05 wi3.00 hi3.00 or180.00 sf1.00 tf10.00 dx-0.3000 se10365 id7364 bd-0.0100 op=+cn+cp+sc+cd+bm 
+stim 6958211-6961710:499 bG cylinder0 props sq0.00 xo-5.68 yo1.05 wi3.00 hi3.00 or180.00 sf1.00 tf10.00 dx0.3000 se10366 id7365 bd-0.0100 op=+cn+cp+sc+cd+bm 
+TrialGood 110: 6942844-6962477 4
+stim 6968210-6971710:500 bG cylinder0 props sq0.00 xo-4.19 yo1.07 wi3.00 hi3.00 or180.00 sf1.00 tf10.00 dx-0.5000 se10367 id7366 bd-0.0100 op=+cn+cp+sc+cd+bm 
+stim 6973043-6976543:501 bG cylinder0 props sq0.00 xo-4.19 yo1.07 wi3.00 hi3.00 or180.00 sf1.00 tf10.00 dx-0.5000 se10368 id7367 bd-0.0100 op=+cn+cp+sc+cd+bm 
+stim 6977876-6981376:502 bG cylinder0 props sq0.00 xo-4.19 yo1.07 wi3.00 hi3.00 or180.00 sf1.00 tf10.00 dx-0.1000 se10369 id7368 bd-0.0100 op=+cn+cp+sc+cd+bm 
+stim 6982711-6986209:503 bG cylinder0 props sq0.00 xo-4.19 yo1.07 wi3.00 hi3.00 or180.00 sf1.00 tf10.00 dx0.5000 se10370 id7369 bd-0.0100 op=+cn+cp+sc+cd+bm 
+TrialGood 111: 6967157-6986977 4
+Expt Cancelled
+cm=noback
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+cs+bm+gm+cS+C3
+
+expt: cylinder et=sz e2=e0
+Expt Start (7254502): cylinder Size (H and W) 5.00: 1.00x5 ed=20.1600
+xExpt2: EXPTYPE_NONE 0.55: 0.30x2

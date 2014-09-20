@@ -1,0 +1,29 @@
+Expt Orientation: rds 22.500 +-45.000 *8. 1303-1310, x Expt Initial Disparity: 0.000 +-0.200 *2. 1303-1310, nr4at-11.16,-12.48, 14.98x15.00, 0.00 deg. sf1.00tf10 41395911
+Dur 3500.00,18000 NF 22 IS 0.40 Framerate 60.00
+cm=rf-11.12,-14.42:12.88x10.75,-2.0deg  pe39 2,-3 fx=0.00,fy
+props sq0.00 xo-11.16 yo-12.48 wi14.98 hi15.00 or-90.00 sf1.00 tf10.00 dx-0.6001 se11530 id8245 bd0.0000 Id-0.10 op=+cn+cp+sc+cd+xe+bm+ic 
+Expt Cancelled
+fx=0.00,fy=5.00
+cm=rf-11.12,-14.42:12.88x10.75,-2.0deg  pe39 2,-3 fx=0.00,fy=5.00 
+cm=noback
+mtop=op+do+aa+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+x2+cS+C3
+
+expt: rds et=or e2=Id
+Expt Start (41395911): rds Orientation 22.50: 45.00x8 ed=15.0400
+xExpt2: Initial Disparity 0.00: 0.20x2
+stim 41402374-41405873:1303 bG rds0 props sq0.00 xo-11.16 yo-12.48 wi14.98 hi15.00 or90.00 sf1.00 tf10.00 dx-0.6001 se11539 id8246 bd0.0000 Id0.10 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 41407207-41410707:1304 bG rds0 props sq0.00 xo-11.16 yo-12.48 wi14.98 hi15.00 or180.00 sf1.00 tf10.00 dx-0.6001 se11542 id8247 bd0.0000 Id0.10 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 41412040-41415540:1305 bG rds0 props sq0.00 xo-11.16 yo-12.48 wi14.98 hi15.00 or-135.00 sf1.00 tf10.00 dx-0.6001 se11545 id8248 bd0.0000 Id-0.10 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 41416874-41420374:1306 bG rds0 props sq0.00 xo-11.16 yo-12.48 wi14.98 hi15.00 or-90.00 sf1.00 tf10.00 dx-0.6001 se11548 id8249 bd0.0000 Id0.10 op=+cn+cp+sc+cd+xe+bm+ic 
+TrialGood 550: 41401348-41421150 4
+stim 41426873-41430373:1307 bG rds0 props sq0.00 xo-11.16 yo-12.48 wi14.98 hi15.00 or135.00 sf1.00 tf10.00 dx-0.6001 se11551 id8250 bd0.0000 Id-0.10 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 41431706-41435206:1308 bG rds0 props sq0.00 xo-11.16 yo-12.48 wi14.98 hi15.00 or-90.00 sf1.00 tf10.00 dx-0.6001 se11554 id8251 bd0.0000 Id-0.10 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 41436539-41440039:1309 bG rds0 props sq0.00 xo-11.16 yo-12.48 wi14.98 hi15.00 or-135.00 sf1.00 tf10.00 dx-0.6001 se11557 id8252 bd0.0000 Id0.10 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 41441372-41444873:1310 bG rds0 props sq0.00 xo-11.16 yo-12.48 wi14.98 hi15.00 or0.00 sf1.00 tf10.00 dx-0.6001 se11560 id8253 bd0.0000 Id0.10 op=+cn+cp+sc+cd+xe+bm+ic 
+Expt Cancelled
+cm=noback
+mtop=op+do+aa+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+cS+C3
+
+expt: rds et=or e2=e0
+Expt Start (41481129): rds Orientation 22.50: 45.00x8 ed=15.0400
+xExpt2: EXPTYPE_NONE 0.00: 0.20x0

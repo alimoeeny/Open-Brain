@@ -1,0 +1,9 @@
+!f:$UNITGRAPHS/dxrds.f
+\Title ic026.0.rds.DTa.trl 1 to 3 Binoc FY 10.00
+#Preperiod 0.050, rate 15.00 +- 1.000  n = 4
+Delay = 0
+\xy-e
+0.0000 79.38 4 4.25
+\yax 0 80
+\xax -0.10 0.10
+\label i=1 te=n=4 NOBACK wi=20.00 or=135.00sl=1

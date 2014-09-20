@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My New OpenBrain! - raster plot</title>
+    <link rel="stylesheet" href="style/main.css" type="text/css">
+  </head>
+  <body>
+<script src="menu.js"></script>
+<script src="querystring.js"></script>
+    <h1>Raster Plot!</h1>
+<div id="outputcon"></div>
+  <canvas width=2000 height=1000 id="mycanvas"></canvas>
+
+
+<script src="http://www.google.com/jsapi"></script>
+<script type="text/javascript" language="javascript">
+//load jQuery
+google.load("jquery","1");
+google.setOnLoadCallback(function() {
+    var qs = new Querystring();
+    //$.getJSON('../experiments/_view/spiketrain?key=' + qs.get('exptid'), jCallBack );
+    $.getJSON('../experiments/_view/spiketrain2?key=' + qs.get('exptid'), jCallBack );
+    }
+);
+
+function jCallBack(data){
+    //alert(data.total_rows);
+    //alert(data.rows[0]);
+    ali = data.rows[0]['value'];
+    //alert(ali);
+    //alert(ali[0]);
+    //alert(ali[0].Spikes);
+    
+    var example = document.getElementById('mycanvas');
+    var context = example.getContext('2d');
+    context.fillStyle = "rgb(255,255,225)";
+    context.fillRect(0, 0, 1200, 500);
+    context.fillStyle = "rgb(0,0,0)";
+    var neuron = {"name":"testneuron1", "lastupdate":"5/20/10 21:57"};  
+    /* works with spiketrain not spiketrain2
+    for (j in ali)       
+        for (i=0; i< ali[j].Spikes.length; i++)
+	    if(ali[j].Spikes[i]>0)
+                context.fillRect(ali[j].Spikes[i] / 20, j*1, 1, 2);
+        */
+
+    for (j in ali){
+        //$('#outputcon').append(j);       
+        for (i=0; i< ali[j].length; i++)
+            context.fillRect(ali[j][i] / 20, j*3, 1, 4);
+
+       }
+    }
+                                                       
+</script>
+</body>
+</html>

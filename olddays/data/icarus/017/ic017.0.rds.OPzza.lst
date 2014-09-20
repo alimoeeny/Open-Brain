@@ -1,0 +1,26 @@
+Expt Orthog Offset: rds 0.339 +-3.000 *8. 1247-1253, nr4at-9.01,13.32, 2.01x30.00, 25.00 deg. sf1.00tf10 36367436
+Dur 20213.71,0 NF 119 IS 0.40 Framerate 60.00
+cm=rf-14.42,3.21:19.93x20.53,-9.1deg  pe34 2,5 fx=0.00,fy=0.
+props sq0.00 xo-14.66 yo3.04 wi2.01 hi30.00 or25.00 sf1.00 tf10.00 dx-0.0065 se13428 id9066 bd0.0000 op=+cn+cp+sc+cd+bm 
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+cS+C3
+
+expt: rds et=Op e2=e0
+Expt Start: rds type 286 0.34: 3.00x8 ed=18.6500
+xExpt2: EXPTYPE_NONE 0.50: 1.00x1
+props sq0.00 xo-9.01 yo13.32 wi2.01 hi30.00 or25.00 sf1.00 tf10.00 dx-0.0065 se13431 id9067 bd0.0000 Op-11.73 op=+cn+cp+sc+cd+bm+ic 
+props sq0.00 xo-9.01 yo13.32 wi2.01 hi30.00 or25.00 sf1.00 tf10.00 dx-0.0065 se13437 id9069 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+props sq0.00 xo-9.01 yo13.32 wi2.01 hi30.00 or25.00 sf1.00 tf10.00 dx-0.0065 se13440 id9070 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+props sq0.00 xo-9.01 yo13.32 wi2.01 hi30.00 or25.00 sf1.00 tf10.00 dx-0.0065 se13443 id9071 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+props sq0.00 xo-9.01 yo13.32 wi2.01 hi30.00 or25.00 sf1.00 tf10.00 dx-0.0065 se13449 id9073 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+props sq0.00 xo-9.01 yo13.32 wi2.01 hi30.00 or25.00 sf1.00 tf10.00 dx-0.0065 se13455 id9075 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+props sq0.00 xo-9.01 yo13.32 wi2.01 hi30.00 or25.00 sf1.00 tf10.00 dx-0.0065 se13458 id9076 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+Expt Cancelled
+fx=5.00,fy=0.00
+cm=rf-14.42,3.21:19.93x20.53,-9.1deg  pe34 2,5 fx=5.00,fy=0.00 
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+cS+C3
+
+expt: rds et=Op e2=e0
+Expt Start: rds type 286 0.34: 3.00x8 ed=18.6500
+xExpt2: EXPTYPE_NONE 0.50: 1.00x1

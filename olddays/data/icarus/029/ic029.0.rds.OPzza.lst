@@ -1,0 +1,27 @@
+Expt Orthog Offset: rds 0.054 +-4.000 *9. 277-284, x Expt Orientation: 30.000 +-180.000 *2. 277-284, nr4at-0.48,-10.23, 3.00x15.00, -60.00 deg. sf1.00tf10 2957830
+Dur 3692.31,17999 NF 22 IS 0.40 Framerate 60.00
+cm=rf2.91,-8.21:8.63x8.80,-60.0deg  pe41 -2,-4 fx=0.00,fy=0.
+props sq0.00 xo2.95 yo-8.25 wi3.00 hi15.00 or-60.00 sf1.00 tf10.00 dx-0.4000 se13612 id8671 bd0.0000 op=+cn+cp+xe+bm+ic 
+TrialGood 62: 2873859-2894229 4
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+x2+sp+cS+C3
+
+expt: rds et=Op e2=or
+Expt Start: rds type 286 0.05: 4.00x9 ed=13.6500
+xExpt2: Orientation 30.00: 180.00x2
+stim 2964444-2967944:277 bG rds0 props sq0.00 xo16.84 yo-0.23 wi3.00 hi15.00 or-60.00 sf1.00 tf10.00 dx-0.4000 se13615 id8672 bd0.0000 Op-14.47 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 2969277-2972777:278 bG rds0 props sq0.00 xo-7.41 yo-14.23 wi3.00 hi15.00 or-60.00 sf1.00 tf10.00 dx-0.4000 se13618 id8673 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 2974110-2977610:279 bG rds0 props sq0.00 xo13.38 yo-2.23 wi3.00 hi15.00 or-60.00 sf1.00 tf10.00 dx-0.4000 se13621 id8674 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 2978943-2982443:280 bG rds0 props sq0.00 xo-3.94 yo-12.23 wi3.00 hi15.00 or120.00 sf1.00 tf10.00 dx-0.4000 se13624 id8675 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+TrialGood 63: 2963427-2983221 4
+stim 2991277-2994776:281 bG none0 props sq0.00 xo2.99 yo-8.23 wi3.00 hi15.00 or-60.00 sf1.00 tf10.00 dx-0.4000 se13627 id8676 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 2996110-2999610:282 bG rds0 props sq0.00 xo16.84 yo-0.23 wi3.00 hi15.00 or120.00 sf1.00 tf10.00 dx-0.4000 se13630 id8677 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 3000943-3004443:283 bG rds0 props sq0.00 xo6.45 yo-6.23 wi3.00 hi15.00 or120.00 sf1.00 tf10.00 dx-0.4000 se13633 id8678 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 3005776-3009276:284 bG rds0 props sq0.00 xo-0.48 yo-10.23 wi3.00 hi15.00 or-60.00 sf1.00 tf10.00 dx-0.4000 se13636 id8679 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+Expt Cancelled
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+sp+cS+C3
+
+expt: rds et=Op e2=e0
+Expt Start: rds type 286 0.05: 4.00x9 ed=13.6500
+xExpt2: EXPTYPE_NONE 30.00: 180.00x0

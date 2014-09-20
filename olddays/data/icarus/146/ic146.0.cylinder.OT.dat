@@ -1,0 +1,15 @@
+!f:$UNITGRAPHS/or.f
+\Title ic146.0.cylinder.OT.trl 681 to 706 Binoc
+#Preperiod 0.050, rate 5.00 +- 0.000  n = 20
+none = 0
+\xy-e
+-45.0000 1.89 5 0.52
+0.0000 1.58 4 1.25
+45.0000 0.35 3 0.35
+90.0000 0.26 4 0.26
+\label i=2 te=Blank \2_
+\xy-e--
+22.5000 6.05 4 2.33
+\yax 0 10
+\xax -45.00 90.00
+\label i=1 te=n=3 - 5 

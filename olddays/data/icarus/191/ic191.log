@@ -1,0 +1,42 @@
+31-May-2009 17:31:07 Fixed LFP in Z:\bgc\data\icarus\191\ic191.lfp.mat
+31-May-2009 17:32:31 Saving index Z:\bgc\data\icarus\191\ic191idx.mat
+Cluster set for P1 Expt 9 01-Jun-2009 16:58:07
+Cluster set for P1 Expt 13 01-Jun-2009 16:58:40
+Cluster set for P1 Expt 14 01-Jun-2009 16:58:53
+Cluster set for P1 Expt 9 04-Jun-2009 17:41:03
+Cluster set for P1 Expt 13 04-Jun-2009 17:41:23
+Cluster set for P1 Expt 14 04-Jun-2009 17:41:34
+04-Jun-2009 17:42:27,Saved 7170 spikes (Expts 9 13 14) to Z:\data\icarus\191\ic191.c1.rds.OT.mat
+Cluster set for P1 Expt 15 04-Jun-2009 17:42:52
+Cluster set for P1 Expt 15 04-Jun-2009 17:43:35
+04-Jun-2009 17:43:41,Saved 2276 spikes (Expts 15) to Z:\data\icarus\191\ic191.c1.cylinder.DT.mat
+Cluster set for P1 Expt 10 04-Jun-2009 17:44:07
+04-Jun-2009 17:44:10,Saved 2548 spikes (Expts 10) to Z:\data\icarus\191\ic191.c1.rds.OP.mat
+Cluster set for P1 Expt 11 04-Jun-2009 17:44:43
+04-Jun-2009 17:44:45,Saved 2040 spikes (Expts 11) to Z:\data\icarus\191\ic191.c1.rds.PP.mat
+Cluster set for P1 Expt 12 04-Jun-2009 17:45:09
+04-Jun-2009 17:45:13,Saved 1904 spikes (Expts 12) to Z:\data\icarus\191\ic191.c1.rds.SZ.mat
+Cluster set for P1 Expt 17 04-Jun-2009 17:45:37
+Cluster set for P1 Expt 16 04-Jun-2009 17:45:43
+04-Jun-2009 17:47:19,Saved 5512 spikes (Expts 17) to Z:\data\icarus\191\ic191.c1.cylinder.ADT.mat
+04-Jun-2009 17:55:28,Saved 0 spikes (Expts 27 28) to Z:\data\icarus\191\ic191.c1.cylinder.UADT.mat
+Cluster set for P1 Expt 6 04-Jun-2009 17:57:02
+Cluster set for P1 Expt 6 04-Jun-2009 17:57:07
+Cluster set for P1 Expt 7 04-Jun-2009 17:57:20
+04-Jun-2009 17:57:40,Saved 3262 spikes (Expts 6 7) to Z:\data\icarus\191\ic191.c1.ed16.75.rds.OT.mat
+Cluster set for P1 Expt 4 04-Jun-2009 17:58:12
+Cluster set for P1 Expt 3 04-Jun-2009 17:58:22
+04-Jun-2009 17:58:36,Saved 1539 spikes (Expts 4) to Z:\data\icarus\191\ic191.c1.ed16.65.rds.OT.mat
+Cluster set for P1 Expt 1 04-Jun-2009 17:58:55
+04-Jun-2009 17:59:04,Saved 948 spikes (Expts 1) to Z:\data\icarus\191\ic191.c1.ed16.55.rds.OT.mat
+Cluster set for P1 Expt 8 04-Jun-2009 17:59:31
+Cluster set for P1 Expt 8 04-Jun-2009 17:59:46
+04-Jun-2009 18:00:04,Saved 1823 spikes (Expts 8) to Z:\data\icarus\191\ic191.c1.ed16.75.cylinder.DT.mat
+Cluster set for P1 Expt 5 04-Jun-2009 18:00:22
+04-Jun-2009 18:00:25,Saved 1565 spikes (Expts 5) to Z:\data\icarus\191\ic191.c1.ed16.65.cylinder.DT.mat
+Cluster set for P1 Expt 2 04-Jun-2009 18:00:43
+Cluster set for P1 Expt 2 04-Jun-2009 18:00:53
+04-Jun-2009 18:00:56,Saved 824 spikes (Expts 2) to Z:\data\icarus\191\ic191.c1.ed16.55.cylinder.DT.mat
+17-Jun-2009 11:01:52 Saving index /data/icarus/191/ic191idx.mat
+17-Jun-2009 16:52:41,Saved 0 spikes (Expts 22 23 24 25 27 28) to \data\icarus\191\ic191.c1.cylinder.UADT.mat
+22-Jun-2009 10:12:09,Saved 0 spikes (Expts 27 28) to \data\icarus\191\ic191.c1.cylinder.UADT.mat

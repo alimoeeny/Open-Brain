@@ -1,0 +1,9 @@
+!f:$UNITGRAPHS/bd.f
+\Title ic085.0.cylinder.ABD.trl 823 to 2869 Binoc FY 5.00
+#Preperiod 0.050, rate 3.95 +- 0.000  n = 152
+none = 0
+\xy-e
+0.0000 15.37 1258 0.22
+\yax 0 20
+\xax -0.10 0.10
+\label i=1 te=n=1258 

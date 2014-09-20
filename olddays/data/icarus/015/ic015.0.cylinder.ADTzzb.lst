@@ -1,0 +1,29 @@
+Expt Disparity : cylinder 0.000 +-0.200 *2. 13-20, nr4at-5.20,-8.00, 10.00x10.00, 90.00 deg. sf1.00tf10 1154404
+Dur 19666.67,19666 NF 119 IS 0.40 Framerate 60.00
+cm=rf-4.96,-8.04:12.76x12.19,-90.0deg  pe33 2,-4 fx=0.00,fy=
+props sq0.00 xo-5.20 yo-8.00 wi10.00 hi10.00 or90.00 sf1.00 tf10.00 dx0.0000 se9947 id7118 bd0.0000 op=+cn+cp+sc+2a+cd+bm+ic 
+TrialGood 2: 1086192-1107629 1
+Expt Cancelled
+cm=noback
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+cs+2a+bm+gm+cS+C3
+
+expt: cylinder et=dx e2=e0
+Expt Start (1154404): cylinder Disparity  0.00: 0.20x2 ed=16.4500
+xExpt2: EXPTYPE_NONE 0.55: 0.30x2
+props sq-3.00 xo-5.20 yo-8.00 wi10.00 hi10.00 or90.00 sf1.00 tf10.00 dx-0.1000 se9950 id7121 bd0.0000 MD=0 op=+cn+cp+sc+2a+cd+bm 
+stim 1183698-1203365:14 bG cylinder0 props sq-3.00 xo-5.20 yo-8.00 wi10.00 hi10.00 or90.00 sf1.00 tf10.00 dx-0.1000 se9951 id7122 bd0.0000 MD=0 op=+cn+cp+sc+2a+cd+bm 
+TrialGood 3: 1182564-1206784 1
+props sq3.00 xo-5.20 yo-8.00 wi10.00 hi10.00 or90.00 sf1.00 tf10.00 dx0.1000 se9952 id7123 bd0.0000 MD=0 op=+cn+cp+sc+2a+cd+bm 
+stim 1231031-1250697:16 bG cylinder0 props sq-3.00 xo-5.20 yo-8.00 wi10.00 hi10.00 or90.00 sf1.00 tf10.00 dx-0.1000 se9953 id7124 bd0.0000 MD=0 op=+cn+cp+sc+2a+cd+bm 
+TrialGood 4: 1230020-1254104 1
+props sq3.00 xo-5.20 yo-8.00 wi10.00 hi10.00 or90.00 sf1.00 tf10.00 dx0.1000 se9954 id7125 bd0.0000 MD=0 op=+cn+cp+sc+2a+cd+bm 
+stim 1295862-1315529:18 bG cylinder0 props sq3.00 xo-5.20 yo-8.00 wi10.00 hi10.00 or90.00 sf1.00 tf10.00 dx0.1000 se9955 id7126 bd0.0000 MD=0 op=+cn+cp+sc+2a+cd+bm 
+props sq3.00 xo-5.20 yo-8.00 wi10.00 hi10.00 or90.00 sf1.00 tf10.00 dx0.1000 se9956 id7127 bd0.0000 MD=0 op=+cn+cp+sc+2a+cd+bm 
+props sq3.00 xo-5.20 yo-8.00 wi10.00 hi10.00 or90.00 sf1.00 tf10.00 dx0.1000 se9957 id7128 bd0.0000 MD=0 op=+cn+cp+sc+2a+cd+bm 
+Expt Cancelled
+cm=noback
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+cs+2a+bm+gm+cS+C3
+
+expt: cylinder et=dx e2=e0
+Expt Start (1497460): cylinder Disparity  0.00: 0.10x6 ed=16.4500
+xExpt2: EXPTYPE_NONE 0.55: 0.30x2

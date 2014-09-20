@@ -1,0 +1,28 @@
+Expt Disparity : rds 0.000 +-0.200 *9. 1525-1532, x Expt Orientation: 0.000 +-0.002 *2. 1525-1532, nr4at-5.08,-4.83, 10.00x10.00, -0.00 deg. sf1.00tf10 54687544
+Dur 3499.88,10749 NF 22 IS 0.40 Framerate 60.00
+cm=rf-4.79,-4.45:3.29x3.93,-45.0deg  pe84 1,-5 fx=0.00,fy=0.
+props sq0.00 xo-5.08 yo-4.83 wi10.00 hi10.00 or-0.00 sf1.00 tf10.00 dx0.0000 se12756 id9490 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+Expt Cancelled
+cm=noback
+mtop=op+do+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+x2+cS+C3
+
+expt: rds et=dx e2=or
+Expt Start (54687544): rds Disparity  0.00: 0.20x9 ed=18.4000
+xExpt2: Orientation 0.00: 0.00x2
+stim 54693528-54697028:1525 bG rds0 props sq0.00 xo-5.08 yo-4.83 wi10.00 hi10.00 or-0.00 sf1.00 tf10.00 dx0.4000 se12762 id9492 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+TrialGood 733: 54692478-54697806 1
+stim 54703695-54707195:1526 bG none0 props sq0.00 xo-5.08 yo-4.83 wi10.00 hi10.00 or-0.00 sf1.00 tf10.00 dx0.0000 se12765 id9493 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 54708528-54712028:1527 bG rds0 props sq0.00 xo-5.08 yo-4.83 wi10.00 hi10.00 or0.00 sf1.00 tf10.00 dx0.6000 se12768 id9494 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 54713361-54716861:1528 bG rds0 props sq0.00 xo-5.08 yo-4.83 wi10.00 hi10.00 or-0.00 sf1.00 tf10.00 dx-0.4000 se12771 id9495 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 54718195-54721694:1529 bG rds0 props sq0.00 xo-5.08 yo-4.83 wi10.00 hi10.00 or-0.00 sf1.00 tf10.00 dx0.2000 se12774 id9496 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+TrialGood 734: 54702543-54722473 4
+stim 54728361-54731861:1530 bG rds0 props sq0.00 xo-5.08 yo-4.83 wi10.00 hi10.00 or0.00 sf1.00 tf10.00 dx0.2000 se12777 id9497 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 54733194-54736694:1531 bG rds0 props sq0.00 xo-5.08 yo-4.83 wi10.00 hi10.00 or0.00 sf1.00 tf10.00 dx0.4000 se12780 id9498 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 54737861-54741361:1532 bG rds0 props sq0.00 xo-5.08 yo-4.83 wi10.00 hi10.00 or-0.00 sf1.00 tf10.00 dx-0.6000 se12783 id9499 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+Expt Cancelled
+cm=noback
+mtop=op+do+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+x2+cS+C3
+
+expt: rds et=dx e2=or
+Expt Start (54928805): rds Disparity  0.00: 0.20x9 ed=18.4000
+xExpt2: Orientation 45.00: 180.00x2

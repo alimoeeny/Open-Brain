@@ -1,0 +1,11 @@
+!f:$UNITGRAPHS/dxcylinder.f
+\Title ic058.0.cylinder.DTf.trl 1900 to 1945 Binoc
+#Preperiod 0.050, rate 0.00 +- 0.000  n = 24
+Delay = 0
+\xy-e
+-0.1000 0.17 9 0.08
+0.0000 1.01 7 0.36
+0.1000 5.99 8 1.16
+\yax 0 10
+\xax -0.10 0.10
+\label i=1 te=n=7 - 9 

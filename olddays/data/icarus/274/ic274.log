@@ -1,0 +1,19 @@
+23-Jul-2009 17:03:35 Fixed LFP in Z:\bgc\data\icarus\274\ic274.lfp.mat
+23-Jul-2009 17:03:50 Saving index Z:\bgc\data\icarus\274\ic274idx.mat
+Cluster set for P1 Expt 1 23-Jul-2009 17:25:20
+Cluster set for P1 Expt 2 23-Jul-2009 17:25:30
+Cluster set for P1 Expt 3 23-Jul-2009 17:25:40
+23-Jul-2009 17:25:48,Saved 1320 spikes (Expts 1 2 3) to Z:\data\icarus\274\ic274.c1.rds.OT.mat
+Cluster set for P1 Expt 4 23-Jul-2009 17:25:52
+Cluster set for P1 Expt 8 23-Jul-2009 17:25:58
+Cluster set for P1 Expt 9 23-Jul-2009 17:26:01
+23-Jul-2009 17:26:06,Saved 2465 spikes (Expts 4 8 9) to Z:\data\icarus\274\ic274.c1.rds.OP.mat
+Cluster set for P1 Expt 5 23-Jul-2009 17:26:24
+Cluster set for P1 Expt 6 23-Jul-2009 17:26:33
+23-Jul-2009 17:26:37,Saved 1822 spikes (Expts 5 6) to Z:\data\icarus\274\ic274.c1.rds.PP.mat
+Cluster set for P1 Expt 10 23-Jul-2009 17:26:42
+23-Jul-2009 17:26:44,Saved 325 spikes (Expts 10) to Z:\data\icarus\274\ic274.c1.cylinder.SZ.mat
+Cluster set for P1 Expt 11 23-Jul-2009 17:26:48
+23-Jul-2009 17:26:50,Saved 229 spikes (Expts 11) to Z:\data\icarus\274\ic274.c1.cylinder.DT.mat
+Cluster set for P1 Expt 12 23-Jul-2009 17:26:54
+23-Jul-2009 17:26:58,Saved 2677 spikes (Expts 12) to tmp.mat

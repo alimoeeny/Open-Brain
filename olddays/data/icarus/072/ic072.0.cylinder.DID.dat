@@ -1,0 +1,10 @@
+!f:$UNITGRAPHS/bd.f
+\Title ic072.0.cylinder.ABD.trl 651 to 675 Binoc
+#Preperiod 0.050, rate 1.74 +- 0.000  n = 23
+none = 0
+\xy-e
+-1005.0000 22.17 23 1.57
+\yax 0 30
+\xax -1005.10 -1004.90
+\label i=1 te=n=23 
+%%Uncancelled Expt

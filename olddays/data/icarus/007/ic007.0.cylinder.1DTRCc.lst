@@ -1,0 +1,22 @@
+Clearclusters
+Cluster1 en6:25.30,83.13 ve6:7.89,25.28 pairen,ve,0.000000
+#Set by bgc on Mon Sep 25 16:15:17 2006
+
+Expt Disparity : cylinder 0.000 +-0.010 *7. 282-285, x Expt Initial Disparity: 0.000 +-0.100 *2. 282-285, nr4at-8.21,0.13, 10.00x10.00, 22.50 deg. sf1.00tf10 3427817
+Dur 12765.44,19519 NF 119 IS 0.10 Framerate 60.00
+cm=rf-8.42,0.13:3.81x4.36,22.5deg  pe26 -2,-5 fx=0.00,fy=0.0
+props sq0.00 xo-8.21 yo0.13 wi10.00 hi10.00 or22.50 sf1.00 tf10.00 dx0.0000 se10086 id7261 bd0.0000 op=+cn+cp+2a+xe+bm+ic 
+TrialGood 66: 3341855-3363906 90
+cm=noback
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+2a+bm+gm+x2+cS+C3
+
+expt: cylinder et=dx e2=Id
+Expt Start (3427817): cylinder Disparity  0.00: 0.01x7 ed=17.7400
+xExpt2: Initial Disparity 0.00: 0.10x2
+stim 3434795-3454314:282 bG cylinder0 props sq0.00 xo-8.21 yo0.13 wi10.00 hi10.00 or22.50 sf1.00 tf10.00 dx-0.0100 se10087 id7262 bd0.0000 Id0.00 op=+cn+cp+sc+2a+cd+xe+bm+ic 
+TrialGood 67: 3433653-3455288 87
+props sq0.00 xo-8.21 yo0.13 wi10.00 hi10.00 or22.50 sf1.00 tf10.00 dx0.0100 se10088 id7263 bd0.0000 Id0.00 op=+cn+cp+sc+2a+cd+xe+bm+ic 
+stim 3473793-3493313:284 bG cylinder0 props sq0.00 xo-8.21 yo0.13 wi10.00 hi10.00 or22.50 sf1.00 tf10.00 dx0.0100 se10089 id7264 bd0.0000 Id0.00 op=+cn+cp+sc+2a+cd+xe+bm+ic 
+TrialGood 68: 3472661-3494317 87
+stim 3496959-3516479:285 bG cylinder0 props sq0.00 xo-8.21 yo0.13 wi10.00 hi10.00 or22.50 sf1.00 tf10.00 dx0.0200 se10090 id7265 bd0.0000 Id0.00 op=+cn+cp+sc+2a+cd+xe+bm+ic 
+EndExpt  (3516866)

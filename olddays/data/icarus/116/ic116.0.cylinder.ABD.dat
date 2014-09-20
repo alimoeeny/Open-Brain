@@ -1,0 +1,9 @@
+!f:$UNITGRAPHS/bd.f
+\Title ic116.0.cylinder.ABD.trl 453 to 4493 Binoc
+#Preperiod 0.050, rate 15.96 +- 1.000  n = 203
+none = 0
+\xy-e
+0.0000 13.16 1428 0.10
+\yax 0 20
+\xax -0.10 0.10
+\label i=1 te=n=1428 

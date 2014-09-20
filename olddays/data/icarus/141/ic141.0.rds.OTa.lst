@@ -1,0 +1,34 @@
+Clearclusters
+Cluster1 en6:26.27,54.46 ve6:11.47,22.43
+#Set by ceb on Fri Jun  8 17:09:49 2007
+
+Expt Orientation: rds 22.500 +-45.000 *8. 0-9, nr4at-2.17,-8.70, 9.99x10.00, 86.99 deg. sf1.00tf10 13146234
+Dur 3999.89,18499 NF 22 IS 0.40 Framerate 60.00
+UFF ic141.0 Created 31/5/2007 08:20 as ic141.0 by v4.55 replay version 1.41 Rev $Revision: 1.55 $
+expt: rds et=or e2=e0
+Expt Start (13146234): rds Orientation 22.50: 45.00x8 ed=0.0000
+xExpt2: EXPTYPE_NONE 0.00: 0.05x0
+cm=rf-2.57,-9.76:2.93x4.70,5.6deg  pe119 1.0,-5.0 fx=0.00,fy=0.00 
+cm=VisualArea MT
+cm=rf-2.17,-8.70:2.93x4.70,5.6deg  pe119 1.0,-5.0 fx=0.00,fy=0.00 
+CR sampling 1136363.64Hz
+stim 966750-970750:0 bG rds0 props sq0.00 xo-2.17 yo-8.70 wi9.99 hi10.00 or86.99 sf1.00 tf10.00 dx-0.5000 se8724 id6806 bd0.0000 op=+cn+cp 
+props sq0.00 xo-2.17 yo-8.70 wi9.99 hi10.00 or86.99 sf1.00 tf10.00 dx-0.5000 se8724 id6806 bd0.0000 op=+cn+cp 
+stim 986250-990250:2 bG rds0 props sq0.00 xo-2.17 yo-8.70 wi9.99 hi10.00 or86.99 sf1.00 tf10.00 dx-0.5000 se8724 id6806 bd0.0000 op=+cn+cp 
+stim 991083-995083:3 bG rds0 props sq0.00 xo-2.17 yo-8.70 wi9.99 hi10.00 or86.99 sf1.00 tf10.00 dx-0.5000 se8724 id6806 bd0.0000 op=+cn+cp 
+stim 995916-999916:4 bG rds0 props sq0.00 xo-2.17 yo-8.70 wi9.99 hi10.00 or86.99 sf1.00 tf10.00 dx-0.5000 se8724 id6806 bd0.0000 op=+cn+cp 
+stim 1000750-1004749:5 bG rds0 props sq0.00 xo-2.17 yo-8.70 wi9.99 hi10.00 or86.99 sf1.00 tf10.00 dx-0.5000 se8724 id6806 bd0.0000 op=+cn+cp 
+TrialGood 0: 985147-1005523 4
+stim 1034915-1038915:6 bG rds0 props sq0.00 xo-2.17 yo-8.70 wi9.99 hi10.00 or86.99 sf1.00 tf10.00 dx-0.5000 se8724 id6806 bd0.0000 op=+cn+cp 
+stim 1039748-1043748:7 bG rds0 props sq0.00 xo-2.17 yo-8.70 wi9.99 hi10.00 or86.99 sf1.00 tf10.00 dx-0.5000 se8724 id6806 bd0.0000 op=+cn+cp 
+stim 1044581-1048581:8 bG rds0 props sq0.00 xo-2.17 yo-8.70 wi9.99 hi10.00 or86.99 sf1.00 tf10.00 dx-0.5000 se8724 id6806 bd0.0000 op=+cn+cp 
+stim 1049415-1053415:9 bG rds0 props sq0.00 xo-2.17 yo-8.70 wi9.99 hi10.00 or86.99 sf1.00 tf10.00 dx-0.5000 se8724 id6806 bd0.0000 op=+cn+cp 
+TrialGood 1: 1033868-1054187 4
+cm=noback
+mtop=op+do+aa+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+0m+gm+cS+C3
+
+Error! Experiment started without stopping, trial 10
+
+expt: rds et=or e2=e0
+Expt Start (1115610): rds Orientation 22.50: 45.00x8 ed=18.7300
+xExpt2: EXPTYPE_NONE 0.00: 0.05x0

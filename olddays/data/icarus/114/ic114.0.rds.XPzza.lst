@@ -1,0 +1,28 @@
+Expt X offset: rds -19.341 +-3.000 *9. 199-206, x Expt Orientation: 90.000 +-180.000 *2. 199-206, nr4at-19.34,-5.09, 3.01x15.00, 0.00 deg. sf1.00tf10 109271623
+Dur 3666.58,17999 NF 22 IS 0.40 Framerate 60.00
+cm=rf-19.52,-5.05:11.55x8.86,5.6deg  pe102 -1.0,-4.0 fx=5.00
+props sq0.00 xo-19.34 yo-5.09 wi3.01 hi15.00 or0.00 sf1.00 tf10.00 dx-0.2000 se9956 id7159 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+TrialGood 42: 109240200-109260560 4
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+0m+gm+x2+cS+C3
+
+expt: rds et=xo e2=or
+Expt Start (109271623): rds X offset -19.34: 3.00x9 ed=18.4490
+xExpt2: Orientation 90.00: 180.00x2
+stim 109274448-109277948:199 bG rds0 props sq0.00 xo-22.34 yo-5.09 wi3.01 hi15.00 or0.00 sf1.00 tf10.00 dx-0.2000 se9960 id7160 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 109279282-109282782:200 bG rds0 props sq0.00 xo-13.34 yo-5.09 wi3.01 hi15.00 or180.00 sf1.00 tf10.00 dx-0.2000 se9964 id7161 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 109284115-109287615:201 bG rds0 props sq0.00 xo-10.34 yo-5.09 wi3.01 hi15.00 or180.00 sf1.00 tf10.00 dx-0.2000 se9968 id7162 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 109288948-109292448:202 bG rds0 props sq0.00 xo-28.34 yo-5.09 wi3.01 hi15.00 or180.00 sf1.00 tf10.00 dx-0.2000 se9972 id7163 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+TrialGood 43: 109273302-109293227 4
+stim 109299115-109302614:203 bG rds0 props sq0.00 xo-10.34 yo-5.09 wi3.01 hi15.00 or0.00 sf1.00 tf10.00 dx-0.2000 se9976 id7164 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 109303948-109307448:204 bG rds0 props sq0.00 xo-16.34 yo-5.09 wi3.01 hi15.00 or180.00 sf1.00 tf10.00 dx-0.2000 se9980 id7165 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 109308781-109312281:205 bG rds0 props sq0.00 xo-7.34 yo-5.09 wi3.01 hi15.00 or0.00 sf1.00 tf10.00 dx-0.2000 se9984 id7166 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 109313614-109317114:206 bG rds0 props sq0.00 xo-19.34 yo-5.09 wi3.01 hi15.00 or180.00 sf1.00 tf10.00 dx-0.2000 se9988 id7167 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+TrialGood 44: 109297986-109317892 4
+Expt Cancelled
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+0m+gm+cS+C3
+
+expt: rds et=xo e2=e0
+Expt Start (109353088): rds X offset -19.34: 3.00x9 ed=18.4490
+xExpt2: EXPTYPE_NONE 90.00: 180.00x0

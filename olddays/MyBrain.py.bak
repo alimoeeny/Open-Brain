@@ -1,0 +1,83 @@
+#!/usr/bin/env python
+ 
+import sys
+import gtk
+import gtk.glade
+
+actresses = [('jessica alba', 'pomona', '1981'), ('sigourney weaver', 'new york', '1949'),
+    ('angelina jolie', 'los angeles', '1975'), ('natalie portman', 'jerusalem', '1981'),
+    ('rachel weiss', 'london', '1971'), ('scarlett johansson', 'new york', '1984' )]
+
+  
+class MyBrain:
+ 
+    def on_window1_destroy(self, widget, data=None):
+	print "Window 1 closed!"        
+	gtk.main_quit()
+
+    def on_experimentsListStore_row_inserted(self, widget, data=None):
+	print "row added!" 
+    
+    def __init__(self):
+    
+        builder = gtk.Builder()
+        builder.add_from_file("MyBrain.glade") 
+
+        self.window = builder.get_object("window1")
+	self.window.set_size_request(800, 600)
+	self.window.set_title("My Brain - Open Brain")
+	self.window.set_position(gtk.WIN_POS_CENTER)
+
+	self.experimentsTreeView = builder.get_object("experimentsTreeView")        
+	self.experimentsList = gtk.ListStore(str, str)#builder.get_object("experimentsListStore")
+	self.experimentsTreeView.set_model(self.experimentsList)
+
+        self.experimentsList.append(['0', actresses[0]])
+        self.experimentsList.append(['1', actresses[1]])
+        self.experimentsList.append(['2', actresses[2]])
+	  
+	builder.connect_signals(self)       
+#################################################
+        self.window.show_all()
+
+
+#        store = gtk.ListStore(str, str, str)
+
+    def addExptColumn(self, title, columnId):
+	column = gtk.TreeViewColumn(title, gtk.CellRendererText(), text=columnId)
+	column.set_resizable(True)
+	column.set_sort_column_id(columnId)
+	self.experimentsTreeView.append_column(column)
+
+    def create_columns(self, treeView):
+    
+        rendererText = gtk.CellRendererText()
+        column = gtk.TreeViewColumn("Name", rendererText, text=0)
+        column.set_sort_column_id(0)    
+        treeView.append_column(column)
+        
+        rendererText = gtk.CellRendererText()
+        column = gtk.TreeViewColumn("Place", rendererText, text=1)
+        column.set_sort_column_id(1)
+        treeView.append_column(column)
+
+        rendererText = gtk.CellRendererText()
+        column = gtk.TreeViewColumn("Year", rendererText, text=2)
+        column.set_sort_column_id(2)
+        treeView.append_column(column)
+
+
+    def on_activated(self, widget, row, col):
+        
+        model = widget.get_model()
+        text = model[row][0] + ", " + model[row][1] + ", " + model[row][2]
+        self.statusbar.push(0, text)
+
+
+
+if __name__ == "__main__":
+    editor = MyBrain()
+    editor.window.show()
+    gtk.main()
+   
+

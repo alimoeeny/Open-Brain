@@ -1,0 +1,23 @@
+NoGoodCluster
+Expt Disparity : cylinder 0.000 +-0.002 *5. 514-515, x Expt Initial Disparity: 0.000 +-0.018 *6. 514-515, nr4at-2.53,-7.00, 9.99x10.00, 90.00 deg. sf1.00tf10 8257666
+Dur 9562.25,0 NF 58 IS 0.40 Framerate 60.00
+cm=rf-2.21,-7.04:2.93x4.70,5.6deg  pe119 1.0,cl
+props sq0.00 xo-2.53 yo-7.00 wi9.99 hi10.00 or90.00 sf1.00 tf10.00 dx0.5000 se10080 id7250 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 116: 7802727-7825349 2
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+cs+2a+bm+0m+gm+x2+cb+cS+C3
+
+expt: cylinder et=dx e2=Id
+Expt Start (8257666): cylinder Disparity  0.00: 0.00x5 ed=18.6900
+xExpt2: Initial Disparity 0.00: 0.02x6
+props sq3.00 xo-2.53 yo-7.00 wi9.99 hi10.00 or90.00 sf1.00 tf10.00 dx-0.0017 se10081 id7251 bd0.0000 Id0.0000 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+props sq3.00 xo-2.53 yo-7.00 wi9.99 hi10.00 or90.00 sf1.00 tf10.00 dx-0.0017 se10082 id7252 bd0.0000 Id-0.0270 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+EndExpt  (8291700)
+EndExpt  (8300146)
+cm=rf-2.21,-7.04:2.93x4.70,5.6deg  pe119 1.0,-5.0 fx=0.00,fy=0.00 
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+cs+2a+bm+0m+gm+x2+cb+cS+C3
+
+expt: cylinder et=dx e2=Id
+Expt Start (8398728): cylinder Disparity  0.00: 0.00x5 ed=18.6900
+xExpt2: Initial Disparity 0.00: 0.02x6

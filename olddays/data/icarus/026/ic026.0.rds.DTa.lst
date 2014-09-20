@@ -1,0 +1,26 @@
+Clearclusters
+Cluster1 en6:36.14,104.82 ve6:4.83,20.90 pairen,ve,0.000000
+#Set by ceb on Wed Dec  6 10:42:41 2006
+
+Expt Disparity : rds 22.500 +-45.000 *8. 0-3, nr4at-12.11,-7.96, 20.00x20.00, 135.00 deg. sf0.50tf10 40532502
+Dur 4000.00,18499 NF 22 IS 0.40 Framerate 60.00
+UFF ic026.0 Created 29/11/2006 15:47 as ic026.2 by v4.50 replay version 1.41 Rev $Revision: 1.55 $
+expt: rds et=dx e2=e0
+Expt Start (40532502): rds Disparity  0.00: 0.20x13 ed=0.0000
+xExpt2: EXPTYPE_NONE 0.55: 0.30x2
+cm=rf-12.11,-7.96:16.65x17.82,45.0deg  pe40 2,-2 fx=5.00,fy=10.00 
+cm=rf-12.11,-7.96:16.65x17.82,45.0deg  pe40 2,-2 fx=5.00,fy=10.00 
+CR sampling 1136363.62Hz
+stim 116660-120660:0 bG rds0 props sq0.00 xo-12.11 yo-7.96 wi20.00 hi20.00 or135.00 sf0.50 tf10.00 dx0.0000 se15488 id9155 bd0.0000 op=+cn+cp 
+stim 121493-125493:1 bG rds0 props sq0.00 xo-12.11 yo-7.96 wi20.00 hi20.00 or135.00 sf0.50 tf10.00 dx0.0000 se15488 id9155 bd0.0000 op=+cn+cp 
+stim 126326-130326:2 bG rds0 props sq0.00 xo-12.11 yo-7.96 wi20.00 hi20.00 or135.00 sf0.50 tf10.00 dx0.0000 se15488 id9155 bd0.0000 op=+cn+cp 
+stim 131159-135159:3 bG rds0 props sq0.00 xo-12.11 yo-7.96 wi20.00 hi20.00 or135.00 sf0.50 tf10.00 dx0.0000 se15488 id9155 bd0.0000 op=+cn+cp 
+TrialGood 0: 115586-135930 4
+cm=noback
+mtop=op+do+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+cS+C3
+
+Error! Experiment started without stopping, trial 4
+
+expt: rds et=or e2=e0
+Expt Start (148502): rds Orientation 22.50: 45.00x8 ed=14.0400
+xExpt2: EXPTYPE_NONE 0.55: 0.30x2

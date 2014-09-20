@@ -1,0 +1,24 @@
+Expt Disparity : none 0.000 +-0.200 *6. 474-477, nr4at-4.68,-1.31, 7.00x7.00, -135.00 deg. sf1.00tf10 6373764
+Dur 9500.00,14916 NF 58 IS 0.40 Framerate 60.00
+cm=rf-4.97,-1.29:4.82x3.86,-135.0deg  pe110 -1.0,-6.0 fcl
+props sq0.00 xo-4.68 yo-1.31 wi7.00 hi7.00 or-60.00 sf1.00 tf10.00 dx-0.3000 se10336 id7244 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+EndExpt  (6269444)
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+0m+gm+cS+C3
+
+expt: none et=dx e2=e0
+Expt Start (6373764): none Disparity  0.00: 0.20x6 ed=18.6600
+xExpt2: EXPTYPE_NONE 0.55: 0.30x2
+stim 6379633-6389133:474 bG none0 props sq0.00 xo-4.68 yo-1.31 wi7.00 hi7.00 or-135.00 sf1.00 tf10.00 dx0.5000 se10339 id7247 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 104: 6378601-6389901 1
+stim 6395799-6405299:475 bG none0 props sq0.00 xo-4.68 yo-1.31 wi7.00 hi7.00 or-135.00 sf1.00 tf10.00 dx0.1000 se10340 id7248 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 6406632-6416132:476 bG none0 props sq0.00 xo-4.68 yo-1.31 wi7.00 hi7.00 or-135.00 sf1.00 tf10.00 dx-0.1000 se10341 id7249 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 105: 6394747-6416900 2
+stim 6422798-6432298:477 bG none0 props sq0.00 xo-4.68 yo-1.31 wi7.00 hi7.00 or-135.00 sf1.00 tf10.00 dx0.3000 se10342 id7250 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+Expt Cancelled
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+0m+gm+cS+C3
+
+expt: cylinder et=dx e2=e0
+Expt Start (6574285): cylinder Disparity  0.00: 0.20x6 ed=18.6600
+xExpt2: EXPTYPE_NONE 0.55: 0.30x2

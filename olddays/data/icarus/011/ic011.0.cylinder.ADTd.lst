@@ -1,0 +1,28 @@
+Clearclusters
+Cluster1 en6:29.40,100.00 ve6:9.80,25.15 pairen,ve,0.000000
+#Set by ceb on Tue Nov 28 14:49:05 2006
+
+Expt Disparity : cylinder 0.000 +-0.030 *13. 842-844, nr4at-3.76,-2.65, 10.00x10.00, -90.00 deg. sf1.00tf10 23637919
+Dur 18716.40,18167 NF 110 IS 0.40 Framerate 60.00
+cm=rf-3.81,-2.44:6.10x4.83,-90.0deg  pe28 0,-5 fx=0.00,fy=0.
+props sq3.00 xo-3.81 yo-2.61 wi10.00 hi10.00 or-90.00 sf1.00 tf10.00 dx0.0000 se11578 id8811 bd0.0000 MD=0 op=+cn+cp+sc+2a+cd+bm 
+TrialGood 536: 23539812-23562695 1
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+cs+2a+bm+gm+da+ao+cS+C3
+
+expt: cylinder et=dx e2=e0
+Expt Start (23637919): cylinder Disparity  0.00: 0.03x13 ed=13.9000
+xExpt2: EXPTYPE_NONE 0.50: 1.00x1
+stim 23642556-23660723:842 bG cylinder0 props sq3.00 xo-3.76 yo-2.65 wi10.00 hi10.00 or-90.00 sf1.00 tf10.00 dx-0.1500 se11579 id8812 bd0.0000 MD=0 op=+cn+cp+sc+2a+cd+bm 
+TrialGood 537: 23641506-23664454 1
+stim 23670055-23688222:843 bG cylinder0 props sq-3.00 xo-3.76 yo-2.65 wi10.00 hi10.00 or-90.00 sf1.00 tf10.00 dx0.0600 se11580 id8813 bd0.0000 MD=0 op=+cn+cp+sc+2a+cd+bm 
+TrialGood 538: 23669025-23692405 1
+props sq3.00 xo-3.76 yo-2.65 wi10.00 hi10.00 or-90.00 sf1.00 tf10.00 dx-0.0900 se11581 id8814 bd0.0000 MD=0 op=+cn+cp+sc+2a+cd+bm 
+EndExpt  (23703900)
+cm=rf-3.81,-2.44:6.10x4.83,-90.0deg  pe28 0,-5 fx=0.00,fy=0.00 
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+cs+bm+gm+da+ao+cS+C3
+
+expt: cylinder et=dx e2=e0
+Expt Start (23828126): cylinder Disparity  0.00: 0.03x13 ed=13.9000
+xExpt2: EXPTYPE_NONE 0.50: 1.00x1

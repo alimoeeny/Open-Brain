@@ -1,0 +1,26 @@
+Expt Disparity : rds 0.000 +-0.200 *13. 331-334, nr4at-13.80,-1.19, 15.00x15.00, 0.00 deg. sf1.00tf10 25351760
+Dur 9499.67,20333 NF 58 IS 0.40 Framerate 60.00
+cm=rf-14.40,-0.81:10.28x9.37,-45.0deg  pe94 1,-5 fx=0.00,fy=
+props sq0.00 xo-13.80 yo-1.19 wi9.99 hi10.00 or0.00 sf1.00 tf10.00 dx0.0000 se11186 id7565 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 77: 25148772-25170742 2
+Expt Cancelled
+cm=:top projector off until now
+cm=noback
+mtop=op+do+aa+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+cS+C3
+
+expt: rds et=dx e2=e0
+Expt Start (25351760): rds Disparity  0.00: 0.20x13 ed=18.7200
+xExpt2: EXPTYPE_NONE 0.55: 0.30x2
+props sq0.00 xo-13.80 yo-1.19 wi15.00 hi15.00 or0.00 sf1.00 tf10.00 dx1.0001 se11192 id7567 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 25376624-25386123:332 bG rds0 props sq0.00 xo-13.80 yo-1.19 wi15.00 hi15.00 or0.00 sf1.00 tf10.00 dx1.0001 se11195 id7568 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 25387457-25396957:333 bG none0 props sq0.00 xo-13.80 yo-1.19 wi15.00 hi15.00 or0.00 sf1.00 tf10.00 dx0.0000 se11200 id7569 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 78: 25375594-25397735 2
+stim 25403623-25413123:334 bG rds0 props sq0.00 xo-13.80 yo-1.19 wi15.00 hi15.00 or0.00 sf1.00 tf10.00 dx0.0000 se11203 id7570 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+Expt Cancelled
+cm=rf-14.40,-0.81:10.28x9.37,-45.0deg  pe94 1,-5 fx=0.00,fy=0.00 
+cm=noback
+mtop=op+do+aa+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+cS+C3
+
+expt: rds et=dx e2=e0
+Expt Start (25452050): rds Disparity  0.00: 0.20x13 ed=18.7200
+xExpt2: EXPTYPE_NONE 0.55: 0.30x2

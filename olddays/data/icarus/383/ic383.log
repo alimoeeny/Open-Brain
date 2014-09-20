@@ -1,0 +1,24 @@
+04-Sep-2009 16:54:44 Fixed LFP in Z:\bgc\data\icarus\383\ic383.lfp.mat
+04-Sep-2009 16:55:07 Saving index Z:\bgc\data\icarus\383\ic383idx.mat
+Cluster set for P1 Expt 1 04-Sep-2009 18:23:40
+Cluster set for P1 Expt 2 04-Sep-2009 18:23:46
+Cluster set for P1 Expt 3 04-Sep-2009 18:23:53
+Cluster set for P1 Expt 4 04-Sep-2009 18:24:09
+Cluster set for P1 Expt 5 04-Sep-2009 18:24:21
+Cluster set for P1 Expt 6 04-Sep-2009 18:29:03
+Cluster set for P1 Expt 7 04-Sep-2009 18:29:13
+Cluster set for P1 Expt 7 04-Sep-2009 18:29:22
+Cluster set for P1 Expt 8 04-Sep-2009 18:29:36
+Cluster set for P1 Expt 8 04-Sep-2009 18:29:40
+Cluster set for P1 Expt 9 04-Sep-2009 18:29:46
+Cluster set for P1 Expt 10 04-Sep-2009 18:29:54
+04-Sep-2009 18:30:05,Saved 850 spikes (Expts 1 2) to /bgc/data/icarus/383/ic383.c1.rds.OT.mat
+04-Sep-2009 18:30:09,Saved 1698 spikes (Expts 3 4) to /bgc/data/icarus/383/ic383.c1.rds.DT.mat
+04-Sep-2009 18:30:24,Saved 1760 spikes (Expts 5 6) to /bgc/data/icarus/383/ic383.c1.cylinder.DT.mat
+04-Sep-2009 18:30:30,Saved 1769 spikes (Expts 7 8) to /bgc/data/icarus/383/ic383.c1.cylinder.DT.mat
+04-Sep-2009 18:30:35,Saved 2075 spikes (Expts 9 10) to /bgc/data/icarus/383/ic383.c1.cylinder.DT.mat
+04-Sep-2009 18:30:48,Saved 2075 spikes (Expts 9 10) to /bgc/data/icarus/383/ic383.c1.cylinder.DT.js.2.mat
+04-Sep-2009 18:30:54,Saved 2075 spikes (Expts 9 10) to /bgc/data/icarus/383/ic383.c1.cylinder.DT.js.1.mat
+04-Sep-2009 18:30:57,Saved 1769 spikes (Expts 7 8) to /bgc/data/icarus/383/ic383.c1.cylinder.DT.js.1.mat
+04-Sep-2009 18:31:05,Saved 2075 spikes (Expts 9 10) to /bgc/data/icarus/383/ic383.c1.cylinder.DT.js.2.mat
+04-Sep-2009 18:31:15,Saved 2075 spikes (Expts 9 10) to /bgc/data/icarus/383/ic383.c1.cylinder.DT.mat

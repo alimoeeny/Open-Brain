@@ -1,0 +1,28 @@
+Expt Disparity : cylinder 0.000 +-0.200 *2. 4933-4937, x Expt Initial Disparity: 0.000 +-0.003 *2. 4933-4937, nr10at-5.71,-8.21, 6.99x7.00, 80.00 deg. sf3.00tf10 65548018
+Dur 19833.00,19833 NF 120 IS 0.40 Framerate 60.00
+cm=rf-5.53,-7.23:12.92x12.23,80.0deg  pe78 -2,-4 fx=0.00,fy=
+props sq0.00 xo-5.55 yo-8.25 wi6.99 hi7.00 or80.00 sf3.00 tf10.00 dx-0.2000 se208093 id11589 bd-0.2000 op=+cn+cp+sc+cd+bm+ic+fS+(null) 
+Expt Cancelled
+cm=rf-5.53,-7.23:12.92x12.23,80.0deg  pe78 -2,-4 fx=0.00,fy=0.00 
+cm=noback
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+cs+2a+bm+gm+x2+sp+da+cS+C3
+
+expt: cylinder et=dx e2=Id
+Expt Start (65548018): cylinder Disparity  0.00: 0.20x2 ed=13.2700
+xExpt2: Initial Disparity 0.00: 0.00x2
+stim 65555745-65575578:4933 bG cylinder0 props sq3.00 xo-5.71 yo-8.21 wi6.99 hi7.00 or80.00 sf3.00 tf10.00 dx0.1000 se151162 id11590 bd-0.2000 Id-0.00 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialWrong 1448: 65554658-65581232 2
+stim 65587077-65606910:4934 bG cylinder0 props sq-3.00 xo-5.71 yo-8.21 wi6.99 hi7.00 or80.00 sf3.00 tf10.00 dx-0.1000 se151163 id11591 bd-0.2000 Id0.00 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+stim 65621243-65641076:4935 bG cylinder0 props sq-3.00 xo-5.71 yo-8.21 wi6.99 hi7.00 or80.00 sf3.00 tf10.00 dx-0.1000 se151164 id11592 bd-0.2000 Id0.00 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialGood 1449: 65620217-65644731 2
+stim 65651242-65671075:4936 bG cylinder0 props sq3.00 xo-5.71 yo-8.21 wi6.99 hi7.00 or80.00 sf3.00 tf10.00 dx0.1000 se151165 id11593 bd-0.2000 Id0.00 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialGood 1450: 65650149-65674526 2
+stim 65681575-65701408:4937 bG cylinder0 props sq-3.00 xo-5.71 yo-8.21 wi6.99 hi7.00 or80.00 sf3.00 tf10.00 dx-0.1000 se151166 id11594 bd-0.2000 Id-0.00 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+Expt Cancelled
+cm=rf-5.53,-7.23:12.92x12.23,80.0deg  pe78 -2,-4 fx=0.00,fy=0.00 
+cm=noback
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+cs+2a+bm+gm+x2+sp+da+cS+C3
+
+expt: cylinder et=dx e2=Id
+Expt Start (66194412): cylinder Disparity  0.00: 0.01x5 ed=13.2700
+xExpt2: Initial Disparity 0.00: 0.00x6

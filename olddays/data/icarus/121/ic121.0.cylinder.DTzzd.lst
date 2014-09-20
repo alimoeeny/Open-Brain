@@ -1,0 +1,24 @@
+Expt Disparity : cylinder 0.000 +-0.100 *5. 491-496, nr4at-14.18,10.34, 15.01x15.00, 135.00 deg. sf1.00tf10 7491458
+Dur 19738.00,19666 NF 119 IS 0.40 Framerate 60.00
+cm=rf-14.37,10.58:1cl
+props sq0.00 xo-14.18 yo10.34 wi15.01 hi15.00 or135.00 sf1.00 tf10.00 dx0.4000 se11406 id7751 bd0.0000 op=+cn+cp+2a+bm 
+TrialGood 115: 7458697-7480758 1
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+cs+2a+bm+0m+gm+cS+C3
+
+expt: cylinder et=dx e2=e0
+Expt Start (7491458): cylinder Disparity  0.00: 0.10x5 ed=20.8000
+xExpt2: EXPTYPE_NONE 0.55: 0.30x2
+stim 7496492-7516159:491 bG cylinder0 props sq0.00 xo-14.18 yo10.34 wi15.01 hi15.00 or135.00 sf1.00 tf10.00 dx0.2000 se11407 id7752 bd0.0000 op=+cn+cp+sc+2a+cd+bm 
+TrialGood 116: 7495352-7516923 1
+stim 7522825-7542491:492 bG cylinder0 props sq0.00 xo-14.18 yo10.34 wi15.01 hi15.00 or135.00 sf1.00 tf10.00 dx0.1000 se11408 id7753 bd0.0000 op=+cn+cp+sc+2a+cd+bm 
+TrialGood 117: 7521722-7543266 1
+stim 7549157-7568824:493 bG cylinder0 props sq0.00 xo-14.18 yo10.34 wi15.01 hi15.00 or135.00 sf1.00 tf10.00 dx-0.2000 se11409 id7754 bd0.0000 op=+cn+cp+sc+2a+cd+bm 
+TrialGood 118: 7548066-7569589 1
+stim 7575323-7594989:494 bG cylinder0 props sq0.00 xo-14.18 yo10.34 wi15.01 hi15.00 or135.00 sf1.00 tf10.00 dx-0.1000 se11410 id7755 bd0.0000 op=+cn+cp+sc+2a+cd+bm 
+TrialGood 119: 7574283-7595754 1
+stim 7617155-7636822:495 bG cylinder0 props sq0.00 xo-14.18 yo10.34 wi15.01 hi15.00 or135.00 sf1.00 tf10.00 dx0.0000 se11412 id7757 bd0.0000 op=+cn+cp+sc+2a+cd+bm 
+TrialGood 120: 7616058-7637587 1
+stim 7643822-7663488:496 bG cylinder0 props sq0.00 xo-14.18 yo10.34 wi15.01 hi15.00 or135.00 sf1.00 tf10.00 dx-0.2000 se11413 id7758 bd0.0000 op=+cn+cp+sc+2a+cd+bm 
+TrialGood 121: 7642684-7664254 1
+Expt Cancelled

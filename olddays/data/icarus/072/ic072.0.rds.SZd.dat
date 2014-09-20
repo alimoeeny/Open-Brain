@@ -1,0 +1,16 @@
+!f:$UNITGRAPHS/sz.f
+\Title ic072.0.rds.SZd.trl 267 to 290 Binoc
+#Preperiod 0.050, rate 1.67 +- 0.000  n = 24
+none = 0
+\xy-e
+0.9800 13.14 5 3.45
+3.0000 23.57 4 8.36
+5.0000 35.01 4 4.87
+6.9900 40.00 4 6.70
+9.0000 30.72 4 3.16
+\label i=2 te=Blank \2_
+\xy-e--
+5.0000 1.90 3 1.90
+\yax 0 40
+\xax 0.98 9.00
+\label i=1 te=n=3 - 5 NOBACK wi=9.00 or=90.00Ro=90sl=1

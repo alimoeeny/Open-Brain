@@ -1,0 +1,20 @@
+Expt Disparity : cylinder 0.000 +-0.030 *13. 845-849, nr4at-3.76,-2.65, 10.00x10.00, -90.00 deg. sf1.00tf10 23828126
+Dur 3500.00,17999 NF 22 IS 0.40 Framerate 60.00
+cm=rf-3.81,-2.44:6.10x4.83,-90.0deg  pe28 0,-5 fx=0.00,fy=0.
+props sq3.00 xo-3.76 yo-2.65 wi10.00 hi10.00 or-90.00 sf1.00 tf10.00 dx-0.0900 se11581 id8814 bd0.0000 MD=0 op=+cn+cp+sc+2a+cd+bm 
+EndExpt  (23703900)
+cm=rf-3.81,-2.44:6.10x4.83,-90.0deg  pe28 0,-5 fx=0.00,fy=0.00 
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+cs+bm+gm+da+ao+cS+C3
+
+expt: cylinder et=dx e2=e0
+Expt Start (23828126): cylinder Disparity  0.00: 0.03x13 ed=13.9000
+xExpt2: EXPTYPE_NONE 0.50: 1.00x1
+stim 23834052-23837552:845 bG cylinder0 props sq-3.00 xo-3.76 yo-2.65 wi10.00 hi10.00 or-90.00 sf1.00 tf10.00 dx0.0000 se11583 id8816 bd0.0000 MD=0 op=+cn+cp+sc+cd+bm 
+stim 23838885-23842385:846 bG cylinder0 props sq3.00 xo-3.76 yo-2.65 wi10.00 hi10.00 or-90.00 sf1.00 tf10.00 dx-0.1800 se11584 id8817 bd0.0000 MD=0 op=+cn+cp+sc+cd+bm 
+stim 23843718-23847218:847 bG cylinder0 props sq-3.00 xo-3.76 yo-2.65 wi10.00 hi10.00 or-90.00 sf1.00 tf10.00 dx0.0900 se11585 id8818 bd0.0000 MD=0 op=+cn+cp+sc+cd+bm 
+stim 23848551-23852051:848 bG cylinder0 props sq-3.00 xo-3.76 yo-2.65 wi10.00 hi10.00 or-90.00 sf1.00 tf10.00 dx0.1500 se11586 id8819 bd0.0000 MD=0 op=+cn+cp+sc+cd+bm 
+TrialGood 539: 23832980-23856003 4
+stim 23861551-23865051:849 bG cylinder0 props sq3.00 xo-3.76 yo-2.65 wi10.00 hi10.00 or-90.00 sf1.00 tf10.00 dx-0.0300 se11587 id8820 bd0.0000 MD=0 op=+cn+cp+sc+cd+bm 
+Expt Cancelled
+cm=rf-3.81,-2.44:6.10x4.83,-90.0deg  pe28 0,-5 fx=0.00,fy=0.00 

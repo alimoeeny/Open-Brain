@@ -1,0 +1,13 @@
+!f:$UNITGRAPHS/sz.f
+\Title ic064.0.cylinder.SZSPa.trl 641 to 680 Binoc
+#Preperiod 0.050, rate 0.00 +- 0.000  n = 25
+none = 0
+\xy-e
+6.0200 32.54 6 1.95
+6.9900 34.78 5 2.09
+8.0000 36.20 5 1.64
+9.0000 37.73 5 1.88
+10.0000 35.59 4 2.17
+\yax 0 40
+\xax 6.02 10.00
+\label i=1 te=n=4 - 6 

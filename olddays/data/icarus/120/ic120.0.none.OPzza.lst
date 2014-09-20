@@ -1,0 +1,24 @@
+Expt Orthog Offset: none -0.223 +-2.000 *8. 1912-1919, nr4at-14.97,-0.52, 2.01x15.00, -45.00 deg. sf1.00tf10 68322995
+Dur 3499.75,17999 NF 22 IS 0.40 Framerate 60.00
+cm=rf-11.28,3.17:6.92x4.46,-45.0deg  pe104 0.0,-6.0 fx=0.00c
+props sq0.00 xo-14.97 yo-0.52 wi2.01 hi15.00 or-45.00 sf1.00 tf10.00 dx0.0750 se16094 id2064 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 1179: 68256650-68278163 1
+Expt Cancelled
+cm=rf-11.28,3.17:6.92x4.46,-45.0deg  pe104 0.0,-6.0 fx=0.00cl
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+0m+gm+cb+cS+C3
+
+expt: none et=Op e2=e0
+Expt Start: none type 287 -0.22: 2.00x8 ed=20.9100
+xExpt2: EXPTYPE_NONE 0.00: 0.02x0
+stim 68328558-68332057:1912 bG none0 props sq0.00 xo-10.72 yo3.72 wi2.01 hi15.00 or-45.00 sf1.00 tf10.00 dx0.0750 se16105 id2066 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 68333391-68336891:1913 bG none0 props sq0.00 xo-7.89 yo6.55 wi2.01 hi15.00 or-45.00 sf1.00 tf10.00 dx0.0750 se16106 id2067 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 68338224-68341724:1914 bG none0 props sq0.00 xo-13.55 yo0.89 wi2.01 hi15.00 or-45.00 sf1.00 tf10.00 dx0.0750 se16107 id2068 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 68343057-68346557:1915 bG none0 props sq0.00 xo-6.48 yo7.96 wi2.01 hi15.00 or-45.00 sf1.00 tf10.00 dx0.0750 se16108 id2069 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 1180: 68327489-68347329 4
+stim 68353057-68356557:1916 bG none0 props sq0.00 xo-16.38 yo-1.94 wi2.01 hi15.00 or-45.00 sf1.00 tf10.00 dx0.0750 se16109 id2070 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 68357890-68361390:1917 bG none0 props sq0.00 xo-11.43 yo3.01 wi2.01 hi15.00 or-45.00 sf1.00 tf10.00 dx0.0750 se16110 id2071 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 68362723-68366223:1918 bG none0 props sq0.00 xo-12.14 yo2.31 wi2.01 hi15.00 or-45.00 sf1.00 tf10.00 dx0.0750 se16111 id2072 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 68367557-68371056:1919 bG none0 props sq0.00 xo-9.31 yo5.14 wi2.01 hi15.00 or-45.00 sf1.00 tf10.00 dx0.0750 se16112 id2073 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 1181: 68352006-68371828 4
+Expt Cancelled

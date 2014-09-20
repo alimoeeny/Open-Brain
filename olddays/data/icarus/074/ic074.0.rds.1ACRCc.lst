@@ -1,0 +1,36 @@
+Clearclusters
+Cluster1 en6:26.27,78.31 ve6:9.79,30.90 pairen,ve,0.000000
+#Set by bgc on Tue Mar  6 20:24:01 2007
+
+Expt Disparity : rds 0.000 +-0.200 *7. 925-932, x Expt Correlation: 0.000 +-2.000 *2. 925-932, nr4at-3.97,-0.90, 6.02x6.00, -90.00 deg. sf1.00tf10 16254162
+Dur 19832.50,19832 NF 120 IS 0.40 Framerate 60.00
+cm=rf-3.97,-0.90:3.38x3.46,-90.0deg  pe83 0,-6 fx=0.00,fy=0.
+props sq0.00 xo-3.97 yo-0.90 wi6.02 hi6.00 or-90.00 sf1.00 tf10.00 dx0.2000 se10606 id7314 bd0.0000 ce-1.00 op=+rc+cn+cp+sc+cd+xe+bm+ic+fS+(null)+(null) 
+TrialGood 369: 15801471-15823151 121
+EndExpt  (15828053)
+cm=back=rds,wi=7.03,hi=7.02,ce=1.00,xo=-3.97,yo=1.00,dx=0.00,co=1.00
+mtop=op+do+72+fc+fb+ap+wt+cf+ws+ts+bw+ic+im+iu+cs+bm+gm+x2+da+ao+fS+cS+C3
+
+expt: rds et=dx e2=ce
+Expt Start (16254162): rds Disparity  0.00: 0.20x7 ed=18.2700
+xExpt2: Correlation 0.00: 2.00x2
+stim 16269687-16289520:925 bG rds0 props sq0.00 xo-3.97 yo-0.90 wi6.02 hi6.00 or-90.00 sf1.00 tf10.00 dx-0.4000 se12304 id7315 bd0.0000 ce-1.00 op=+rc+cn+cp+sc+cd+xe+bm+ic+fS+(null)+(null) 
+TrialGood 370: 16268642-16290304 121
+stim 16296020-16315852:926 bG rds0 props sq0.00 xo-3.97 yo-0.90 wi6.02 hi6.00 or-90.00 sf1.00 tf10.00 dx0.4000 se12722 id7316 bd0.0000 ce-1.00 op=+rc+cn+cp+sc+cd+xe+bm+ic+fS+(null)+(null) 
+TrialGood 371: 16294980-16316640 121
+props sq0.00 xo-3.97 yo-0.90 wi6.02 hi6.00 or-90.00 sf1.00 tf10.00 dx0.6000 se13004 id7317 bd0.0000 ce1.00 op=+cn+cp+sc+cd+xe+bm+ic+fS+(null)+(null) 
+props sq0.00 xo-3.97 yo-0.90 wi6.02 hi6.00 or-90.00 sf1.00 tf10.00 dx0.6000 se13460 id7318 bd0.0000 ce1.00 op=+cn+cp+sc+cd+xe+bm+ic+fS+(null)+(null) 
+props sq0.00 xo-3.97 yo-0.90 wi6.02 hi6.00 or-90.00 sf1.00 tf10.00 dx0.6000 se13654 id7319 bd0.0000 ce1.00 op=+cn+cp+sc+cd+xe+bm+ic+fS+(null)+(null) 
+stim 16427849-16447682:930 bG rds0 props sq0.00 xo-3.97 yo-0.90 wi6.02 hi6.00 or-90.00 sf1.00 tf10.00 dx0.6000 se13738 id7320 bd0.0000 ce1.00 op=+cn+cp+sc+cd+xe+bm+ic+fS+(null)+(null) 
+TrialGood 372: 16426717-16448467 121
+props sq0.00 xo-3.97 yo-0.90 wi6.02 hi6.00 or-90.00 sf1.00 tf10.00 dx0.2000 se14162 id7321 bd0.0000 ce1.00 op=+cn+cp+sc+cd+xe+bm+ic+fS+(null)+(null) 
+stim 16484182-16504014:932 bG rds0 props sq0.00 xo-3.97 yo-0.90 wi6.02 hi6.00 or-90.00 sf1.00 tf10.00 dx0.2000 se14384 id7322 bd0.0000 ce1.00 op=+cn+cp+sc+cd+xe+bm+ic+fS+(null)+(null) 
+TrialGood 373: 16483104-16504800 121
+cm=:no resp if sl=0
+EndExpt  (16602105)
+cm=back=rds,wi=7.03,hi=7.02,ce=1.00,xo=-3.97,yo=1.00,dx=0.00,co=1.00
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+bw+ic+im+iu+cs+bm+gm+x2+rp+da+ao+fS+cS+C3
+
+expt: nsines et=Pd e2=dp
+Expt Start (16859049): nsines Phase Disp as Disp 0.00: 0.20x11 ed=18.2700
+xExpt2: Diparate phase 22.50: 45.00x4

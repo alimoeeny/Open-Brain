@@ -1,0 +1,9 @@
+!f:$UNITGRAPHS/or.f
+\Title ic046.0.rds.OTa.trl 1 to 3 Binoc
+#Preperiod 0.050, rate 10.00 +- 0.000  n = 4
+none = 0
+\xy-e
+-143.4100 16.05 4 4.26
+\yax 0 20
+\xax -143.51 -143.31
+\label i=1 te=n=4 NOBACK wi=6.99 or=-143.41Ro=110sl=1

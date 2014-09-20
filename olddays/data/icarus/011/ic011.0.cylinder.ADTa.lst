@@ -1,0 +1,38 @@
+Clearclusters
+Cluster1 en6:27.71,78.55 ve6:9.80,25.15 pairen,ve,0.000000
+#Set by ceb on Tue Nov 28 14:47:49 2006
+
+#Cluster1 en6:27.71,78.55 ve6:9.80,25.15 pairen,ve,0.000000
+#Set by ceb on Tue Nov 28 14:47:45 2006
+
+Expt Disparity : cylinder 22.500 +-45.000 *8. 0-6, x Expt Initial Disparity: 0.000 +-0.100 *2. 0-6, nr6at-4.06,-2.35, 10.00x10.00, -90.00 deg. sf1.00tf10 27337668
+Dur 20166.29,20166 NF 119 IS 0.40 Framerate 60.00
+UFF ic011.0 Created 29/9/2006 14:42 as ic011.0 by v4.50 replay version 1.41 Rev $Revision: 1.55 $
+expt: cylinder et=dx e2=Id
+Expt Start (27337668): cylinder Disparity  0.00: 0.00x7 ed=0.0000
+xExpt2: Initial Disparity 0.00: 0.10x2
+cm=rf-3.81,-2.44:6.10x4.83,-90.0deg  pe28 0,-5 fx=0.00,fy=0.00 
+cm=rf-3.81,-2.44:6.10x4.83,-90.0deg  pe28 0,-5 fx=0.00,fy=0.00 
+CR sampling 1136363.62Hz
+stim 127306-147473:0 bG rds0 props sq3.00 xo-4.06 yo-2.35 wi10.00 hi10.00 or-90.00 sf1.00 tf10.00 dx0.0000 se10471 id7992 bd0.0000 Id0.00 MD=0 op=+cn+cp+2a+xe 
+TrialWrong 0: 126171-151570 1
+stim 157306-177472:1 bG rds0 props sq3.00 xo-4.06 yo-2.35 wi10.00 hi10.00 or-90.00 sf1.00 tf10.00 dx0.0000 se10471 id7992 bd0.0000 Id0.00 MD=0 op=+cn+cp+sc+2a+cd+xe 
+TrialWrong 1: 156200-181353 1
+stim 188471-208637:2 bG rds0 props sq3.00 xo-4.06 yo-2.35 wi10.00 hi10.00 or-90.00 sf1.00 tf10.00 dx0.0000 se10471 id7992 bd0.0000 Id0.00 MD=0 op=+cn+cp+sc+2a+cd+xe 
+TrialWrong 2: 187361-212316 1
+stim 218971-239137:3 bG rds0 props sq3.00 xo-4.06 yo-2.35 wi10.00 hi10.00 or-90.00 sf1.00 tf10.00 dx0.0000 se10471 id7992 bd0.0000 Id0.00 MD=0 op=+cn+cp+sc+2a+cd+xe 
+TrialWrong 3: 217832-242717 1
+stim 249970-270136:4 bG rds0 props sq3.00 xo-4.06 yo-2.35 wi10.00 hi10.00 or-90.00 sf1.00 tf10.00 dx0.0000 se10471 id7992 bd0.0000 Id0.00 MD=0 op=+cn+cp+sc+2a+cd+xe 
+TrialWrong 4: 248871-274016 1
+stim 279802-299969:5 bG rds0 props sq3.00 xo-4.06 yo-2.35 wi10.00 hi10.00 or-90.00 sf1.00 tf10.00 dx0.0000 se10471 id7992 bd0.0000 Id0.00 MD=0 op=+cn+cp+sc+2a+cd+xe 
+TrialWrong 5: 278726-303946 1
+stim 311135-331301:6 bG rds0 props sq3.00 xo-4.06 yo-2.35 wi10.00 hi10.00 or-90.00 sf1.00 tf10.00 dx0.0000 se10471 id7992 bd0.0000 Id0.00 MD=0 op=+cn+cp+sc+2a+cd+xe 
+TrialGood 6: 310124-334657 1
+cm=noback
+mtop=op+do+aa+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+2a+bm+gm+x2+da+ao+cS+C3
+
+Error! Experiment started without stopping, trial 7
+
+expt: rds et=or e2=Id
+Expt Start (369184): rds Orientation 22.50: 45.00x8 ed=13.9000
+xExpt2: Initial Disparity 0.00: 0.10x2

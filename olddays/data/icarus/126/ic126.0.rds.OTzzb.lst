@@ -1,0 +1,29 @@
+Expt Orientation: rds 22.500 +-45.000 *8. 2664-2671, nr4at-13.16,-4.90, 9.99x10.00, 135.00 deg. sf1.00tf10 77985981
+Dur 19474.45,0 NF 22 IS 0.40 Framerate 60.00
+cm=rf-13.00,-4.97:10.77x8.39,-135.0deg  pcl
+props sq1.50 xo-13.16 yo-4.90 wi9.99 hi10.00 or-135.00 sf1.00 tf10.00 dx0.6002 se12516 id9544 bd0.0000 Id0.0000 MD=0 op=+cn+cp+2a+xe+bm 
+TrialGood 1452: 77907211-77932329 1
+cm=rf-13.00,-4.97:10.77x8.39,-135.0deg  pcl
+cm=noback
+mtop=op+do+aa+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+2a+bm+0m+gm+cS+C3
+
+expt: rds et=or e2=e0
+Expt Start (77985981): rds Orientation 22.50: 45.00x8 ed=15.8600
+xExpt2: EXPTYPE_NONE 0.00: 0.02x0
+stim 77990404-77993904:2664 bG rds0 props sq1.50 xo-13.16 yo-4.90 wi9.99 hi10.00 or90.00 sf1.00 tf10.00 dx0.6002 se12526 id9545 bd0.0000 MD=0 op=+cn+cp+sc+2a+cd+bm+ic 
+stim 77995238-77998737:2665 bG rds0 props sq-1.50 xo-13.16 yo-4.90 wi9.99 hi10.00 or-45.00 sf1.00 tf10.00 dx0.6002 se12530 id9546 bd0.0000 MD=0 op=+cn+cp+sc+2a+cd+bm+ic 
+stim 78000070-78003570:2666 bG rds0 props sq-1.50 xo-13.16 yo-4.90 wi9.99 hi10.00 or0.00 sf1.00 tf10.00 dx0.6002 se12534 id9547 bd0.0000 MD=0 op=+cn+cp+sc+2a+cd+bm+ic 
+stim 78004904-78008404:2667 bG rds0 props sq-1.50 xo-13.16 yo-4.90 wi9.99 hi10.00 or-90.00 sf1.00 tf10.00 dx0.6002 se12538 id9548 bd0.0000 MD=0 op=+cn+cp+sc+2a+cd+bm+ic 
+TrialWrong 1453: 77989330-78012453 4
+stim 78035070-78038570:2668 bG rds0 props sq-1.50 xo-13.16 yo-4.90 wi9.99 hi10.00 or-135.00 sf1.00 tf10.00 dx0.6002 se12546 id9550 bd0.0000 MD=0 op=+cn+cp+sc+2a+cd+bm+ic 
+stim 78039903-78043403:2669 bG none0 props sq0.00 xo-13.16 yo-4.90 wi9.99 hi10.00 or22.50 sf1.00 tf10.00 dx0.6002 se12550 id9551 bd0.0000 op=+cn+cp+sc+2a+cd+bm+ic 
+stim 78044736-78048236:2670 bG rds0 props sq1.50 xo-13.16 yo-4.90 wi9.99 hi10.00 or180.00 sf1.00 tf10.00 dx0.6002 se12554 id9552 bd0.0000 MD=0 op=+cn+cp+sc+2a+cd+bm+ic 
+stim 78049403-78052903:2671 bG rds0 props sq1.50 xo-13.16 yo-4.90 wi9.99 hi10.00 or135.00 sf1.00 tf10.00 dx0.6002 se12558 id9553 bd0.0000 MD=0 op=+cn+cp+sc+2a+cd+bm+ic 
+TrialWrong 1454: 78033962-78056933 4
+Expt Cancelled
+cm=noback
+mtop=op+do+aa+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+0m+gm+cS+C3
+
+expt: rds et=or e2=e0
+Expt Start (78160253): rds Orientation 22.50: 45.00x8 ed=15.8600
+xExpt2: EXPTYPE_NONE 0.00: 0.02x0

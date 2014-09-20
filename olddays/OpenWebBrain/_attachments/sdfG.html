@@ -1,0 +1,40 @@
+<html>
+  <head>
+    <script src="querystring.js"></script>
+    <script type="text/javascript" src="http://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+      //load jQuery
+      google.load("jquery","1");
+      google.load("visualization", "1", {packages:["corechart"]});
+      google.setOnLoadCallback(function() {
+          var qs = new Querystring();
+          //$.getJSON('../analysis/_view/sdf10?key=' + qs.get('exptid'), drawChart );
+          $.getJSON('../sdfpy/_view/sdf50?key=' + qs.get('exptid'), drawChart );
+          });
+
+      function drawChart(data) {
+        sdf = data.rows[0]['value'];
+        //alert(sdf.length);
+        var dataTbl = new google.visualization.DataTable();
+        //dataTbl.addColumn('number', 'time');
+        dataTbl.addColumn('number', 'FRate');
+        dataTbl.addRows(sdf.length);
+        for(j=0; j < sdf.length; j++){
+            //dataTbl.setValue(j, 0, j);
+            dataTbl.setValue(j, 0, sdf[j]);
+            }
+
+        var chart = new google.visualization.LineChart(document.getElementById('chart_div'));
+        chart.draw(dataTbl, {width: 1200, height: 500, title: 'Spike Density Function', pointSize: 0, lineWidth:3, curveType:'function'});
+      }
+    </script>
+  </head>
+
+  <body>
+    <div id="nobes">Trial Selection Criteria:<br/>
+   <input type="button" value="Button!"/>
+    </div>
+    <div id="chart_div"></div>
+    
+  </body>
+</html>

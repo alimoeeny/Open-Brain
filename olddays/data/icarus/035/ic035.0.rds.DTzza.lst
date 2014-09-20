@@ -1,0 +1,22 @@
+Expt Disparity : rds 0.000 +-0.200 *13. 36-42, nr4at0.09,3.25, 10.00x10.00, 135.00 deg. sf2.50tf10 78346412
+Dur 3499.86,17999 NF 22 IS 0.40 Framerate 60.00
+cm=rf0.34,3.17:8.17x8.25,-135.0deg  pe46 -2,-6 fx=0.00,fy=0.
+props sq0.00 xo0.09 yo3.25 wi10.00 hi10.00 or90.00 sf2.50 tf10.00 dx0.0333 se15864 id10136 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 8: 78190167-78200429 2
+EndExpt  (78201924)
+cm=rf0.34,3.17:8.17x8.25,-135.0deg  pe46 -2,-6 fx=0.00,fy=0.00 
+cm=back=rds,wi=3.98,hi=4.00,ce=1.00,xo=0.09,yo=1.00,dx=0.00,co=1.00
+mtop=op+do+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+cS+C3
+
+expt: rds et=dx e2=e0
+Expt Start (78346412): rds Disparity  0.00: 0.20x13 ed=18.6900
+xExpt2: EXPTYPE_NONE -45.00: 180.00x0
+stim 78352487-78355987:36 bG rds0 props sq0.00 xo0.09 yo3.25 wi10.00 hi10.00 or135.00 sf2.50 tf10.00 dx1.0001 se15866 id10137 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 78357320-78360820:37 bG rds0 props sq0.00 xo0.09 yo3.25 wi10.00 hi10.00 or135.00 sf2.50 tf10.00 dx0.4000 se15868 id10138 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 78362153-78365653:38 bG rds0 props sq0.00 xo0.09 yo3.25 wi10.00 hi10.00 or135.00 sf2.50 tf10.00 dx-0.4000 se15870 id10139 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 78366986-78370486:39 bG rds0 props sq0.00 xo0.09 yo3.25 wi10.00 hi10.00 or135.00 sf2.50 tf10.00 dx0.0000 se15872 id10140 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 9: 78351367-78371264 4
+stim 78376820-78380319:40 bG none0 props sq0.00 xo0.09 yo3.25 wi10.00 hi10.00 or135.00 sf2.50 tf10.00 dx0.0000 se15874 id10141 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 78381653-78385153:41 bG rds0 props sq0.00 xo0.09 yo3.25 wi10.00 hi10.00 or135.00 sf2.50 tf10.00 dx-0.8000 se15876 id10142 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 78386486-78389986:42 bG rds0 props sq0.00 xo0.09 yo3.25 wi10.00 hi10.00 or135.00 sf2.50 tf10.00 dx0.2000 se15878 id10143 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+Expt Cancelled

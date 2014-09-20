@@ -1,0 +1,32 @@
+Clearclusters
+Cluster1 en6:28.92,79.52 ve6:8.65,21.77 pairen,ve,0.000000
+#Set by ceb on Thu Jan 18 13:51:42 2007
+
+Expt Disparity : cylinder 0.000 +-0.200 *8. 118-126, nr4at-16.17,-4.62, 11.98x12.00, 45.00 deg. sf2.00tf10 1744368
+Dur 20120.14,0 NF 22 IS 0.40 Framerate 60.00
+cm=rf-16.17,-4.62:17.04x17.00,45.0deg  pe554 -1,-3 fx=0.00,f
+props sq0.00 xo-16.17 yo-4.62 wi11.98 hi12.00 or45.00 sf2.00 tf10.00 dx0.0250 se3423 id6949 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+cm=noback
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+cS+C3
+
+expt: cylinder et=dx e2=e0
+Expt Start (1744368): cylinder Disparity  0.00: 0.20x8 ed=14.5800
+xExpt2: EXPTYPE_NONE 0.55: 0.30x2
+props sq0.00 xo-16.17 yo-4.62 wi11.98 hi12.00 or45.00 sf2.00 tf10.00 dx-0.3000 se3424 id6950 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 1779548-1799381:119 bG cylinder0 props sq0.00 xo-16.17 yo-4.62 wi11.98 hi12.00 or45.00 sf2.00 tf10.00 dx-0.3000 se3425 id6951 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+props sq0.00 xo-16.17 yo-4.62 wi11.98 hi12.00 or45.00 sf2.00 tf10.00 dx-0.7000 se3426 id6952 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+props sq0.00 xo-16.17 yo-4.62 wi11.98 hi12.00 or45.00 sf2.00 tf10.00 dx-0.7000 se3427 id6953 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+props sq0.00 xo-16.17 yo-4.62 wi11.98 hi12.00 or45.00 sf2.00 tf10.00 dx-0.7000 se3428 id6954 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+props sq0.00 xo-16.17 yo-4.62 wi11.98 hi12.00 or45.00 sf2.00 tf10.00 dx-0.7000 se3429 id6955 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 1888045-1907878:124 bG cylinder0 props sq0.00 xo-16.17 yo-4.62 wi11.98 hi12.00 or45.00 sf2.00 tf10.00 dx-0.7000 se3430 id6956 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+props sq0.00 xo-16.17 yo-4.62 wi11.98 hi12.00 or45.00 sf2.00 tf10.00 dx-0.5000 se3431 id6957 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 1926211-1946045:126 bG cylinder0 props sq0.00 xo-16.17 yo-4.62 wi11.98 hi12.00 or45.00 sf2.00 tf10.00 dx-0.5000 se3432 id6958 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+cm=rf-16.17,-4.62:17.04x17.00,45.0deg  pe554 -1,-3 fx=0.00,fy=0.00 
+cm=noback
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+cS+C3
+
+Error! Experiment started without stopping, trial 127
+
+expt: cylinder et=dx e2=e0
+Expt Start (2063826): cylinder Disparity  0.00: 0.20x8 ed=14.5800
+xExpt2: EXPTYPE_NONE 0.55: 0.30x2

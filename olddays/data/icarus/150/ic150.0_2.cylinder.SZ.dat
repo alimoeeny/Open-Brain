@@ -1,0 +1,16 @@
+!f:$UNITGRAPHS/sz.f
+\Title ic150.0_2.cylinder.SZ.trl 3253 to 3307 Binoc
+#Preperiod 0.050, rate 6.53 +- 0.000  n = 49
+none = 0
+\xy-e
+6.0100 22.11 9 1.27
+7.9900 20.79 8 2.96
+9.9900 19.18 9 1.20
+12.0100 19.85 7 1.80
+13.9900 15.92 8 1.57
+\label i=2 te=Blank \2_
+\xy-e--
+9.9900 5.53 8 1.46
+\yax 0 30
+\xax 6.01 13.99
+\label i=1 te=n=7 - 9 

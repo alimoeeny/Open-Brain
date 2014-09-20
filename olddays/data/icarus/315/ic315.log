@@ -1,0 +1,20 @@
+14-Aug-2009 18:22:51 Fixed LFP in Z:\bgc\data\icarus\315\ic315.lfp.mat
+14-Aug-2009 18:23:02 Saving index Z:\bgc\data\icarus\315\ic315idx.mat
+Cluster set for P1 Expt 1 14-Aug-2009 18:54:03
+Cluster set for P1 Expt 2 14-Aug-2009 18:54:10
+Cluster set for P1 Expt 3 14-Aug-2009 18:54:15
+Cluster set for P1 Expt 4 14-Aug-2009 18:54:19
+Cluster set for P1 Expt 5 14-Aug-2009 18:54:23
+Cluster set for P1 Expt 6 14-Aug-2009 18:54:28
+14-Aug-2009 18:54:43,Saved 815 spikes (Expts 1 2) to /bgc/data/icarus/315/ic315.c1.rds.OT.mat
+14-Aug-2009 18:54:54,Saved 764 spikes (Expts 3 4) to /bgc/data/icarus/315/ic315.c1.rds.OP.mat
+14-Aug-2009 18:55:05,Saved 191 spikes (Expts 5) to /bgc/data/icarus/315/ic315.c1.rds.PP.mat
+14-Aug-2009 18:55:50,Saved 346 spikes (Expts 6) to /bgc/data/icarus/315/ic315.c1.cylinder.ABD.mat
+14-Nov-2009 21:13:57,Saved 993 spikes (Expts 1 2) to /bgc/data/icarus/315/ic315.c1.rds.OT.mat
+14-Nov-2009 21:13:57, LFP file /bgc/data/icarus/315/ic315.lfp.rds.OT.mat (Took 0.1 0.0)
+14-Nov-2009 21:13:57,Saved 919 spikes (Expts 3 4) to /bgc/data/icarus/315/ic315.c1.rds.OP.mat
+14-Nov-2009 21:13:57, LFP file /bgc/data/icarus/315/ic315.lfp.rds.OP.mat (Took 0.1 0.0)
+14-Nov-2009 21:13:57,Saved 245 spikes (Expts 5) to /bgc/data/icarus/315/ic315.c1.rds.PP.mat
+14-Nov-2009 21:13:58, LFP file /bgc/data/icarus/315/ic315.lfp.rds.PP.mat (Took 0.0 0.0)
+14-Nov-2009 21:13:58,Saved 368 spikes (Expts 6) to /bgc/data/icarus/315/ic315.c1.cylinder.ABD.mat
+14-Nov-2009 21:13:58, LFP file /bgc/data/icarus/315/ic315.lfp.cylinder.ABD.mat (Took 0.0 0.0)

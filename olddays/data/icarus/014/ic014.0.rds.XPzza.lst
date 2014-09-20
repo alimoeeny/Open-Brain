@@ -1,0 +1,23 @@
+Expt X offset: rds -19.052 +-0.200 *9. 186-189, x Expt Orientation: 45.000 +-180.000 *2. 186-189, nr4at-19.65,-13.09, 2.01x10.00, -45.00 deg. sf1.00tf10 2586604
+Dur 3875.00,17999 NF 22 IS 0.40 Framerate 60.00
+cm=rf-19.17,-12.84:12.35x10.42,5.6deg  pe31 -3,-2 fx=2.00,fy
+props sq0.00 xo-19.05 yo-13.09 wi2.01 hi10.00 or-45.00 sf1.00 tf10.00 dx-0.4000 se10982 id7453 bd0.0000 op=+cn+cp+xe+bm+ic 
+TrialGood 44: 2498624-2519075 4
+cm=noback
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+x2+cS+C3
+
+expt: rds et=xo e2=or
+Expt Start (2586604): rds X offset -19.05: 0.20x9 ed=16.5300
+xExpt2: Orientation 45.00: 180.00x2
+stim 2592585-2596085:186 bG rds0 props sq0.00 xo-18.85 yo-13.09 wi2.01 hi10.00 or-45.00 sf1.00 tf10.00 dx-0.4000 se10985 id7454 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 2597418-2600918:187 bG rds0 props sq0.00 xo-19.45 yo-13.09 wi2.01 hi10.00 or135.00 sf1.00 tf10.00 dx-0.4000 se10988 id7455 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 2602251-2605751:188 bG rds0 props sq0.00 xo-19.25 yo-13.09 wi2.01 hi10.00 or135.00 sf1.00 tf10.00 dx-0.4000 se10991 id7456 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 2607084-2610584:189 bG rds0 props sq0.00 xo-19.65 yo-13.09 wi2.01 hi10.00 or-45.00 sf1.00 tf10.00 dx-0.4000 se10994 id7457 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+TrialGood 45: 2591589-2611364 4
+Expt Cancelled
+cm=noback
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+x2+cS+C3
+
+expt: rds et=xo e2=or
+Expt Start (2686371): rds X offset -19.05: 2.00x9 ed=16.5300
+xExpt2: Orientation 45.00: 180.00x2

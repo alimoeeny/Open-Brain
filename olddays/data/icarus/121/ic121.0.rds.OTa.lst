@@ -1,0 +1,33 @@
+Clearclusters
+Cluster1 en6:34.22,83.61 ve6:8.47,25.42 pairen,ve,0.000000
+#Set by ceb on Thu May  3 14:19:04 2007
+
+Expt Orientation: rds 22.500 +-45.000 *8. 0-7, nr4at-18.22,12.35, 15.01x15.00, 133.35 deg. sf1.00tf10 39469593
+Dur 4000.00,18500 NF 22 IS 0.40 Framerate 60.00
+UFF ic121.0 Created 1/5/2007 09:21 as ic121.2 by v4.55 replay version 1.41 Rev $Revision: 1.55 $
+expt: rds et=or e2=e0
+Expt Start (39469593): rds Orientation 22.50: 45.00x8 ed=21.0900
+xExpt2: EXPTYPE_NONE 0.00: 0.02x0
+fx=-15.00,fy=5.00
+cm=rf-18.22,12.35:13.65x13.58,45.0deg  pe104 0.0,0.0 fx=15.00,fy=5.00 
+fx=-15.00,fy=5.00
+cm=rf-18.22,12.35:13.65x13.58,45.0deg cl
+CR sampling 1136363.64Hz
+stim 89177-93176:0 bG rds0 props sq0.00 xo-18.22 yo12.35 wi15.01 hi2.00 or133.35 sf1.00 tf10.00 dx0.4809 se10195 id7363 bd0.0000 op=+cn+cp 
+stim 94010-98010:1 bG rds0 props sq0.00 xo-18.22 yo12.35 wi15.01 hi2.00 or133.35 sf1.00 tf10.00 dx0.4809 se10195 id7363 bd0.0000 op=+cn+cp 
+stim 98843-102843:2 bG rds0 props sq0.00 xo-18.22 yo12.35 wi15.01 hi2.00 or133.35 sf1.00 tf10.00 dx0.4809 se10195 id7363 bd0.0000 op=+cn+cp 
+stim 103676-107676:3 bG rds0 props sq0.00 xo-18.22 yo12.35 wi15.01 hi2.00 or133.35 sf1.00 tf10.00 dx0.4809 se10195 id7363 bd0.0000 op=+cn+cp 
+TrialGood 0: 88174-108447 4
+stim 121676-125676:4 bG rds0 props sq0.00 xo-18.22 yo12.35 wi15.01 hi15.00 or133.35 sf1.00 tf10.00 dx0.4809 se10195 id7363 bd0.0000 op=+cn+cp 
+stim 126509-130509:5 bG rds0 props sq0.00 xo-18.22 yo12.35 wi15.01 hi15.00 or133.35 sf1.00 tf10.00 dx0.4809 se10195 id7363 bd0.0000 op=+cn+cp 
+stim 131342-135342:6 bG rds0 props sq0.00 xo-18.22 yo12.35 wi15.01 hi15.00 or133.35 sf1.00 tf10.00 dx0.4809 se10195 id7363 bd0.0000 op=+cn+cp 
+stim 136176-140177:7 bG rds0 props sq0.00 xo-18.22 yo12.35 wi15.01 hi15.00 or133.35 sf1.00 tf10.00 dx0.4809 se10195 id7363 bd0.0000 op=+cn+cp 
+TrialGood 1: 120529-140946 4
+cm=noback
+mtop=op+do+aa+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+0m+gm+cS+C3
+
+Error! Experiment started without stopping, trial 8
+
+expt: rds et=or e2=e0
+Expt Start (151017): rds Orientation 22.50: 45.00x8 ed=21.0900
+xExpt2: EXPTYPE_NONE 0.00: 0.02x0

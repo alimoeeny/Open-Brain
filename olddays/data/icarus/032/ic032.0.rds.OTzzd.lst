@@ -1,0 +1,29 @@
+Expt Orientation: rds 22.500 +-45.000 *8. 113-121, nr4at-1.67,-6.74, 10.00x10.00, 22.50 deg. sf1.00tf10 1717787
+Dur 3499.75,13166 NF 22 IS 0.40 Framerate 60.00
+cm=rf-1.67,-6.74:8.42x7.58,-45.0deg  pe44 -3,-4 fx=0.00,fy=0
+props sq0.00 xo-1.67 yo-6.74 wi10.00 hi10.00 or180.00 sf1.00 tf10.00 dx0.6000 se10338 id7145 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 32: 1659455-1679231 4
+Expt Cancelled
+cm=back=rds,wi=11.00,hi=11.00,ce=1.00,xo=-1.67,yo=1.00,dx=0.00,co=1.00
+mtop=op+do+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+cS+C3
+
+expt: rds et=or e2=e0
+Expt Start (1717787): rds Orientation 22.50: 45.00x8 ed=13.2600
+xExpt2: EXPTYPE_NONE 0.00: 0.00x0
+stim 1723127-1726626:113 bG rds0 props sq0.00 xo-1.67 yo-6.74 wi10.00 hi10.00 or-135.00 sf1.00 tf10.00 dx0.6000 se9344 id7147 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 1739460-1742959:114 bG rds0 props sq0.00 xo-1.67 yo-6.74 wi10.00 hi10.00 or45.00 sf1.00 tf10.00 dx0.6000 se9348 id7149 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 1744292-1747792:115 bG rds0 props sq0.00 xo-1.67 yo-6.74 wi10.00 hi10.00 or0.00 sf1.00 tf10.00 dx0.6000 se9350 id7150 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 1749126-1752626:116 bG rds0 props sq0.00 xo-1.67 yo-6.74 wi10.00 hi10.00 or90.00 sf1.00 tf10.00 dx0.6000 se9352 id7151 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 33: 1738383-1753396 3
+stim 1760292-1763792:117 bG rds0 props sq0.00 xo-1.67 yo-6.74 wi10.00 hi10.00 or180.00 sf1.00 tf10.00 dx0.6000 se9354 id7152 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 1765125-1768625:118 bG rds0 props sq0.00 xo-1.67 yo-6.74 wi10.00 hi10.00 or-90.00 sf1.00 tf10.00 dx0.6000 se9356 id7153 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+props sq0.00 xo-1.67 yo-6.74 wi10.00 hi10.00 or-45.00 sf1.00 tf10.00 dx0.6000 se9358 id7154 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 1784958-1788458:120 bG rds0 props sq0.00 xo-1.67 yo-6.74 wi10.00 hi10.00 or-45.00 sf1.00 tf10.00 dx0.6000 se9360 id7155 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 1789625-1793125:121 bG none0 props sq0.00 xo-1.67 yo-6.74 wi10.00 hi10.00 or22.50 sf1.00 tf10.00 dx0.6000 se9362 id7156 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+Expt Cancelled
+cm=noback
+mtop=op+do+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+cS+C3
+
+expt: rds et=or e2=e0
+Expt Start (1862394): rds Orientation 22.50: 45.00x8 ed=13.2600
+xExpt2: EXPTYPE_NONE 0.00: 0.00x0

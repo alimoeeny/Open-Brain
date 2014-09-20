@@ -1,0 +1,17 @@
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\Projects\Open-Brain\MyBrainWin\MyBrainW\bin\Debug\MyBrainW.exe
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\Projects\Open-Brain\MyBrainWin\MyBrainW\bin\Debug\MyBrainW.pdb
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\Projects\Open-Brain\MyBrainWin\MyBrainW\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\Projects\Open-Brain\MyBrainWin\MyBrainW\obj\Debug\MyBrain.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\Projects\Open-Brain\MyBrainWin\MyBrainW\obj\Debug\MyBrainW.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\Projects\Open-Brain\MyBrainWin\MyBrainW\obj\Debug\MyBrainW.exe
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\Projects\Open-Brain\MyBrainWin\MyBrainW\obj\Debug\MyBrainW.pdb
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\Projects\Open-Brain\MyBrainWin\MyBrainW\obj\Debug\MyBrain.Form1.resources
+Z:\Dropbox\Projects\Open-Brain\MyBrainWin\MyBrainW\obj\Debug\MyBrainW.exe
+Z:\Dropbox\Projects\Open-Brain\MyBrainWin\MyBrainW\obj\Debug\MyBrainW.pdb
+Z:\Dropbox\Projects\Open-Brain\MyBrainWin\MyBrainW\bin\Debug\MyBrainW.exe
+Z:\Dropbox\Projects\Open-Brain\MyBrainWin\MyBrainW\bin\Debug\MyBrainW.pdb
+Z:\Dropbox\Projects\Open-Brain\MyBrainWin\MyBrainW\obj\Debug\ResolveAssemblyReference.cache
+Z:\Dropbox\Projects\Open-Brain\MyBrainWin\MyBrainW\obj\Debug\MyBrain.Form1.resources
+Z:\Dropbox\Projects\Open-Brain\MyBrainWin\MyBrainW\obj\Debug\MyBrain.Properties.Resources.resources
+Z:\Dropbox\Projects\Open-Brain\MyBrainWin\MyBrainW\obj\Debug\GenerateResource.read.1.tlog
+Z:\Dropbox\Projects\Open-Brain\MyBrainWin\MyBrainW\obj\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,28 @@
+Expt Disparity : cylinder 0.000 +-0.008 *5. 287-292, x Expt Initial Disparity: 0.000 +-0.003 *6. 287-292, nr4at-3.98,-2.05, 6.99x7.00, 8.00 deg. sf1.00tf10 5632334
+Dur 3499.83,17999 NF 22 IS 0.40 Framerate 60.00
+cm=rf-3.93,-2.05:2.57x2.57,-90.0deg  pe53 -1,-6 fx=0.00,fy=0
+props sq0.00 xo-3.98 yo-2.05 wi6.99 hi7.00 or-45.00 sf1.00 tf10.00 dx0.0000 se9467 id6990 bd0.0000 op=+cn+cp+sc+cd+bm 
+TrialGood 66: 5051975-5071801 4
+EndExpt  (5073007)
+cm=noback
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+cs+2a+bm+gm+x2+cS+C3
+
+expt: cylinder et=dx e2=Id
+Expt Start (5632334): cylinder Disparity  0.00: 0.01x5 ed=15.2900
+xExpt2: Initial Disparity 0.00: 0.00x6
+stim 5646517-5650017:287 bG cylinder0 props sq-0.42 xo-3.98 yo-2.05 wi6.99 hi7.00 or8.00 sf1.00 tf10.00 dx0.0000 se9469 id6992 bd0.0000 Id0.00 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+stim 5651351-5654851:288 bG cylinder0 props sq-0.42 xo-3.98 yo-2.05 wi6.99 hi7.00 or8.00 sf1.00 tf10.00 dx-0.0160 se9470 id6993 bd0.0000 Id0.00 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+stim 5670517-5674016:289 bG cylinder0 props sq-0.42 xo-3.98 yo-2.05 wi6.99 hi7.00 or8.00 sf1.00 tf10.00 dx-0.0160 se9471 id6994 bd0.0000 Id0.00 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+stim 5675350-5678850:290 bG cylinder0 props sq-0.42 xo-3.98 yo-2.05 wi6.99 hi7.00 or8.00 sf1.00 tf10.00 dx0.0000 se9472 id6995 bd0.0000 Id-0.01 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+stim 5680183-5683683:291 bG cylinder0 props sq-0.42 xo-3.98 yo-2.05 wi6.99 hi7.00 or8.00 sf1.00 tf10.00 dx-0.0160 se9473 id6996 bd0.0000 Id0.00 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+stim 5685016-5688516:292 bG cylinder0 props sq0.42 xo-3.98 yo-2.05 wi6.99 hi7.00 or8.00 sf1.00 tf10.00 dx0.0080 se9474 id6997 bd0.0000 Id0.01 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialGood 67: 5669502-5692707 4
+Expt Cancelled
+cm=rf-3.93,-2.05:2.57x2.57,-90.0deg  pe53 -1,-6 fx=0.00,fy=0.00 
+cm=rf-3.93,-2.05:2.57x2.57,-90.0deg  pe53 -1,-6 fx=0.00,fy=0.00 
+cm=noback
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+cs+2a+bm+gm+x2+cS+C3
+
+expt: cylinder et=dx e2=Id
+Expt Start (5766103): cylinder Disparity  0.00: 0.01x5 ed=15.2900
+xExpt2: Initial Disparity 0.00: 0.00x6

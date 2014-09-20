@@ -1,0 +1,9 @@
+!f:$UNITGRAPHS/or.f
+\Title ic141.0.rds.OTa.trl 2 to 9 Binoc
+#Preperiod 0.050, rate 22.22 +- 1.000  n = 9
+none = 0
+\xy-e
+86.9900 17.50 9 2.36
+\yax 0 20
+\xax 86.89 87.09
+\label i=1 te=n=9 Bd dy=0.0000 wi=9.99 or=86.99sl=1

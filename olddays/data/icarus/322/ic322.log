@@ -1,0 +1,7 @@
+18-Aug-2009 15:30:32 Fixed LFP in Z:\bgc\data\icarus\322\ic322.lfp.mat
+18-Aug-2009 15:30:47 Saving index Z:\bgc\data\icarus\322\ic322idx.mat
+Cluster set for P1 Expt 1 18-Aug-2009 16:30:30
+Cluster set for P1 Expt 2 18-Aug-2009 16:32:53
+Cluster set for P1 Expt 3 18-Aug-2009 16:32:57
+18-Aug-2009 16:33:05,Saved 630 spikes (Expts 1) to /bgc/data/icarus/322/ic322.c1.rds.DT.mat
+18-Aug-2009 16:33:15,Saved 255 spikes (Expts 2 3) to /bgc/data/icarus/322/ic322.c1.cylinder.DT.mat

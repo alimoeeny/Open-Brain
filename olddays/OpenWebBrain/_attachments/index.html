@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My New OpenBrain!</title>
+    <link rel="stylesheet" href="style/main.css" type="text/css">
+  </head>
+  <body>
+<script src="menu.js"></script>
+<!-- div id="account"></div -->
+
+    <h1>My New OpenBrain!</h1>
+
+    <!-- div id="profile"></div -->
+    <!-- div id="items"></div -->
+
+    <!-- div id="sidebar" -->
+      <p>Welcome here!.</p>
+      <p>Ideas: No Ideas! .</p>
+    </div>
+  
+  
+  <canvas width=600 height=400 id="mycanvas"></canvas>
+
+   <script type="text/javascript" language="javascript">
+       var example = document.getElementById('mycanvas');
+           var context = example.getContext('2d');
+               context.fillStyle = "rgb(255,0,0)";
+                   context.fillRect(30, 30, 50, 50);
+                       context.fillStyle = "rgb(0,0,0)";
+                           var neuron = {"name":"testneuron1", "lastupdate":"5/20/10 21:57"};  
+                               for (j=0; j < 100; j++)
+                                       for (i=0; i< 100; i++)
+                                                   context.fillRect(i*7 + 10 * Math.random(), 50 + j * 5, 1, 4);
+                                                   
+                                                       
+                                                       
+</script>
+</body>
+  <!-- script src="vendor/couchapp/loader.js"></script -->
+  <!-- script type="text/javascript" charset="utf-8">
+    $.couch.app(function(app) {
+      $("#account").evently("account", app);
+      $("#profile").evently("profile", app);
+      $.evently.connect("#account","#profile", ["loggedIn","loggedOut"]);
+      $("#items").evently("items", app);
+    });
+  </script -->
+</html>

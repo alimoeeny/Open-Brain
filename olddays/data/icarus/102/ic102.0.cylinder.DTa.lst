@@ -1,0 +1,31 @@
+Clearclusters
+Cluster1 en6:26.99,66.99 ve6:15.27,27.98 pairen,ve,0.000000
+#Set by ceb on Fri Apr  6 15:51:00 2007
+
+Expt Disparity : cylinder 0.000 +-0.200 *6. 666-674, nr4at-8.38,-0.38, 4.99x5.00, -90.00 deg. sf1.00tf15 814799491
+Dur 9500.00,16722 NF 57 IS 0.40 Framerate 60.00
+cm=rf-8.38,-0.38:5.83x8.13,-90.0deg  pe96 0,-6 fx=0.00,fy=0.
+props sq0.00 xo-8.38 yo-0.38 wi4.99 hi5.00 or-90.00 sf1.00 tf15.00 dx0.5000 se11229 id7330 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+Expt Cancelled
+cm=rf-8.38,-0.38:5.83x8.13,-90.0deg  pe96 0,-6 fx=0.00,fy=0.00 
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+cS+C3
+
+expt: cylinder et=dx e2=e0
+Expt Start (814799491): cylinder Disparity  0.00: 0.20x6 ed=18.1200
+xExpt2: EXPTYPE_NONE 0.55: 0.30x2
+stim 814803822-814813322:666 bG cylinder0 props sq0.00 xo-8.38 yo-0.38 wi4.99 hi5.00 or-90.00 sf1.00 tf15.00 dx0.5000 se11231 id7332 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 145: 814802723-814814090 1
+stim 814851987-814861487:667 bG cylinder0 props sq0.00 xo-8.38 yo-0.38 wi4.99 hi5.00 or-90.00 sf1.00 tf15.00 dx-0.5000 se11232 id7333 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 814862820-814872320:668 bG cylinder0 props sq0.00 xo-8.38 yo-0.38 wi4.99 hi5.00 or-90.00 sf1.00 tf15.00 dx-0.1000 se11233 id7334 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 146: 814850973-814873087 2
+stim 814890486-814899986:669 bG cylinder0 props sq0.00 xo-8.38 yo-0.38 wi4.99 hi5.00 or-90.00 sf1.00 tf15.00 dx-0.3000 se11235 id7336 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 814901319-814910819:670 bG none0 props sq0.00 xo-8.38 yo-0.38 wi4.99 hi5.00 or-90.00 sf1.00 tf15.00 dx0.0000 se11236 id7337 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 147: 814889426-814911587 2
+stim 814917319-814926819:671 bG cylinder0 props sq0.00 xo-8.38 yo-0.38 wi4.99 hi5.00 or-90.00 sf1.00 tf15.00 dx0.3000 se11237 id7338 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+props sq0.00 xo-8.38 yo-0.38 wi4.99 hi5.00 or-90.00 sf1.00 tf15.00 dx0.1000 se11238 id7339 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+props sq0.00 xo-8.38 yo-0.38 wi4.99 hi5.00 or-90.00 sf1.00 tf15.00 dx0.1000 se11239 id7340 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 814971984-814981484:674 bG cylinder0 props sq0.00 xo-8.38 yo-0.38 wi4.99 hi5.00 or-90.00 sf1.00 tf15.00 dx0.1000 se11240 id7341 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+EndExpt  (814981690)
+cm=rf-8.38,-0.38:5.83x8.13,-90.0deg  pe96 0,-6 fx=0.00,fy=0.00 
+cm=rf-8.38,-0.38:5.83x8.13,-90.0deg  pe96 0,-6 fx=0.00,fy=0.00 

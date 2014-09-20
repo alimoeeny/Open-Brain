@@ -1,0 +1,1 @@
+couchapp push http://openbrain:alimoeen@openbrain.cloudant.com:5984/openbrain

@@ -1,0 +1,11 @@
+!f:$UNITGRAPHS/dxcylinder.f
+\Title ic058.0.cylinder.DTe.trl 1880 to 1897 Binoc
+#Preperiod 0.050, rate 0.00 +- 0.000  n = 12
+Delay = 0
+\xy-e
+-0.1000 0.00 5 0.00
+0.0000 0.88 4 0.43
+0.1000 13.28 3 3.79
+\yax 0 20
+\xax -0.10 0.10
+\label i=1 te=n=3 - 5 

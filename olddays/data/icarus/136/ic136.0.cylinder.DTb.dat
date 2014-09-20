@@ -1,0 +1,17 @@
+!f:$UNITGRAPHS/dxcylinder.f
+\Title ic136.0.cylinder.DTb.trl 414 to 517 Binoc FY 5.00
+#Preperiod 0.050, rate 14.71 +- 1.000  n = 87
+Delay = 0
+\xy-e
+-0.5000 12.91 15 1.66
+-0.3000 8.68 12 1.17
+-0.1000 7.94 11 1.09
+0.1000 5.80 12 1.12
+0.3000 6.15 13 0.84
+0.5000 8.25 12 1.49
+\label i=2 te=Blank \2_
+\xy-e--
+0.0000 6.93 12 1.13
+\yax 0 20
+\xax -0.50 0.50
+\label i=1 te=n=11 - 15 

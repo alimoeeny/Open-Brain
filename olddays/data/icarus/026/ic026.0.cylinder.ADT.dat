@@ -1,0 +1,17 @@
+!f:$UNITGRAPHS/dxcylinder.f
+\Title ic026.0.cylinder.ADT.trl 195 to 224 Binoc FY 10.00
+#Preperiod 0.050, rate 0.00 +- 0.000  n = 29
+Delay = 0
+\xy-e
+-0.5000 14.29 5 1.28
+-0.3000 15.71 4 2.47
+-0.1000 25.71 4 4.21
+0.1000 32.86 4 2.97
+0.3000 20.95 3 4.15
+0.5000 24.00 5 3.45
+\label i=2 te=Blank \2_
+\xy-e--
+0.0000 1.43 4 0.82
+\yax 0 40
+\xax -0.50 0.50
+\label i=1 te=n=3 - 5 

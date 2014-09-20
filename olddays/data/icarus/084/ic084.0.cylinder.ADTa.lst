@@ -1,0 +1,55 @@
+NoGoodCluster
+#Cluster1 en6:20.72,56.87 ve6:14.25,25.86 pairen,ve,0.000000
+#Set by ceb on Wed Mar  7 18:12:16 2007
+
+Expt Disparity : cylinder 0.000 +-0.002 *5. 0-6, x Expt Initial Disparity: 0.000 +-0.002 *6. 0-6, nr4at-18.94,15.58, 10.00x10.00, -45.00 deg. sf1.00tf10 41347369
+Dur 19666.50,19666 NF 118 IS 0.40 Framerate 60.00
+UFF ic084.0 Created 7/3/2007 14:35 as ic0082.0 by v4.51 replay version 1.41 Rev $Revision: 1.55 $
+expt: cylinder et=dx e2=Id
+Expt Start (41347369): cylinder Disparity  0.00: 0.00x5 ed=0.0000
+xExpt2: Initial Disparity 0.00: 0.00x6
+cm=rf-0.21,-4.19:3.29x3.93,-45.0deg  pe84 1,-5 fx=0.00,fy=0.00 
+CR sampling 1136363.62Hz
+props sq2.60 xo-0.02 yo-4.15 wi10.00 hi10.00 or-45.00 sf1.00 tf10.00 dx-0.0040 se10192 id7946 bd0.0000 Id0.00 MD=0 op=+cn+cp+2a+xe 
+props sq2.60 xo-0.02 yo-4.15 wi10.00 hi10.00 or-45.00 sf1.00 tf10.00 dx-0.0040 se10193 id7947 bd0.0000 Id0.00 MD=0 op=+cn+cp+sc+2a+cd+xe 
+stim 1189693-1209359:2 bG cylinder0 props sq2.60 xo-0.02 yo-4.15 wi10.00 hi10.00 or-45.00 sf1.00 tf10.00 dx-0.0040 se10194 id7948 bd0.0000 Id0.00 MD=0 op=+cn+cp+sc+2a+cd+xe 
+TrialGood 0: 1188647-1212689 2
+stim 2135003-2154669:3 bG cylinder0 props sq-2.60 xo-18.94 yo15.58 wi10.00 hi10.00 or-45.00 sf1.00 tf10.00 dx0.0040 se10196 id7950 bd0.0000 Id0.00 MD=0 op=+cn+cp+sc+2a+cd+xe 
+TrialWrong 1: 2133935-2158764 2
+props sq-2.60 xo-18.94 yo15.58 wi10.00 hi10.00 or-45.00 sf1.00 tf10.00 dx0.0000 se10197 id7951 bd0.0000 Id0.00 MD=0 op=+cn+cp+sc+2a+cd+xe 
+stim 2188501-2208168:5 bG cylinder0 props sq2.60 xo-18.94 yo15.58 wi10.00 hi10.00 or-45.00 sf1.00 tf10.00 dx-0.0020 se10198 id7952 bd0.0000 Id0.00 MD=0 op=+cn+cp+sc+2a+cd+xe 
+stim 2240500-2260167:6 bG cylinder0 props sq2.60 xo-18.94 yo15.58 wi10.00 hi10.00 or-45.00 sf1.00 tf10.00 dx-0.0040 se10199 id7953 bd0.0000 Id0.00 MD=0 op=+cn+cp+sc+2a+cd+xe 
+EndExpt  (3109579)
+cm=rf-0.21,-4.19:3.29x3.93,-45.0deg  pe84 1,-5 fx=0.00,fy=0.00 
+cm=rf-0.21,-4.19:3.29x3.93,-45.0deg  pe84 1,-5 fx=0.00,fy=0.00 
+cm=rf-0.21,-4.19:3.29x3.93,-45.0deg  pe84 1,-5 fx=0.00,fy=0.00 
+cm=noback
+mtop=op+do+aa+72+fc+fb+ap+wt+cf+ws+sw+bw+ic+cs+bm+gm+cb+cS+C3
+
+expt: rds et=or e2=e0
+Expt Start (14590858): rds Orientation 22.50: 45.00x8 ed=18.4000
+xExpt2: EXPTYPE_NONE 0.00: 0.00x0
+Expt Cancelled
+cm=noback
+mtop=op+do+aa+72+fc+fb+ap+wt+cf+ws+sw+bw+ic+cs+bm+gm+cb+cS+C3
+
+expt: rds et=or e2=e0
+Expt Start (15637477): rds Orientation 22.50: 45.00x8 ed=18.4000
+xExpt2: EXPTYPE_NONE 0.00: 0.00x0
+cm=rf-0.21,-4.19:3.29x3.93,-45.0deg  pe84 1,-5 fx=0.00,fy=0.00 
+Expt Cancelled
+cm=noback
+mtop=op+do+aa+72+fc+fb+ap+wt+cf+ws+sw+bw+ic+cs+bm+gm+cb+cS+C3
+
+expt: rds et=dx e2=e0
+Expt Start (16472529): rds Disparity  0.00: 0.20x13 ed=18.4000
+xExpt2: EXPTYPE_NONE 0.00: 0.00x0
+Expt Cancelled
+cm=noback
+mtop=op+do+aa+72+fc+fb+ap+wt+cf+ws+sw+bw+ic+cs+bm+gm+cb+cS+C3
+
+expt: rds et=dx e2=e0
+Expt Start (16534940): rds Disparity  0.00: 0.20x13 ed=18.4000
+xExpt2: EXPTYPE_NONE 0.00: 0.00x0
+End Follows Cancel
+cm=rf-0.21,-4.19:3.29x3.93,-45.0deg  pe84 1,-5 fx=0.00,fy=0.00 

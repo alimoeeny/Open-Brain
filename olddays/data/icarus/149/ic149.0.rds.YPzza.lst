@@ -1,0 +1,23 @@
+Expt Y offset: rds -3.455 +-45.000 *8. 54-57, nr4at-13.35,-25.95, 2.01x15.00, 0.00 deg. sf1.00tf10 36963550
+Dur 3750.00,18000 NF 22 IS 0.40 Framerate 60.00
+cm=rf-13.39,-3.66:13.84x12.93,5.6deg  pe123 -1.0,-cl
+props sq0.00 xo-13.35 yo-3.45 wi2.01 hi15.00 or0.00 sf1.00 tf10.00 dx1.0001 se13534 id11433 bd0.0000 op=+cn+cp+bm+ic 
+TrialGood 10: 36935661-36955983 4
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+0m+gm+cb+cS+C3+CF
+
+expt: rds et=yo e2=e0
+Expt Start (36963550): rds Y offset -3.45: 45.00x8 ed=13.7100
+xExpt2: EXPTYPE_NONE 0.00: 0.03x0
+stim 36966212-36969712:54 bG rds0 props sq0.00 xo-13.35 yo64.05 wi2.01 hi15.00 or0.00 sf1.00 tf10.00 dx1.0001 se13538 id11434 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 36971045-36974545:55 bG rds0 props sq0.00 xo-13.35 yo85.00 wi2.01 hi15.00 or0.00 sf1.00 tf10.00 dx1.0001 se13542 id11435 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 36975878-36979378:56 bG none0 props sq0.00 xo-13.35 yo-3.45 wi2.01 hi15.00 or0.00 sf1.00 tf10.00 dx1.0001 se13546 id11436 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 36980712-36984212:57 bG rds0 props sq0.00 xo-13.35 yo-25.95 wi2.01 hi15.00 or0.00 sf1.00 tf10.00 dx1.0001 se13550 id11437 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 11: 36965154-36984982 4
+Expt Cancelled
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+0m+gm+cb+cS+C3+CF
+
+expt: rds et=yo e2=e0
+Expt Start (37034999): rds Y offset -3.45: 2.00x8 ed=13.7100
+xExpt2: EXPTYPE_NONE 0.00: 0.03x0

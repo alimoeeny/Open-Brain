@@ -1,0 +1,29 @@
+Expt Disparity : cylinder 22.500 +-45.000 *8. 0-7, nr4at-8.21,0.13, 10.00x10.00, -22.50 deg. sf1.00tf10 3298214
+Dur 4000.12,18499 NF 22 IS 0.10 Framerate 60.00
+UFF ic007.0 Created 25/9/2006 13:10 as ic007.0 by v4.50 replay version 1.41 Rev $Revision: 1.55 $
+expt: cylinder et=dx e2=e0
+Expt Start (3298214): cylinder Disparity  0.00: 0.10x9 ed=0.0000
+xExpt2: EXPTYPE_NONE 0.00: 0.00x0
+cm=rf-8.42,0.13:3.81x4.36,-22.5deg  pe26 -2,-5 fx=0.00,fy=0.00 
+CR sampling 1136363.62Hz
+stim 102378-106378:0 bG cylinder0 props sq0.00 xo-8.21 yo0.13 wi10.00 hi10.00 or-22.50 sf1.00 tf10.00 dx0.0000 se9429 id7002 bd0.0000 op=+cn+cp 
+stim 107211-111211:1 bG cylinder0 props sq0.00 xo-8.21 yo0.13 wi10.00 hi10.00 or-22.50 sf1.00 tf10.00 dx0.0000 se9429 id7002 bd0.0000 op=+cn+cp 
+stim 112044-116044:2 bG cylinder0 props sq0.00 xo-8.21 yo0.13 wi10.00 hi10.00 or-22.50 sf1.00 tf10.00 dx0.0000 se9429 id7002 bd0.0000 op=+cn+cp 
+stim 116877-120877:3 bG cylinder0 props sq0.00 xo-8.21 yo0.13 wi10.00 hi10.00 or-22.50 sf1.00 tf10.00 dx0.0000 se9429 id7002 bd0.0000 op=+cn+cp 
+TrialGood 0: 101372-121650 4
+stim 146210-150210:4 bG cylinder0 props sq0.00 xo-8.21 yo0.13 wi10.00 hi10.00 or-22.50 sf1.00 tf10.00 dx0.0000 se9429 id7002 bd0.0000 op=+cn+cp 
+stim 151043-155043:5 bG cylinder0 props sq0.00 xo-8.21 yo0.13 wi10.00 hi10.00 or-22.50 sf1.00 tf10.00 dx0.0000 se9429 id7002 bd0.0000 op=+cn+cp 
+stim 155876-159877:6 bG cylinder0 props sq0.00 xo-8.21 yo0.13 wi10.00 hi10.00 or-22.50 sf1.00 tf10.00 dx0.0000 se9429 id7002 bd0.0000 op=+cn+cp 
+stim 160709-164709:7 bG cylinder0 props sq0.00 xo-8.21 yo0.13 wi10.00 hi10.00 or-22.50 sf1.00 tf10.00 dx0.0000 se9429 id7002 bd0.0000 op=+cn+cp+sc+cd 
+TrialGood 1: 145072-165481 4
+cm=rf-8.42,0.13:3.81x4.36,-22.5deg  pe26 -2,-5 fx=0.00,fy=0.00 
+cm=rf-8.42,0.13:3.81x4.36,-22.5deg  pe26 -2,-5 fx=0.00,fy=0.00 
+cm=rf-8.42,0.13:3.81x4.36,-22.5deg  pe26 -2,-5 fx=0.00,fy=0.00 
+cm=noback
+mtop=op+do+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+cS+C3
+
+Error! Experiment started without stopping, trial 8
+
+expt: rds et=or e2=e0
+Expt Start (409353): rds Orientation 22.50: 45.00x8 ed=17.6900
+xExpt2: EXPTYPE_NONE 0.00: 0.00x0

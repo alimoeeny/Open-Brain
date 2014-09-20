@@ -1,0 +1,39 @@
+Expt Disparity : rds 0.000 +-0.200 *7. 3434-3437, x Expt VDisp: 0.000 +-2.000 *7. 3434-3437, nr4at-5.71,-8.21, 14.98x15.00, 80.00 deg. sf3.00tf10 39862728
+Dur 4000.00,0 NF 25 IS 0.40 Framerate 60.00
+cm=rf-5.53,-7.23:12.92x12.23,80.0deg  pe78 -2,-4 fx=0.00,fy=
+props sq0.00 xo-6.06 yo-10.18 wi20.00 hi2.00 or80.00 sf3.00 tf10.00 dx-0.2000 se149826 id10059 bd-0.2000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 787: 39119590-39141506 4
+EndExpt  (39142811)
+cm=rf-5.53,-7.23:12.92x12.23,80.0deg* pe78 -2,-4 fx=0.00,fy=0.00 
+cm=rf-5.53,-7.23:12.92x12.23,80.0deg  pe78 -2,-4 fx=0.00,fy=0.00 
+cm=noback
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+sw+bw+ic+cs+bm+gm+sp+da+cS+C3
+
+expt: rds et=dx e2=e0
+Expt Start (39294434): rds Disparity  0.00: 0.20x13 ed=13.2700
+xExpt2: EXPTYPE_NONE 0.00: 2.00x2
+Expt Cancelled
+cm=noback
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+sw+bw+ic+cs+bm+gm+sp+da+cS+C3
+
+expt: rds et=dx e2=e0
+Expt Start (39356894): rds Disparity  0.00: 0.20x13 ed=13.2700
+xExpt2: EXPTYPE_NONE 0.00: 2.00x2
+Expt Cancelled
+cm=noback
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+iu+cs+bm+gm+x2+sp+da+cS+C3
+
+expt: rds et=dx e2=dy
+Expt Start (39862728): rds Disparity  0.00: 0.20x7 ed=13.2700
+xExpt2: VDisp 0.00: 2.00x7
+stim 39868884-39872884:3434 bG rds0 props sq0.00 xo-5.71 yo-8.21 wi14.98 hi15.00 or80.00 sf3.00 tf10.00 dx-0.4000 se149874 id10075 bd-0.2000 dy6.0200 op=+cn+cp+sc+cd+xe+bm+fS  dy6.02
+stim 39874217-39878217:3435 bG rds0 props sq0.00 xo-5.71 yo-8.21 wi14.98 hi15.00 or80.00 sf3.00 tf10.00 dx0.0000 se149877 id10076 bd-0.2000 dy-2.0000 op=+cn+cp+sc+cd+xe+bm+fS  dy-2.00
+stim 39879550-39883550:3436 bG rds0 props sq0.00 xo-5.71 yo-8.21 wi14.98 hi15.00 or80.00 sf3.00 tf10.00 dx-0.4000 se149880 id10077 bd-0.2000 dy0.0000 op=+cn+cp+sc+cd+xe+bm+fS  dy0.00
+stim 39884883-39888883:3437 bG rds0 props sq0.00 xo-5.71 yo-8.21 wi14.98 hi15.00 or80.00 sf3.00 tf10.00 dx0.0000 se149883 id10078 bd-0.2000 dy0.0000 op=+cn+cp+sc+cd+xe+bm+fS 
+Expt Cancelled
+cm=back=rds,wi=15.98,hi=15.98,ce=1.00,xo=-5.71,yo=1.00,dx=-0.20,co=1.00
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+iu+cs+bm+gm+x2+sp+da+cS+C3
+
+expt: rds et=dx e2=dy
+Expt Start (40031418): rds Disparity  0.00: 0.20x7 ed=13.2700
+xExpt2: VDisp 0.00: 0.20x7

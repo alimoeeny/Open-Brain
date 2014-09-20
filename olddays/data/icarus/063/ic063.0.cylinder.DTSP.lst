@@ -1,0 +1,34 @@
+#Combined into ic063.0.cylinder.DTSP.lst from ./ic063.0.cylinder.DTSPa.dat
+#From ./ic063.0.cylinder.DTSPa.lst:
+Clearclusters
+Cluster1 en6:24.34,93.98 ve6:3.95,24.62 pairen,ve,0.000000
+#Set by bgc on Sat Mar  3 09:56:06 2007
+
+Expt Disparity : cylinder 0.000 +-0.100 *3. 483-496, nr4at-3.22,-3.12, 6.02x6.00, 120.00 deg. sf1.00tf10 7471281
+Dur 3500.00,17999 NF 22 IS 0.40 Framerate 60.00
+cm=rf-3.79,-3.45:3.76x4.02,120.0deg* pe79 -1,-5 fx=0.00,fy=0
+props sq0.00 xo-3.79 yo-3.45 wi6.02 hi6.00 or120.00 sf1.00 tf10.00 dx0.1000 se9616 id7202 bd0.0000 op=+cn+cp+sc+cd+bm 
+Expt Cancelled
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+cs+bm+gm+cS+C3
+
+expt: cylinder et=dx e2=e0
+Expt Start (7471281): cylinder Disparity  0.00: 0.10x3 ed=16.8200
+xExpt2: EXPTYPE_NONE 0.00: 2.00x2
+stim 7477827-7481327:483 bG cylinder0 props sq0.00 xo-3.79 yo-3.45 wi6.02 hi6.00 or120.00 sf1.00 tf10.00 dx0.1000 se9623 id7209 bd0.0000 op=+cn+cp+sc+cd+bm 
+stim 7482660-7486160:484 bG cylinder0 props sq0.00 xo-3.79 yo-3.45 wi6.02 hi6.00 or120.00 sf1.00 tf10.00 dx0.0000 se9624 id7210 bd0.0000 op=+cn+cp+sc+cd+bm 
+stim 7487493-7490993:485 bG cylinder0 props sq0.00 xo-3.79 yo-3.45 wi6.02 hi6.00 or120.00 sf1.00 tf10.00 dx-0.1000 se9625 id7211 bd0.0000 op=+cn+cp+sc+cd+bm 
+stim 7492326-7495826:486 bG cylinder0 props sq0.00 xo-3.79 yo-3.45 wi6.02 hi6.00 or120.00 sf1.00 tf10.00 dx-0.1000 se9626 id7212 bd0.0000 op=+cn+cp+sc+cd+bm 
+TrialGood 100: 7476727-7496588 4
+stim 7502326-7505826:487 bG cylinder0 props sq0.00 xo-3.79 yo-3.45 wi6.02 hi6.00 or120.00 sf1.00 tf10.00 dx-0.1000 se9627 id7213 bd0.0000 op=+cn+cp+sc+cd+bm 
+props sq0.00 xo-3.22 yo-3.12 wi6.02 hi6.00 or120.00 sf1.00 tf10.00 dx0.0000 se9628 id7214 bd0.0000 op=+cn+cp+sc+cd+bm 
+stim 7522159-7525659:489 bG cylinder0 props sq0.00 xo-3.22 yo-3.12 wi6.02 hi6.00 or120.00 sf1.00 tf10.00 dx0.0000 se9629 id7215 bd0.0000 op=+cn+cp+sc+cd+bm 
+stim 7526992-7530492:490 bG cylinder0 props sq0.00 xo-3.22 yo-3.12 wi6.02 hi6.00 or120.00 sf1.00 tf10.00 dx0.0000 se9630 id7216 bd0.0000 op=+cn+cp+sc+cd+bm 
+stim 7531825-7535325:491 bG cylinder0 props sq0.00 xo-3.22 yo-3.12 wi6.02 hi6.00 or120.00 sf1.00 tf10.00 dx-0.1000 se9631 id7217 bd0.0000 op=+cn+cp+sc+cd+bm 
+props sq0.00 xo-3.22 yo-3.12 wi6.02 hi6.00 or120.00 sf1.00 tf10.00 dx0.1000 se9632 id7218 bd0.0000 op=+cn+cp+sc+cd+bm 
+stim 7553491-7556991:493 bG cylinder0 props sq0.00 xo-3.22 yo-3.12 wi6.02 hi6.00 or120.00 sf1.00 tf10.00 dx0.1000 se9633 id7219 bd0.0000 op=+cn+cp+sc+cd+bm 
+stim 7558325-7561825:494 bG cylinder0 props sq0.00 xo-3.22 yo-3.12 wi6.02 hi6.00 or120.00 sf1.00 tf10.00 dx0.1000 se9634 id7220 bd0.0000 op=+cn+cp+sc+cd+bm 
+stim 7563158-7566658:495 bG cylinder0 props sq0.00 xo-3.22 yo-3.12 wi6.02 hi6.00 or120.00 sf1.00 tf10.00 dx-0.1000 se9635 id7221 bd0.0000 op=+cn+cp+sc+cd+bm 
+stim 7567991-7571491:496 bG cylinder0 props sq0.00 xo-3.22 yo-3.12 wi6.02 hi6.00 or120.00 sf1.00 tf10.00 dx0.0000 se9636 id7222 bd0.0000 op=+cn+cp+sc+cd+bm 
+TrialGood 101: 7552439-7572253 4
+EndExpt  (7573360)

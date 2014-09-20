@@ -1,0 +1,17 @@
+!f:$UNITGRAPHS/dxcylinder.f
+\Title ic114.0.cylinder.DT.trl 255 to 287 Binoc
+#Preperiod 0.050, rate 1.38 +- 0.000  n = 29
+Delay = 0
+\xy-e
+-0.5000 25.68 5 2.70
+-0.3000 27.02 3 3.35
+-0.1000 26.05 4 5.39
+0.1000 24.21 4 2.27
+0.3000 11.58 4 5.65
+0.5000 6.11 5 2.46
+\label i=2 te=Blank \2_
+\xy-e--
+0.0000 2.63 4 1.39
+\yax 0 30
+\xax -0.50 0.50
+\label i=1 te=n=3 - 5 

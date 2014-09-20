@@ -1,0 +1,37 @@
+Expt Orthog Offset: rds 0.000 +-2.000 *9. 0-7, nr4at-7.84,-6.45, 2.01x20.00, -108.34 deg. sf1.00tf10 268370
+Dur 3499.88,17833 NF 22 IS 0.40 Framerate 60.00
+cm=rf-5.85,-0.43:2.65x3.64,-108.3deg  pe82 0,-5 fx=0.00,fy=0
+UFF ic069.0 Created 2/3/2007 13:04 as ic069.0 by v4.51 replay version 1.41 Rev $Revision: 1.55 $
+expt: rds et=or e2=e0
+Expt Start (73707254): rds Orientation 22.50: 45.00x8 ed=0.0000
+xExpt2: EXPTYPE_NONE 0.00: 0.00x0
+cm=VisualArea MT
+cm=:no clear GM yest, but a clear cell.
+cm=rf-5.85,-0.43:2.65x3.64,-108.3deg  pe82 0,-5 fx=0.00,fy=0.00 
+cm=noback
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+da+ao+cS+C3
+
+expt: rds et=Op e2=e0
+Expt Start: rds type 287 0.00: 2.00x9 ed=0.0000
+xExpt2: EXPTYPE_NONE 0.00: 2.00x2
+CR sampling 1136363.64Hz
+stim 273068-276568:0 bG rds0 props sq0.00 xo-2.15 yo-8.34 wi2.01 hi20.00 or-108.34 sf1.00 tf10.00 dx-0.5000 se8125 id6326 bd-0.5000 op=+cn+cp+sc+cd+bm+ic 
+stim 277901-281401:1 bG rds0 props sq0.00 xo-0.25 yo-8.97 wi2.01 hi20.00 or-108.34 sf1.00 tf10.00 dx-0.5000 se8128 id6327 bd-0.5000 op=+cn+cp+sc+cd+bm+ic 
+stim 282568-286068:2 bG rds0 props sq0.00 xo-9.74 yo-5.82 wi2.01 hi20.00 or-108.34 sf1.00 tf10.00 dx-0.5000 se8131 id6328 bd-0.5000 op=+cn+cp+sc+cd+bm+ic 
+stim 287401-290901:3 bG rds0 props sq0.00 xo-11.64 yo-5.19 wi2.01 hi20.00 or-108.34 sf1.00 tf10.00 dx-0.5000 se8134 id6329 bd-0.5000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 0: 271957-291672 4
+stim 297401-300900:4 bG rds0 props sq0.00 xo-4.05 yo-7.71 wi2.01 hi20.00 or-108.34 sf1.00 tf10.00 dx-0.5000 se8137 id6330 bd-0.5000 op=+cn+cp+sc+cd+bm+ic 
+stim 302234-305735:5 bG rds0 props sq0.00 xo-5.94 yo-7.08 wi2.01 hi20.00 or-108.34 sf1.00 tf10.00 dx-0.5000 se8140 id6331 bd-0.5000 op=+cn+cp+sc+cd+bm+ic 
+stim 307067-310567:6 bG rds0 props sq0.00 xo-15.44 yo-3.93 wi2.01 hi20.00 or-108.34 sf1.00 tf10.00 dx-0.5000 se8143 id6332 bd-0.5000 op=+cn+cp+sc+cd+bm+ic 
+stim 311735-315234:7 bG rds0 props sq0.00 xo-7.84 yo-6.45 wi2.01 hi20.00 or-108.34 sf1.00 tf10.00 dx-0.5000 se8146 id6333 bd-0.5000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 1: 296406-316004 4
+Expt Cancelled
+cm=rf-7.79,-6.44:2.65x3.64,-108.3deg  pe82 0,-5 fx=0.00,fy=0.00 
+cm=rf-7.79,-6.44:6.23x8.50,-108.3deg  pe82 0,-5 fx=0.00,fy=0.00 
+cm=rf-7.79,-6.44:6.23x8.50,-96.6deg  pe82 0,-5 fx=0.00,fy=0.00 
+cm=noback
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+da+ao+cS+C3
+
+expt: rds et=Op e2=e0
+Expt Start: rds type 287 0.00: 2.00x9 ed=18.3100
+xExpt2: EXPTYPE_NONE 0.00: 2.00x2

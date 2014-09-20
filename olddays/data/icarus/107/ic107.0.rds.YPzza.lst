@@ -1,0 +1,29 @@
+Expt Y offset: rds -6.836 +-2.000 *8. 291-299, x Expt Orientation: 0.000 +-180.000 *2. 291-299, nr4at-1.53,-1.84, 20.01x2.00, -90.00 deg. sf1.00tf10 4292983
+Dur 3793.71,18000 NF 22 IS 0.40 Framerate 60.00
+cm=rf-1.57,-6.75:4.32x6.00,5.6deg  pe97 -2,-5 fx=0.00,fy=0.0
+props sq0.00 xo-1.53 yo-6.84 wi20.01 hi2.00 or-90.00 sf1.00 tf10.00 dx-0.3000 se10605 id8507 bd0.0000 op=+cn+cp+xe+bm+ic 
+TrialGood 63: 4097131-4117479 4
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+0m+gm+x2+cS+C3
+
+expt: rds et=yo e2=or
+Expt Start (4292983): rds Y offset -6.84: 2.00x8 ed=15.5300
+xExpt2: Orientation 0.00: 180.00x2
+stim 4297863-4301363:291 bG rds0 props sq0.00 xo-1.53 yo-5.84 wi20.01 hi2.00 or-90.00 sf1.00 tf10.00 dx-0.3000 se11605 id8508 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 4302696-4306196:292 bG rds0 props sq0.00 xo-1.53 yo-1.84 wi20.01 hi2.00 or90.00 sf1.00 tf10.00 dx-0.3000 se11605 id8509 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 4307529-4311030:293 bG rds0 props sq0.00 xo-1.53 yo0.16 wi20.01 hi2.00 or-90.00 sf1.00 tf10.00 dx-0.3000 se11605 id8510 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 4312363-4315863:294 bG rds0 props sq0.00 xo-1.53 yo-9.84 wi20.01 hi2.00 or90.00 sf1.00 tf10.00 dx-0.3000 se11605 id8511 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+TrialGood 64: 4296727-4316639 4
+stim 4322529-4326029:295 bG rds0 props sq0.00 xo-1.53 yo-11.84 wi20.01 hi2.00 or90.00 sf1.00 tf10.00 dx-0.3000 se11605 id8512 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 4327362-4330862:296 bG rds0 props sq0.00 xo-1.53 yo-5.84 wi20.01 hi2.00 or90.00 sf1.00 tf10.00 dx-0.3000 se11605 id8513 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 4332196-4335696:297 bG rds0 props sq0.00 xo-1.53 yo-13.84 wi20.01 hi2.00 or90.00 sf1.00 tf10.00 dx-0.3000 se11605 id8514 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 4337029-4340529:298 bG rds0 props sq0.00 xo-1.53 yo-11.84 wi20.01 hi2.00 or-90.00 sf1.00 tf10.00 dx-0.3000 se11605 id8515 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+TrialGood 65: 4321394-4341305 4
+stim 4347195-4350695:299 bG rds0 props sq0.00 xo-1.53 yo-1.84 wi20.01 hi2.00 or-90.00 sf1.00 tf10.00 dx-0.3000 se11605 id8516 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+Expt Cancelled
+cm=noback
+mtop=op+do+aa+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+0m+gm+cS+C3
+
+expt: none et=yo e2=e0
+Expt Start (4373627): none Y offset -6.84: 2.00x8 ed=15.5300
+xExpt2: EXPTYPE_NONE 0.00: 180.00x0

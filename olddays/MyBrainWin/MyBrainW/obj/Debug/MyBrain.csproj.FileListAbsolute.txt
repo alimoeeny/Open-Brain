@@ -1,0 +1,7 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MyBrain\bin\Debug\MyBrain.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MyBrain\bin\Debug\MyBrain.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MyBrain\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MyBrain\obj\Debug\MyBrain.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MyBrain\obj\Debug\MyBrain.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MyBrain\obj\Debug\MyBrain.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MyBrain\obj\Debug\MyBrain.pdb

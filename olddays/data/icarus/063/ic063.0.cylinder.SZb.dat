@@ -1,0 +1,13 @@
+!f:$UNITGRAPHS/sz.f
+\Title ic063.0.cylinder.SZb.trl 454 to 476 Binoc
+#Preperiod 0.050, rate 0.00 +- 0.000  n = 21
+none = 0
+\xy-e
+4.0200 92.00 5 9.96
+6.0200 64.28 4 9.22
+8.0000 52.14 4 4.27
+10.0000 47.86 4 7.94
+11.9800 47.15 4 3.40
+\yax 0 100
+\xax 4.02 11.98
+\label i=1 te=n=4 - 5 

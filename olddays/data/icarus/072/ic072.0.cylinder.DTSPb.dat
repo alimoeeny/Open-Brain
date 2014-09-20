@@ -1,0 +1,11 @@
+!f:$UNITGRAPHS/dxcylinder.f
+\Title ic072.0.cylinder.DTSPb.trl 550 to 589 Binoc
+#Preperiod 0.050, rate 0.00 +- 0.000  n = 30
+Delay = 0
+\xy-e
+-0.1000 22.10 11 2.19
+0.0000 22.71 9 2.68
+0.1000 5.08 10 1.25
+\yax 0 30
+\xax -0.10 0.10
+\label i=1 te=n=9 - 11 

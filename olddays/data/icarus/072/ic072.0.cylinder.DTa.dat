@@ -1,0 +1,26 @@
+!f:$UNITGRAPHS/dxcylinder.f
+\Title ic072.0.cylinder.DTa.trl 481 to 515 Binoc
+#Preperiod 0.050, rate 0.00 +- 0.000  n = 26
+Delay = 0
+\xy-e
+-0.5000 15.25 3 2.69
+-0.3000 18.14 3 1.62
+-0.1000 18.56 2 1.27
+0.1000 3.05 3 0.29
+0.3000 0.00 2 0.00
+0.5000 0.00 2 0.00
+\label i=2 te=Left Monocular \2_
+\xy-e
+0.0000 15.76 3 1.79
+\label i=3 te=Right Monocular \3_
+\xy-e
+0.0000 8.64 3 0.88
+\label i=4 te=Uncorrelated \4_
+\xy-e
+0.0000 24.66 2 2.29
+\label i=5 te=Blank \5_
+\xy-e--
+0.0000 2.03 3 1.06
+\yax 0 30
+\xax -0.50 0.50
+\label i=1 te=n=2 - 3 

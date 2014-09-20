@@ -1,0 +1,31 @@
+Clearclusters
+Cluster1 en6:20.14,60.62 ve6:9.13,20.12 pairen,ve,-0.123315
+#Set by ceb on Fri Jun  8 16:38:01 2007
+
+Expt Disparity : rds 0.000 +-0.200 *9. 702-707, x Expt Orientation: 0.000 +-180.000 *2. 702-707, nr4at-5.45,4.00, 9.99x10.00, -90.00 deg. sf1.00tf10 10980843
+Dur 3499.95,17999 NF 22 IS 0.40 Framerate 60.00
+cm=rf-5.65,3.66:2.05x1.33,5.6deg  pe122 0.0,0.0 fx=0.00,fy=0*
+props sq0.00 xo-5.45 yo4.00 wi9.99 hi10.00 or135.00 sf1.00 tf10.00 dx0.0000 se9308 id6913 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 156: 10816586-10836443 4
+EndExpt  (10837850)
+cm=rf-5.65,3.66:2.05x1.33,5.6deg  pe122 0.0,0.0 fx=0.00,fy=0.00 
+cm=noback
+mtop=op+do+aa+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+0m+gm+x2+cS+C3+CF
+
+expt: rds et=dx e2=or
+Expt Start (10980843): rds Disparity  0.00: 0.20x9 ed=17.9900
+xExpt2: Orientation 0.00: 180.00x2
+stim 10985502-10989001:702 bG rds0 props sq0.00 xo-5.45 yo4.00 wi9.99 hi10.00 or90.00 sf1.00 tf10.00 dx0.8000 se9312 id6914 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 10990335-10993835:703 bG rds0 props sq0.00 xo-5.45 yo4.00 wi9.99 hi10.00 or-90.00 sf1.00 tf10.00 dx0.2000 se9316 id6915 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 10995168-10998668:704 bG rds0 props sq0.00 xo-5.45 yo4.00 wi9.99 hi10.00 or-90.00 sf1.00 tf10.00 dx-0.2000 se9320 id6916 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 11000001-11003501:705 bG rds0 props sq0.00 xo-5.45 yo4.00 wi9.99 hi10.00 or90.00 sf1.00 tf10.00 dx-0.8000 se9324 id6917 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+TrialGood 157: 10984379-11004280 4
+stim 11010168-11013668:706 bG none0 props sq0.00 xo-5.45 yo4.00 wi9.99 hi10.00 or-90.00 sf1.00 tf10.00 dx0.0000 se9328 id6918 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+stim 11015001-11018501:707 bG rds0 props sq0.00 xo-5.45 yo4.00 wi9.99 hi10.00 or-90.00 sf1.00 tf10.00 dx0.4000 se9332 id6919 bd0.0000 op=+cn+cp+sc+cd+xe+bm+ic 
+EndExpt  (11019556)
+cm=back=rds,wi=6.01,hi=6.01,ce=1.00,xo=-5.45,yo=1.00,dx=0.00,co=1.00
+mtop=op+do+aa+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+0m+gm+x2+cS+C3+CF
+
+expt: rds et=dx e2=or
+Expt Start (11109293): rds Disparity  0.00: 0.20x9 ed=17.9900
+xExpt2: Orientation 0.00: 180.00x2

@@ -1,0 +1,15 @@
+!f:$UNITGRAPHS/or.f
+\Title ic150.0_2.cylinder.OTa.trl 3153 to 3169 Binoc
+#Preperiod 0.050, rate 3.75 +- 0.000  n = 16
+none = 0
+\xy-e
+-22.5000 16.84 4 0.86
+0.0000 25.97 3 7.60
+22.5000 28.77 3 3.12
+45.0000 16.14 3 3.35
+\label i=2 te=Blank \2_
+\xy-e--
+11.2500 5.26 3 1.05
+\yax 0 30
+\xax -22.50 45.00
+\label i=1 te=n=3 - 4 

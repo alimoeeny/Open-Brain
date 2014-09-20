@@ -1,0 +1,36 @@
+Expt Orientation: rds 22.500 +-45.000 *8. 77-83, nr4at-21.24,21.39, 10.00x10.00, 180.00 deg. sf1.00tf10 1063318
+Dur 3500.00,18000 NF 22 IS 0.40 Framerate 60.00
+cm=rf-1.67,-6.74:8.42x7.58,-45.0deg  pe44 -3,-4 fx=0.00,fy=0
+props sq0.00 xo-0.94 yo-5.80 wi10.00 hi10.00 or-45.00 sf1.00 tf10.00 dx0.5000 se11485 id7715 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 17: 910359-930174 4
+EndExpt  (931518)
+cm=back=rds,wi=11.49,hi=11.50,ce=1.00,xo=-21.24,yo=1.00,dx=0.00,co=1.00
+mtop=op+do+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+cS+C3
+
+expt: rds et=or e2=e0
+Expt Start (1063318): rds Orientation 22.50: 45.00x8 ed=13.7500
+xExpt2: EXPTYPE_NONE 0.00: 0.01x0
+stim 1068234-1071734:77 bG rds0 props sq0.00 xo-21.24 yo21.39 wi10.00 hi10.00 or90.00 sf1.00 tf10.00 dx0.5000 se11487 id7716 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 1073067-1076567:78 bG rds0 props sq0.00 xo-21.24 yo21.39 wi10.00 hi10.00 or-135.00 sf1.00 tf10.00 dx0.5000 se11489 id7717 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 1077901-1081401:79 bG rds0 props sq0.00 xo-21.24 yo21.39 wi10.00 hi10.00 or135.00 sf1.00 tf10.00 dx0.5000 se11491 id7718 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 1082734-1086234:80 bG rds0 props sq0.00 xo-21.24 yo21.39 wi10.00 hi10.00 or-45.00 sf1.00 tf10.00 dx0.5000 se11493 id7719 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 18: 1067203-1087006 4
+stim 1092900-1096400:81 bG none0 props sq0.00 xo-21.24 yo21.39 wi10.00 hi10.00 or22.50 sf1.00 tf10.00 dx0.5000 se11495 id7720 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 1097733-1101233:82 bG rds0 props sq0.00 xo-21.24 yo21.39 wi10.00 hi10.00 or0.00 sf1.00 tf10.00 dx0.5000 se11497 id7721 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 1102567-1106067:83 bG rds0 props sq0.00 xo-21.24 yo21.39 wi10.00 hi10.00 or180.00 sf1.00 tf10.00 dx0.5000 se11499 id7722 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+Expt Cancelled
+cm=rf-1.67,-6.74:8.42x7.58,-45.0deg  pe44 -3,-4 fx=0.00,fy=0.00 
+cm=rf-1.33,-4.70:8.42x7.58,-45.0deg  pe44 -3,-4 fx=0.00,fy=0.00 
+cm=back=rds,wi=11.00,hi=11.00,ce=1.00,xo=-1.33,yo=1.00,dx=0.00,co=1.00
+mtop=op+do+72+fc+fb+ap+wt+cf+ws+sw+bw+ic+cs+bm+gm+cS+C3
+
+expt: rds et=dx e2=e0
+Expt Start (1992035): rds Disparity  0.00: 0.20x13 ed=13.7500
+xExpt2: EXPTYPE_NONE 0.00: 0.01x0
+Expt Cancelled
+cm=back=rds,wi=11.00,hi=11.00,ce=1.00,xo=-1.33,yo=1.00,dx=0.00,co=1.00
+mtop=op+do+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+cS+C3
+
+expt: rds et=dx e2=e0
+Expt Start (2044362): rds Disparity  0.00: 0.20x13 ed=13.7500
+xExpt2: EXPTYPE_NONE 0.00: 0.01x0

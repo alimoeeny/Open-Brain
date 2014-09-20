@@ -1,0 +1,11 @@
+!f:$UNITGRAPHS/pp.f
+\Title ic110.0.rds.PPa.trl 332 to 334 Binoc FY -8.00
+#Preperiod 0.050, rate 0.00 +- 0.000  n = 3
+none = 0
+\xy-e
+-11.7700 25.71 1 0.00
+-5.7700 2.86 1 0.00
+9.2300 40.00 1 0.00
+\yax 0 50
+\xax -11.77 9.23
+\label i=1 te=n=1 NOBACK wi=1.99 or=45.00Ro=45sl=1

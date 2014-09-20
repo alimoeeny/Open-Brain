@@ -1,0 +1,28 @@
+Expt Disparity : cylinder 0.000 +-0.005 *5. 249-254, x Expt Initial Disparity: 0.000 +-0.004 *6. 249-254, nr4at-13.65,-1.97, 10.00x10.00, -135.26 deg. sf1.00tf10 3399461
+Dur 19666.00,19666 NF 119 IS 0.40 Framerate 60.00
+cm=rf-13.69,-1.76:10.50x10.17,-135.0deg  pe82 0,-5 fx=0.00,f
+props sq3.00 xo-13.65 yo-1.97 wi10.00 hi10.00 or-135.26 sf1.00 tf10.00 dx0.0100 se12102 id8041 bd0.0000 Id0.00 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+Expt Cancelled
+cm=rf-13.69,-1.76:10.50x10.17,-135.0deg  pe82 0,-5 fx=0.00,fy=0.00 
+cm=noback
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+cs+2a+bm+gm+x2+da+ao+cb+cS+C3
+
+expt: cylinder et=dx e2=Id
+Expt Start (3399461): cylinder Disparity  0.00: 0.00x5 ed=19.3600
+xExpt2: Initial Disparity 0.00: 0.00x6
+stim 3405497-3425163:249 bG cylinder0 props sq0.00 xo-13.65 yo-1.97 wi10.00 hi10.00 or-135.26 sf1.00 tf10.00 dx-0.0100 se12103 id8042 bd0.0000 Id0.00 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialGood 58: 3404394-3429000 1
+props sq0.00 xo-13.65 yo-1.97 wi10.00 hi10.00 or-135.26 sf1.00 tf10.00 dx0.0000 se12104 id8043 bd0.0000 Id0.00 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+props sq0.00 xo-13.65 yo-1.97 wi10.00 hi10.00 or-135.26 sf1.00 tf10.00 dx0.0050 se12105 id8044 bd0.0000 Id-0.01 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+props sq0.00 xo-13.65 yo-1.97 wi10.00 hi10.00 or-135.26 sf1.00 tf10.00 dx-0.0050 se12106 id8045 bd0.0000 Id0.00 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+stim 3519494-3539160:253 bG cylinder0 props sq0.00 xo-13.65 yo-1.97 wi10.00 hi10.00 or-135.26 sf1.00 tf10.00 dx-0.0050 se12107 id8046 bd0.0000 Id-0.01 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialGood 59: 3518490-3542838 1
+stim 3549160-3568826:254 bG cylinder0 props sq0.00 xo-13.65 yo-1.97 wi10.00 hi10.00 or-135.26 sf1.00 tf10.00 dx0.0000 se12108 id8047 bd0.0000 Id0.00 MD=0 op=+cn+cp+sc+2a+cd+xe+bm 
+TrialWrong 60: 3548099-3572314 1
+Expt Cancelled
+cm=noback
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+cs+2a+bm+gm+x2+da+ao+cb+cS+C3
+
+expt: cylinder et=dx e2=Id
+Expt Start (3893813): cylinder Disparity  0.00: 0.00x5 ed=19.3600
+xExpt2: Initial Disparity 0.00: 0.00x6

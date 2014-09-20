@@ -1,0 +1,25 @@
+Expt Disparity : rds 0.000 +-0.200 *13. 553-560, nr4at-73.02,-71.01, 10.00x10.00, -131.19 deg. sf1.00tf10 19947805
+Dur 3500.25,18000 NF 22 IS 0.40 Framerate 60.00
+cm=rf-73.02,-71.01:9.25x11.00,-45.0deg* pe56 -1,-4 fx=0.00,f
+props sq0.00 xo-9.21 yo-7.45 wi10.00 hi10.00 or135.00 sf1.00 tf10.00 dx-0.1833 se10600 id7673 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 124: 19745948-19765843 4
+EndExpt  (19767251)
+cm=rf-9.38,-7.37:9.25x11.00,-45.0deg  pe56 -1,-4 fx=0.00,fy=0.00 
+cm=rf-73.02,-71.01:9.25x11.00,-45.0deg* pe56 -1,-4 fx=0.00,fy=0.00 
+cm=noback
+mtop=op+do+aa+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+cs+bm+gm+cS+C3
+
+expt: rds et=dx e2=e0
+Expt Start (19947805): rds Disparity  0.00: 0.20x13 ed=15.4900
+xExpt2: EXPTYPE_NONE 0.50: 1.00x1
+stim 19953733-19957233:553 bG rds0 props sq0.00 xo-73.02 yo-71.01 wi10.00 hi10.00 or-131.19 sf1.00 tf10.00 dx1.0001 se10603 id7674 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 19958566-19962066:554 bG rds0 props sq0.00 xo-73.02 yo-71.01 wi10.00 hi10.00 or-131.19 sf1.00 tf10.00 dx1.2001 se10606 id7675 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 19963401-19966900:555 bG rds0 props sq0.00 xo-73.02 yo-71.01 wi10.00 hi10.00 or-131.19 sf1.00 tf10.00 dx0.2000 se10609 id7676 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 19968233-19971733:556 bG none0 props sq0.00 xo-73.02 yo-71.01 wi10.00 hi10.00 or-131.19 sf1.00 tf10.00 dx0.0000 se10612 id7677 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+TrialGood 125: 19952662-19972510 4
+stim 19978400-19981900:557 bG rds0 props sq0.00 xo-73.02 yo-71.01 wi10.00 hi10.00 or-131.19 sf1.00 tf10.00 dx0.8000 se10615 id7678 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 19983233-19986733:558 bG rds0 props sq0.00 xo-73.02 yo-71.01 wi10.00 hi10.00 or-131.19 sf1.00 tf10.00 dx0.0000 se10618 id7679 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 19988066-19991566:559 bG rds0 props sq0.00 xo-73.02 yo-71.01 wi10.00 hi10.00 or-131.19 sf1.00 tf10.00 dx-1.2001 se10621 id7680 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+stim 19992899-19996402:560 bG rds0 props sq0.00 xo-73.02 yo-71.01 wi10.00 hi10.00 or-131.19 sf1.00 tf10.00 dx-0.4000 se10624 id7681 bd0.0000 op=+cn+cp+sc+cd+bm+ic 
+Expt Cancelled
+cm=rf-73.02,-71.01:9.25x11.00,-45.0deg* pe56 -1,-4 fx=0.00,fy=0.00 

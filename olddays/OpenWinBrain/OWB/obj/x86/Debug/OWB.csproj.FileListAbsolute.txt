@@ -1,0 +1,13 @@
+z:\Dropbox\Projects\Open-Brain\OpenWinBrain\OWB\bin\Debug\OWB.exe
+z:\Dropbox\Projects\Open-Brain\OpenWinBrain\OWB\bin\Debug\OWB.pdb
+z:\Dropbox\Projects\Open-Brain\OpenWinBrain\OWB\bin\Debug\Npgsql.dll
+z:\Dropbox\Projects\Open-Brain\OpenWinBrain\OWB\bin\Debug\Mono.Security.dll
+z:\Dropbox\Projects\Open-Brain\OpenWinBrain\OWB\bin\Debug\Npgsql.pdb
+z:\Dropbox\Projects\Open-Brain\OpenWinBrain\OWB\bin\Debug\Npgsql.xml
+z:\Dropbox\Projects\Open-Brain\OpenWinBrain\OWB\obj\x86\Debug\ResolveAssemblyReference.cache
+z:\Dropbox\Projects\Open-Brain\OpenWinBrain\OWB\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+z:\Dropbox\Projects\Open-Brain\OpenWinBrain\OWB\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+z:\Dropbox\Projects\Open-Brain\OpenWinBrain\OWB\obj\x86\Debug\GenerateResource.read.1.tlog
+z:\Dropbox\Projects\Open-Brain\OpenWinBrain\OWB\obj\x86\Debug\GenerateResource.write.1.tlog
+z:\Dropbox\Projects\Open-Brain\OpenWinBrain\OWB\obj\x86\Debug\OWB.exe
+z:\Dropbox\Projects\Open-Brain\OpenWinBrain\OWB\obj\x86\Debug\OWB.pdb

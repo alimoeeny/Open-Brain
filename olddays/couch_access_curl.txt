@@ -1,0 +1,6 @@
+curl -d '{"source":"http://10.1.1.235:5984/openbrain", "target":"http://127.0.0.1:5984/openbrain"}' 127.0.0.1:5984/_replicate 
+
+
+http://10.211.55.2:5984/openbrain/_design/experiments/_view/by_name?key=%22dae007.c1.cylinder.ABD.mat%22
+
+

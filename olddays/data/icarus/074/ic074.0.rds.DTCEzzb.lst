@@ -1,0 +1,32 @@
+Expt Disparity : rds 0.000 +-0.200 *7. 580-590, x Expt Correlation: 0.000 +-2.000 *2. 580-590, nr4at-3.97,-0.90, 6.02x6.00, -90.00 deg. sf1.00tf10 9434288
+Dur 3499.90,17999 NF 22 IS 0.40 Framerate 60.00
+cm=rf-3.97,-0.90:3.38x3.46,-90.0deg  pe83 0,-6 fx=0.00,fy=0.
+
+props sq0.00 xo-3.97 yo-0.90 wi6.02 hi6.00 or-90.00 sf1.00 tf10.00 dx0.0000 se9902 id6962 bd0.0000 op=+cn+cp+sc+cd+bm+ic+fS+(null) 
+TrialGood 189: 9030173-9049981 4
+EndExpt  (9052913)
+cm=back=rds,wi=7.03,hi=7.02,ce=1.00,xo=-3.97,yo=1.00,dx=0.00,co=1.00
+mtop=op+do+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+im+iu+cs+bm+gm+x2+da+ao+fS+cS+C3
+
+expt: rds et=dx e2=ce
+Expt Start (9434288): rds Disparity  0.00: 0.20x7 ed=18.3500
+xExpt2: Correlation 0.00: 2.00x2
+stim 9438857-9442357:580 bG rds0 props sq0.00 xo-3.97 yo-0.90 wi6.02 hi6.00 or-90.00 sf1.00 tf10.00 dx0.0000 se9904 id6963 bd0.0000 ce0.20 op=+cn+cp+sc+cd+xe+bm+ic+fS+(null)+(null) 
+stim 9443690-9447190:581 bG rds0 props sq0.00 xo-3.97 yo-0.90 wi6.02 hi6.00 or-90.00 sf1.00 tf10.00 dx-0.6000 se9906 id6964 bd0.0000 ce0.00 op=+cn+cp+sc+cd+uc+xe+bm+ic+fS+(null)+(null) 
+props sq0.00 xo-3.97 yo-0.90 wi6.02 hi6.00 or-90.00 sf1.00 tf10.00 dx-0.4000 se9908 id6965 bd0.0000 ce0.00 op=+cn+cp+sc+cd+uc+xe+bm+ic+fS+(null)+(null) 
+stim 9462856-9466356:583 bG rds0 props sq0.00 xo-3.97 yo-0.90 wi6.02 hi6.00 or-90.00 sf1.00 tf10.00 dx-0.4000 se9910 id6966 bd0.0000 ce0.00 op=+cn+cp+sc+cd+uc+xe+bm+ic+fS+(null)+(null) 
+stim 9467689-9471189:584 bG rds0 props sq0.00 xo-3.97 yo-0.90 wi6.02 hi6.00 or-90.00 sf1.00 tf10.00 dx0.0000 se9912 id6967 bd0.0000 ce0.00 op=+cn+cp+sc+cd+uc+xe+bm+ic+fS+(null)+(null) 
+stim 9472522-9476022:585 bG rds0 props sq0.00 xo-3.97 yo-0.90 wi6.02 hi6.00 or-90.00 sf1.00 tf10.00 dx-0.2000 se9914 id6968 bd0.0000 ce0.00 op=+cn+cp+sc+cd+uc+xe+bm+ic+fS+(null)+(null) 
+stim 9477356-9480855:586 bG rds0 props sq0.00 xo-3.97 yo-0.90 wi6.02 hi6.00 or-90.00 sf1.00 tf10.00 dx0.0000 se9916 id6969 bd0.0000 ce0.00 op=+cn+cp+sc+cd+uc+xe+bm+ic+fS+(null)+(null) 
+TrialGood 190: 9461758-9481630 26
+stim 9487522-9491022:587 bG rds0 props sq0.00 xo-3.97 yo-0.90 wi6.02 hi6.00 or-90.00 sf1.00 tf10.00 dx0.0000 se9918 id6970 bd0.0000 ce0.20 op=+cn+cp+sc+cd+xe+bm+ic+fS+(null)+(null) 
+stim 9492355-9495855:588 bG rds0 props sq0.00 xo-3.97 yo-0.90 wi6.02 hi6.00 or-90.00 sf1.00 tf10.00 dx0.0000 se9920 id6971 bd0.0000 ce0.00 op=+cn+cp+sc+cd+uc+xe+bm+ic+fS+(null)+(null) 
+stim 9497188-9500688:589 bG rds0 props sq0.00 xo-3.97 yo-0.90 wi6.02 hi6.00 or-90.00 sf1.00 tf10.00 dx-0.4000 se9922 id6972 bd0.0000 ce0.20 op=+cn+cp+sc+cd+xe+bm+ic+fS+(null)+(null) 
+stim 9502022-9505522:590 bG rds0 props sq0.00 xo-3.97 yo-0.90 wi6.02 hi6.00 or-90.00 sf1.00 tf10.00 dx-0.2000 se9924 id6973 bd0.0000 ce0.20 op=+cn+cp+sc+cd+xe+bm+ic+fS+(null)+(null) 
+Expt Cancelled
+cm=back=rds,wi=7.03,hi=7.02,ce=1.00,xo=-3.97,yo=1.00,dx=0.00,co=1.00
+mtop=op+do+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+ic+im+iu+cs+bm+gm+x2+da+ao+fS+cS+C3
+
+expt: rds et=dx e2=ce
+Expt Start (9563672): rds Disparity  0.00: 0.20x7 ed=18.3500
+xExpt2: Correlation 0.00: 2.00x2

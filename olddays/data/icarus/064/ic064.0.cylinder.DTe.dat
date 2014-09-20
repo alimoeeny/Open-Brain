@@ -1,0 +1,11 @@
+!f:$UNITGRAPHS/dxcylinder.f
+\Title ic064.0.cylinder.DTSPe.trl 566 to 639 Binoc
+#Preperiod 0.050, rate 3.33 +- 0.000  n = 60
+Delay = 0
+\xy-e
+-0.1000 44.64 20 1.08
+0.0000 35.01 20 1.27
+0.1000 2.97 20 0.21
+\yax 0 50
+\xax -0.10 0.10
+\label i=1 te=n=20 

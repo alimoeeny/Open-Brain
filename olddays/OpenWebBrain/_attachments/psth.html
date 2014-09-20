@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My New OpenBrain! - Spike Density Function plot</title>
+    <link rel="stylesheet" href="style/main.css" type="text/css">
+  </head>
+  <body>
+<script src="menu.js"></script>
+<script src="querystring.js"></script>
+    <h1>Spike Density Function Plot! [AKA PSTH]</h1>
+<div id="outputcon"></div>
+  <canvas width=3000 height=500 id="mycanvas"></canvas>
+
+<script src="http://www.google.com/jsapi"></script>
+<script type="text/javascript" language="javascript">
+//load jQuery
+google.load("jquery","1");
+google.setOnLoadCallback(function() {
+    var qs = new Querystring();
+    //$.getJSON('../experiments/_view/spiketrain?key=' + qs.get('exptid'), jCallBack );
+    //$.getJSON('../experiments/_view/spiketrain2?key=' + qs.get('exptid'), jCallBack );
+$.getJSON('../analysis/_view/sdf10?key=' + qs.get('exptid'), jCallBack );
+    }
+);
+
+function jCallBack(data){
+    //alert(data.total_rows);
+    //alert(data.rows[0]);
+    ali = data.rows[0]['value'];
+    //alert(ali);
+    //alert(ali[0]);
+    //alert(ali[0].Spikes);
+    
+    var example = document.getElementById('mycanvas');
+    var context = example.getContext('2d');
+    context.fillStyle = "rgb(255,255,225)";
+    context.fillRect(0, 0, 1200, 500);
+    context.fillStyle = "rgb(0,0,0)";
+    var neuron = {"name":"testneuron1", "lastupdate":"5/20/10 21:57"};  
+
+
+/* this worked with spiketrain 2     
+    binWidth = 50;
+    var sdf = new Array();
+    for(j=0; j<3000; j++)
+        sdf[j]=0;
+
+    for (j in ali){  
+        for (i=0; i< ali[j].length; i++){
+            st = ali[j][i]/10;
+            for(b=0; b < binWidth; b ++)
+                sdf[b+st] += 1;
+            }
+       }
+*/
+
+    sdf = data.rows[0]['value'];
+    context.fillStyle = "rgb(100,100,255)";
+    for(j=0; j< sdf.length; j++)
+        context.fillRect(j,480-sdf[j], 2, 2);
+    }
+                                                       
+</script>
+</body>
+</html>

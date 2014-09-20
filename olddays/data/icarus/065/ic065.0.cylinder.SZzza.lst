@@ -1,0 +1,29 @@
+Expt Size (H and W): cylinder 5.000 +-1.000 *5. 504-512, nr4at-5.68,1.05, 4.02x4.00, 180.00 deg. sf1.00tf10 7254502
+Dur 3500.25,18000 NF 22 IS 0.40 Framerate 60.00
+cm=rf-4.18,1.05:3.59x3.34,180.0deg* pe80 -1,-7 fx=0.00,fy=0.
+props sq0.00 xo-4.19 yo1.07 wi3.00 hi3.00 or180.00 sf1.00 tf10.00 dx0.5000 se10370 id7369 bd-0.0100 op=+cn+cp+sc+cd+bm 
+TrialGood 111: 6967157-6986977 4
+Expt Cancelled
+cm=noback
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+cs+bm+gm+cS+C3
+
+expt: cylinder et=sz e2=e0
+Expt Start (7254502): cylinder Size (H and W) 5.00: 1.00x5 ed=20.1600
+xExpt2: EXPTYPE_NONE 0.55: 0.30x2
+stim 7260369-7263869:504 bG cylinder0 props sq0.00 xo-5.68 yo1.05 wi3.00 hi3.00 or180.00 sf1.00 tf10.00 dx-0.3000 se10372 id7371 bd-0.0100 sz3.00 op=+cn+cp+sc+cd+bm 
+stim 7265202-7268703:505 bG cylinder0 props sq0.00 xo-5.68 yo1.05 wi4.02 hi4.00 or180.00 sf1.00 tf10.00 dx-0.3000 se10373 id7372 bd-0.0100 sz4.01 op=+cn+cp+sc+cd+bm 
+props sq0.00 xo-5.68 yo1.05 wi6.02 hi6.00 or180.00 sf1.00 tf10.00 dx-0.3000 se10374 id7373 bd-0.0100 sz6.01 op=+cn+cp+sc+cd+bm 
+stim 7285035-7288535:507 bG cylinder0 props sq0.00 xo-5.68 yo1.05 wi6.02 hi6.00 or180.00 sf1.00 tf10.00 dx-0.3000 se10375 id7374 bd-0.0100 sz6.01 op=+cn+cp+sc+cd+bm 
+stim 7289868-7293369:508 bG cylinder0 props sq0.00 xo-5.68 yo1.05 wi5.00 hi5.00 or180.00 sf1.00 tf10.00 dx-0.3000 se10376 id7375 bd-0.0100 sz5.00 op=+cn+cp+sc+cd+bm 
+stim 7294702-7298202:509 bG cylinder0 props sq0.00 xo-5.68 yo1.05 wi6.99 hi7.00 or180.00 sf1.00 tf10.00 dx-0.3000 se10377 id7376 bd-0.0100 sz6.99 op=+cn+cp+sc+cd+bm 
+stim 7299535-7303035:510 bG cylinder0 props sq0.00 xo-5.68 yo1.05 wi3.00 hi3.00 or180.00 sf1.00 tf10.00 dx-0.3000 se10378 id7377 bd-0.0100 sz3.00 op=+cn+cp+sc+cd+bm 
+TrialGood 112: 7283878-7303800 4
+stim 7309701-7313201:511 bG cylinder0 props sq0.00 xo-5.68 yo1.05 wi3.00 hi3.00 or180.00 sf1.00 tf10.00 dx-0.3000 se10379 id7378 bd-0.0100 sz3.00 op=+cn+cp+sc+cd+bm 
+stim 7314535-7318035:512 bG cylinder0 props sq0.00 xo-5.68 yo1.05 wi4.02 hi4.00 or180.00 sf1.00 tf10.00 dx-0.3000 se10380 id7379 bd-0.0100 sz4.01 op=+cn+cp+sc+cd+bm 
+Expt Cancelled
+cm=noback
+mtop=op+do+sq+72+fc+fb+ap+wt+cf+ws+ts+sw+bw+cs+bm+gm+cS+C3
+
+expt: cylinder et=sz e2=e0
+Expt Start (7458094): cylinder Size (H and W) 5.00: 1.00x5 ed=20.1600
+xExpt2: EXPTYPE_NONE 0.55: 0.30x2
