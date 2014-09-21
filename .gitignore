@@ -3,6 +3,7 @@
 .dropbox
 Icon*
 .ipynb*
+*.swp
 
 #built binary
 open-brain
