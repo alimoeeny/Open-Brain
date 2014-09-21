@@ -1,8 +1,11 @@
 # regular junk
 .DS_Store
 .dropbox
-
+Icon*
+.ipynb*
 
 #built binary
 open-brain
 
+# godeps
+.godeps/*
