@@ -1,4 +1,7 @@
 
+get-deps:
+	gpm install
+
 test:
 	go test ./...
 
