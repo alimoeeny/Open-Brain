@@ -1,0 +1,12 @@
+language: go
+
+go:
+  - 1.3
+  - tip
+
+after_script:
+  - FIXIT=$(go fmt ./...); if [ -n "${FIXIT}" ]; then FIXED=$(echo $FIXIT | wc -l); echo "gofmt - ${FIXED} file(s) not formatted correctly, please run gofmt to fix them:\n ${FIXIT} " && exit 1; fi
+
+script:
+  - make test
+
