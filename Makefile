@@ -1,6 +1,6 @@
 
 get-deps:
-	gpm install
+	go get github.com/alimoeeny/gomega
 
 test:
 	go test ./...
